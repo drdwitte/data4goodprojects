@@ -3,7 +3,7 @@
 <head>
 
 <meta charset="utf-8" />
-<title>ScrapingEVA</title>
+<title>TryCrab</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -172,13 +172,24 @@ div#notebook {
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
 
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Get-requests-to-Flemish-geolocation-service">Get requests to Flemish geolocation service<a class="anchor-link" href="#Get-requests-to-Flemish-geolocation-service">&#182;</a></h1><p><a href="https://docs.python.org/3.1/howto/urllib2.html">https://docs.python.org/3.1/howto/urllib2.html</a></p>
+
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[26]:</div>
+<div class="prompt input_prompt">In&nbsp;[63]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="kn">from</span> <span class="nn">selenium</span> <span class="k">import</span> <span class="n">webdriver</span>
-<span class="kn">import</span> <span class="nn">time</span>
+<div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">urllib.request</span>
+<span class="kn">import</span> <span class="nn">urllib.parse</span>
+<span class="kn">import</span> <span class="nn">json</span>
 </pre></div>
 
 </div>
@@ -186,49 +197,60 @@ div#notebook {
 </div>
 
 </div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Details-about-api-if-of-geopunt">Details about api if of geopunt<a class="anchor-link" href="#Details-about-api-if-of-geopunt">&#182;</a></h3><ul>
+<li><p><a href="http://loc.geopunt.be/Help/Api/GET-v2-Location_q_latlon_xy_capakey_poi_c">http://loc.geopunt.be/Help/Api/GET-v2-Location_q_latlon_xy_capakey_poi_c</a></p>
+</li>
+<li><p>international, have a look here: <a href="http://www.latlong.net/">http://www.latlong.net/</a></p>
+</li>
+</ul>
+
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[27]:</div>
+<div class="prompt input_prompt">In&nbsp;[132]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="n">url_eva</span> <span class="o">=</span> <span class="s">&#39;http://www.evavzw.be/resto&#39;</span>
-<span class="n">driver</span> <span class="o">=</span> <span class="n">webdriver</span><span class="o">.</span><span class="n">Firefox</span><span class="p">()</span>
-<span class="n">driver</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url_eva</span><span class="p">)</span>
-</pre></div>
+<div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">latlon_from_address</span><span class="p">(</span><span class="n">address</span><span class="p">):</span>
+      
+    <span class="n">url</span> <span class="o">=</span> <span class="s">&#39;http://loc.geopunt.be/v2/Location?&#39;</span>
+    
+    <span class="c">#strip spaces for more robustness</span>
+    <span class="n">values</span> <span class="o">=</span> <span class="p">{</span><span class="s">&#39;q&#39;</span> <span class="p">:</span> <span class="n">address</span><span class="o">.</span><span class="n">strip</span><span class="p">()}</span>
+    
+    <span class="n">data</span> <span class="o">=</span> <span class="n">urllib</span><span class="o">.</span><span class="n">parse</span><span class="o">.</span><span class="n">urlencode</span><span class="p">(</span><span class="n">values</span><span class="p">)</span>
 
-</div>
-</div>
-</div>
+    <span class="c">#get request is url + data</span>
+    <span class="c">#for POST request you need data.encode(&#39;utf8&#39;) first and use binary_data as a second arg instead of a &#39;+&#39;</span>
+    <span class="n">req</span> <span class="o">=</span> <span class="n">urllib</span><span class="o">.</span><span class="n">request</span><span class="o">.</span><span class="n">Request</span><span class="p">(</span><span class="n">url</span> <span class="o">+</span> <span class="n">data</span><span class="p">)</span>
+    
+    <span class="n">req</span><span class="o">.</span><span class="n">add_header</span><span class="p">(</span><span class="s">&#39;Content-Type&#39;</span><span class="p">,</span> <span class="s">&#39;text/json&#39;</span><span class="p">)</span>
+    <span class="n">response</span> <span class="o">=</span> <span class="n">urllib</span><span class="o">.</span><span class="n">request</span><span class="o">.</span><span class="n">urlopen</span><span class="p">(</span><span class="n">req</span><span class="p">)</span>
+    <span class="n">binary_response</span> <span class="o">=</span> <span class="n">response</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+    <span class="n">decoded</span> <span class="o">=</span> <span class="n">binary_response</span><span class="o">.</span><span class="n">decode</span><span class="p">(</span><span class="s">&#39;utf8&#39;</span><span class="p">)</span>
+    
+    <span class="n">response</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
 
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="n">restaurants</span> <span class="o">=</span> <span class="k">None</span>
-<span class="n">restaurants</span> <span class="o">=</span> <span class="p">[]</span>
-<span class="n">number_of_pages</span> <span class="o">=</span> <span class="mi">83</span>
+    <span class="n">jsonobj</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">loads</span><span class="p">(</span><span class="n">decoded</span><span class="p">)</span>
+    
+    <span class="n">results</span> <span class="o">=</span> <span class="n">jsonobj</span><span class="p">[</span><span class="s">&#39;LocationResult&#39;</span><span class="p">]</span>
+    
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">results</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span> <span class="k">None</span>
+    
+    <span class="n">location</span> <span class="o">=</span> <span class="n">results</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="s">&#39;Location&#39;</span><span class="p">]</span>
 
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="n">number_of_pages</span><span class="o">-</span><span class="mi">1</span><span class="p">):</span>
-    <span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
-    <span class="n">selections</span> <span class="o">=</span> <span class="n">driver</span><span class="o">.</span><span class="n">find_elements_by_class_name</span><span class="p">(</span><span class="s">&#39;node-restaurant&#39;</span><span class="p">)</span>
-    <span class="k">for</span> <span class="n">s</span> <span class="ow">in</span> <span class="n">selections</span><span class="p">:</span>
-        <span class="n">info</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">text</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s">&#39;</span><span class="se">\n</span><span class="s">&#39;</span><span class="p">)</span>
-        <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">info</span><span class="p">)</span><span class="o">&gt;</span><span class="mi">2</span><span class="p">:</span>
-            <span class="n">restaurant</span> <span class="o">=</span> <span class="p">(</span><span class="n">info</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span><span class="n">info</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span><span class="n">info</span><span class="p">[</span><span class="mi">2</span><span class="p">][:</span><span class="mi">4</span><span class="p">],</span><span class="n">info</span><span class="p">[</span><span class="mi">2</span><span class="p">][</span><span class="mi">4</span><span class="p">:],</span> <span class="n">info</span><span class="p">[</span><span class="mi">3</span><span class="p">:])</span>
-        <span class="k">elif</span> <span class="nb">len</span><span class="p">(</span><span class="n">info</span><span class="p">)</span><span class="o">&gt;=</span><span class="mi">1</span><span class="p">:</span>
-            <span class="n">restaurant</span> <span class="o">=</span> <span class="p">(</span><span class="n">info</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span><span class="k">None</span><span class="p">,</span><span class="k">None</span><span class="p">)</span>
+    <span class="n">latkeyID</span> <span class="o">=</span> <span class="s">&#39;Lat_WGS84&#39;</span>
+    <span class="n">lonkeyID</span> <span class="o">=</span> <span class="s">&#39;Lon_WGS84&#39;</span>
+    
+    <span class="k">return</span> <span class="p">(</span><span class="n">location</span><span class="p">[</span><span class="n">latkeyID</span><span class="p">],</span> <span class="n">location</span><span class="p">[</span><span class="n">lonkeyID</span><span class="p">])</span>
         
-        <span class="n">restaurants</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">restaurant</span><span class="p">)</span>
-    
-    <span class="n">selection</span> <span class="o">=</span> <span class="n">driver</span><span class="o">.</span><span class="n">find_element_by_class_name</span><span class="p">(</span><span class="s">&#39;pager-next&#39;</span><span class="p">)</span>
-    <span class="n">selection</span><span class="o">.</span><span class="n">find_element_by_tag_name</span><span class="p">(</span><span class="s">&#39;a&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">click</span><span class="p">()</span>
-    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
-    
-                  
-<span class="n">driver</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
-<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">restaurants</span><span class="p">))</span>    
 </pre></div>
 
 </div>
@@ -238,57 +260,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[29]:</div>
+<div class="prompt input_prompt">In&nbsp;[131]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="n">restaurants</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="n">localhost</span><span class="p">:</span><span class="mi">8888</span><span class="o">/</span><span class="n">notebooks</span><span class="o">/</span><span class="n">ScrapingEVA</span><span class="o">.</span><span class="n">ipynb</span><span class="c">#</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area"><div class="prompt output_prompt">Out[29]:</div>
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>(&apos;Biesbemd&apos;,
- &apos;Kamstraat 33&apos;,
- &apos;3040&apos;,
- &apos;Neerijse&apos;,
- [&apos;Approved by EVA&apos;, &apos;EVA voordeel&apos;, &apos;Veganvriendelijk&apos;])</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[45]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="n">restaurant_objects</span> <span class="o">=</span> <span class="p">[]</span>
-<span class="n">tags</span> <span class="o">=</span> <span class="p">[]</span>
-<span class="k">for</span> <span class="n">r</span> <span class="ow">in</span> <span class="n">restaurants</span><span class="p">:</span>
-    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">r</span><span class="p">)</span><span class="o">!=</span><span class="mi">5</span><span class="p">:</span>
-        <span class="nb">print</span><span class="p">(</span><span class="s">&#39;Bad record: &#39;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">r</span><span class="p">))</span>
-    <span class="k">else</span><span class="p">:</span>
-        <span class="n">o</span> <span class="o">=</span> <span class="p">{</span><span class="s">&#39;name&#39;</span><span class="p">:</span><span class="n">r</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="s">&#39;street&#39;</span><span class="p">:</span><span class="n">r</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="s">&#39;zipcode&#39;</span><span class="p">:</span><span class="n">r</span><span class="p">[</span><span class="mi">2</span><span class="p">],</span> <span class="s">&#39;city&#39;</span><span class="p">:</span><span class="n">r</span><span class="p">[</span><span class="mi">3</span><span class="p">],</span> <span class="s">&#39;tags&#39;</span><span class="p">:</span><span class="n">r</span><span class="p">[</span><span class="mi">4</span><span class="p">]}</span>
-        <span class="n">restaurant_objects</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">o</span><span class="p">)</span>
-        <span class="c">#print(o)</span>
-    
-        <span class="k">if</span> <span class="n">r</span><span class="p">[</span><span class="mi">4</span><span class="p">]</span> <span class="ow">is</span> <span class="ow">not</span> <span class="k">None</span><span class="p">:</span>
-            <span class="n">tags</span><span class="o">.</span><span class="n">extend</span><span class="p">(</span><span class="n">r</span><span class="p">[</span><span class="mi">4</span><span class="p">])</span>
-
-<span class="n">unique_tags</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span><span class="n">tags</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">unique_tags</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span class="nb">print</span><span class="p">(</span><span class="n">latlon_from_address</span><span class="p">(</span><span class="s">&#39;Ruiselede &#39;</span><span class="p">))</span>
 </pre></div>
 
 </div>
@@ -301,90 +276,11 @@ div#notebook {
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Bad record: (&apos;Al Barmaki&apos;, None, None)
-Bad record: (&apos;Bazilikum&apos;, None, None)
-Bad record: (&apos;Tlemcen&apos;, None, None)
-{&apos;Eethuis&apos;, &apos;EVA voordeel&apos;, &apos;100% vegetarisch&apos;, &apos;Snack&apos;, &apos;Cateraar&apos;, &apos;Approved by EVA&apos;, &apos;Veganvriendelijk&apos;, &apos;100% plantaardig&apos;, &apos;Gastronomisch&apos;}
+<pre>(51.06302363494435, 3.38665410746602)
 </pre>
 </div>
 </div>
 
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[46]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">json</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[47]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">json</span>
-<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s">&#39;EVA_restodata.json&#39;</span><span class="p">,</span> <span class="s">&#39;w&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">fp</span><span class="p">:</span>
-    <span class="n">json</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="n">restaurant_objects</span><span class="p">,</span> <span class="n">fp</span><span class="p">,</span> <span class="n">sort_keys</span><span class="o">=</span><span class="k">True</span><span class="p">,</span> <span class="n">indent</span><span class="o">=</span><span class="mi">4</span><span class="p">,</span> <span class="n">separators</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;,&#39;</span><span class="p">,</span> <span class="s">&#39;: &#39;</span><span class="p">))</span>
-
-    
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[48]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="n">tag_objects</span> <span class="o">=</span> <span class="p">[]</span>
-<span class="k">for</span>  <span class="n">t</span> <span class="ow">in</span> <span class="n">unique_tags</span><span class="p">:</span>
-    <span class="n">tag_objects</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s">&quot;tag&quot;</span><span class="p">:</span><span class="n">t</span><span class="p">})</span>
-    
-<span class="nb">print</span><span class="p">(</span><span class="n">tag_objects</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area"><div class="prompt"></div>
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>[{&apos;tag&apos;: &apos;Eethuis&apos;}, {&apos;tag&apos;: &apos;EVA voordeel&apos;}, {&apos;tag&apos;: &apos;100% vegetarisch&apos;}, {&apos;tag&apos;: &apos;Snack&apos;}, {&apos;tag&apos;: &apos;Cateraar&apos;}, {&apos;tag&apos;: &apos;Approved by EVA&apos;}, {&apos;tag&apos;: &apos;Veganvriendelijk&apos;}, {&apos;tag&apos;: &apos;100% plantaardig&apos;}, {&apos;tag&apos;: &apos;Gastronomisch&apos;}]
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[49]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">json</span>
-<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s">&#39;EVA_tags.json&#39;</span><span class="p">,</span> <span class="s">&#39;w&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">fp</span><span class="p">:</span>
-    <span class="n">json</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="n">tag_objects</span><span class="p">,</span> <span class="n">fp</span><span class="p">,</span> <span class="n">sort_keys</span><span class="o">=</span><span class="k">True</span><span class="p">,</span> <span class="n">indent</span><span class="o">=</span><span class="mi">4</span><span class="p">,</span> <span class="n">separators</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;,&#39;</span><span class="p">,</span> <span class="s">&#39;: &#39;</span><span class="p">))</span>
-</pre></div>
-
-</div>
 </div>
 </div>
 

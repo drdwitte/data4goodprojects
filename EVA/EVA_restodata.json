@@ -1,0 +1,6889 @@
+[
+    {
+        "city": "Neerijse",
+        "name": "Biesbemd",
+        "street": "Kamstraat 33",
+        "tags": [
+            "Approved by EVA",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3040"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Falafel Shami",
+        "street": "Hoogstraat 47",
+        "tags": [
+            "Snack",
+            "100% vegetarisch",
+            "Approved by EVA",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Falafel Tof",
+        "street": "Hoogstraat 32",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "100% vegetarisch",
+            "Approved by EVA",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Falafeltof",
+        "street": "Hoogstraat 32",
+        "tags": [
+            "Snack",
+            "100% vegetarisch",
+            "Approved by EVA",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Deurle",
+        "name": "Markies de Salade",
+        "street": "Xavier de Cocklaan 69",
+        "tags": [
+            "Eethuis",
+            "100% plantaardig",
+            "100% vegetarisch",
+            "Approved by EVA",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9831"
+    },
+    {
+        "city": "Ledeberg",
+        "name": "Qorn'r",
+        "street": "Landjuweelstraat 23",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Approved by EVA",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9050"
+    },
+    {
+        "city": "Gent",
+        "name": "Restaurant & Bar Lof",
+        "street": "Hoogstraat 36",
+        "tags": [
+            "Gastronomisch",
+            "Approved by EVA",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Baal",
+        "name": "The Vexican",
+        "street": "C. Huysmansstraat 126",
+        "tags": [
+            "Cateraar",
+            "Snack",
+            "100% vegetarisch",
+            "Approved by EVA",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3128"
+    },
+    {
+        "city": "Diksmuide",
+        "name": "Water en vuur",
+        "street": "IJzerdijk 48",
+        "tags": [
+            "Eethuis",
+            "Approved by EVA",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8600"
+    },
+    {
+        "city": "Voorde",
+        "name": "Bahn Khoun",
+        "street": "Burchtdam 16",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9400"
+    },
+    {
+        "city": "Lokeren",
+        "name": "Bistro Den Bascuul",
+        "street": "Amand de Vosstraat 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9160"
+    },
+    {
+        "city": "Sint - Pauwels",
+        "name": "De Koerier",
+        "street": "Kerkstraat 27",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "9170"
+    },
+    {
+        "city": "Gent",
+        "name": "Pakhuis",
+        "street": "Schuurkenstraat 4",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brugge",
+        "name": "#Food",
+        "street": "Oude Burg 30",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "'De Blauwe Frituur'",
+        "street": "Doorniksesteenweg 22",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "'t Centerken",
+        "street": "Stationsstraat 131",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "'t Koekebakske",
+        "street": "Leeuwestraat 23",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "22b",
+        "street": "Sint-Vincentiusstraat 22b",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Brussel",
+        "name": "A Bubble Tree",
+        "street": "Galerie Ravenstein 30",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Leuven",
+        "name": "A Zamara",
+        "street": "Tiensestraat 123",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Aahaar",
+        "street": "Lange Herentalsestraat 23",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Brussel",
+        "name": "AB Caf\u00e9 - resto",
+        "street": "Steenstraat 23/b",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Aba-jour",
+        "street": "Oudburg 20",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "St-Amandsberg",
+        "name": "Abre la Boca",
+        "street": "Waterstraat 206",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9040"
+    },
+    {
+        "city": "Ieper",
+        "name": "Agadir",
+        "street": "Rijselsestraat 42",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "8900"
+    },
+    {
+        "city": "Brussel",
+        "name": "Ajiyoshi",
+        "street": "Steenkaai 32",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Al Dente",
+        "street": "Vlaamsekaai 52",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": " Brussel",
+        "name": "Al Jannah",
+        "street": "Blaesstraat 59",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Alexander De Grote",
+        "street": "Rodelijvekensstraat 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Nazareth",
+        "name": "Allervita",
+        "street": "Kapellestraat 17",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9810"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "AMAH food is life",
+        "street": "Hugo verriestlaan 142",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Amon",
+        "street": "Dageraadplaats 27",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Wetteren",
+        "name": "Amuz&Vous",
+        "street": "V. Van Sandelaan 33",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9230"
+    },
+    {
+        "city": "Brussel",
+        "name": "Annapurna",
+        "street": "Lakensestraat 26",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Aperto Chiuso",
+        "street": "Sleepstraat 82",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Vissenaken",
+        "name": "Arax",
+        "street": "Gilainstraat 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3300"
+    },
+    {
+        "city": "Brussel",
+        "name": "Arcadi",
+        "street": "Arenbergstraat 1b",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Ardent",
+        "street": "Dageraadplaats 3",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Elsene",
+        "name": "Au Palais des Indes",
+        "street": "Louizalaan 263",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Gent",
+        "name": "Avalon",
+        "street": "Geldmunt 32",
+        "tags": [
+            "Cateraar",
+            "Eethuis",
+            "Gastronomisch",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Azuma",
+        "street": "Verlatstraat 39",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Poeke",
+        "name": "Bacchus",
+        "street": "Aalterweg 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9880"
+    },
+    {
+        "city": "Tielt-Winge",
+        "name": "Bakkerij Hans",
+        "street": "Haksberg 43",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3390"
+    },
+    {
+        "city": "Wommelgem",
+        "name": "Bali",
+        "street": "Autolei 217",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2160"
+    },
+    {
+        "city": "Brussel",
+        "name": "Bambou Fleur",
+        "street": "Jules van Praetstraat 13",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Overpelt",
+        "name": "Bananasplit",
+        "street": "Dorpsstraat 55",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3900"
+    },
+    {
+        "city": "Waregem",
+        "name": "BAOBAB Catering",
+        "street": "Mirakelstraat 104A, 8790 Waregem",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "8790"
+    },
+    {
+        "city": "Brussel",
+        "name": "Bar Bik",
+        "street": "Quai Aux Pierres De Taille 3",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Bar Buenos Aires",
+        "street": "Koepoortbrug 3",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Bar d'Office",
+        "street": "Dambruggestraat 29",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2060"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Bar Italia",
+        "street": "Graaf Van Egmontstraat 59",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Bar Stan",
+        "street": "Constantin Meunierstraat 2",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Barista coffee&cake",
+        "street": "Hippoliet Lippensplein 25 en Meersseniersstraat 16",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Bartilia",
+        "street": "Falconplein 43",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "100% vegetarisch"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Turnhout",
+        "name": "Barzoen",
+        "street": "Warandestraat 42",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "2300"
+    },
+    {
+        "city": "Leuven",
+        "name": "Basecamp",
+        "street": "Naamsestraat 16",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Basic Italian",
+        "street": "Bruul 22",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Etterbeek",
+        "name": "Be Positive",
+        "street": "Jourdanplein 26",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1040"
+    },
+    {
+        "city": "Gent",
+        "name": "Belga Queen",
+        "street": "Graslei 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Oostende",
+        "name": "Belle du jour",
+        "street": "Aartshertoginnestraat 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Brussel",
+        "name": "Bellone Caf\u00e9",
+        "street": "Vlaamsesteenweg 46",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Bhavani",
+        "street": "Simon Stevenplein 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Biko",
+        "street": "Sacramentstraat 3",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Kessel-Lo",
+        "name": "Biokoffiebar Reispunt",
+        "street": "Martelarenlaan 14",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "3010"
+    },
+    {
+        "city": "Widooie (Haren)",
+        "name": "Bistro Bis",
+        "street": "Hemelingenstraat 23",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3700"
+    },
+    {
+        "city": "Aalst",
+        "name": "Bistro D'licious",
+        "street": "Keizersplein 22a",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Bites and Wines",
+        "street": "Oude Beurs 60",
+        "tags": [
+            "Eethuis",
+            "100% plantaardig"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Kalmthout",
+        "name": "Bjorn Matheusen",
+        "street": "Molenstraat 4",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2920"
+    },
+    {
+        "city": " Aalst",
+        "name": "Black and White",
+        "street": "Koostraat 107",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Gent",
+        "name": "Bluesette",
+        "street": "Sint-Kwintensberg 85",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Bollywood",
+        "street": "Lange Herentalsestraat 56",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Brussel",
+        "name": "Bombay Inn",
+        "street": "Greepstraat 38",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Nazareth",
+        "name": "Bonaparte",
+        "street": "Steenweg 231",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9810"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Bonnie + Fr\u00f8",
+        "street": "Lange Koepoortstraat 2/403",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Bonsoir Clara",
+        "street": "Dansaertstraat 22",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": " Brugge",
+        "name": "Books & Brunch",
+        "street": "Garenmarkt 30",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Ronse",
+        "name": "Boon",
+        "street": "Sint Martensstraat 7",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9600"
+    },
+    {
+        "city": " Heist- op- den- Berg ( Hallaar)",
+        "name": "Boshuis Averegten",
+        "street": "Boonmarkt 12",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2220"
+    },
+    {
+        "city": "Oostende",
+        "name": "Bottarga",
+        "street": "Albert I Promenade 64c",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Westouter",
+        "name": "Bourgondie",
+        "street": "Bellestraat 21",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8954"
+    },
+    {
+        "city": "Genk",
+        "name": "Brasserie 360",
+        "street": "Stadsplein 16",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3600"
+    },
+    {
+        "city": "Oostende",
+        "name": "Brasserie Buyl",
+        "street": "A. Buylstraat 44B",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Aalst",
+        "name": "Brasserie Het Element",
+        "street": "Korte Zoutstraat 6v",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Oud-Heverlee",
+        "name": "Brasserie St-Jean",
+        "street": "Waversebaan 157",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3050"
+    },
+    {
+        "city": "Aalst",
+        "name": "Brasseur",
+        "street": "Parklaan 62",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Ukkel",
+        "name": "Brother and sister",
+        "street": "Rue Edith Cavell 178",
+        "tags": [
+            "Cateraar",
+            "Snack"
+        ],
+        "zipcode": "1180"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Burgerij",
+        "street": "Sint-Laureiskaai 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Schoten",
+        "name": "Burgerij",
+        "street": "Brechtsebaan 298",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2900"
+    },
+    {
+        "city": "Aalst",
+        "name": "Bvba Lowie",
+        "street": "Molenstraat 16",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Ledeberg",
+        "name": "Bvba Souperette",
+        "street": "Bellevuestraat 30b",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9050"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Caf\u00e9 Bartilia",
+        "street": "Falconplein 43",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Caf\u00e9 De Kleine Kunst",
+        "street": "Lousbergkaai 99",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Etterbeel",
+        "name": "Caf\u00e9 des \u00e9pices",
+        "street": "Jourdanplein 21",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1040"
+    },
+    {
+        "city": "Sint-Gillis",
+        "name": "Caf\u00e9 des spores",
+        "street": "Chauss\u00e9e d'Alsemberg 103",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1060"
+    },
+    {
+        "city": "Aarschot",
+        "name": "Caf\u00e9 Diner",
+        "street": "Herseltsesteenweg 243",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3200"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Caf\u00e9 Fernand",
+        "street": "Zwevegemsestraat 61",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Caf\u00e9 Latino",
+        "street": "Zuivelmarkt 12",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Elsene",
+        "name": "Caf\u00e9 Panisse",
+        "street": "Rue du Tabellion 31",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Gent",
+        "name": "Caf\u00e9 Parti",
+        "street": "Maria-Hendrikaplein 65a",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Caf\u00e9 Walvis",
+        "street": "Rue A. Dansaertstraat 205",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Cafeabc",
+        "street": "Phillippe de Champagnestraat 23",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Caff\u00e9 Caff\u00e9\u00e9",
+        "street": "Nederkouter 129",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Cantina",
+        "street": "Arenbergstraat 28",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Caramba",
+        "street": "Kaasrui 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Carte Blanche",
+        "street": "Martelaarslaan 321",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Casa di Batavia",
+        "street": "Fran\u00e7ois Benardstraat 80",
+        "tags": [
+            "Cateraar",
+            "Eethuis",
+            "Snack",
+            "EVA voordeel"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Celeste",
+        "street": "Hoogstraat 77",
+        "tags": [],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Sint-Katelijne-Waver",
+        "name": "Centpourcent",
+        "street": "Antwerpsesteenweg 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2860"
+    },
+    {
+        "city": "Brussel",
+        "name": "Ch\u00e9ri Ch\u00e9ri",
+        "street": "Hoogstraat 89 Rue Haute",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Chess Caf\u00e9",
+        "street": "Runkstersteenweg 247",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Gent",
+        "name": "Chess Caf\u00e9",
+        "street": "Ottergemsesteenweg 802",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Etterbeek",
+        "name": "Chez Michel",
+        "street": "Sint-Pieterssteenweg 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1040"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Chez Vincent",
+        "street": "Suikerrui 25",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Overijse",
+        "name": "Chi Chi's",
+        "street": "Brusselsesteenweg 541",
+        "tags": [],
+        "zipcode": "3090"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Chickpea",
+        "street": "Oudaan 4",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Choosy",
+        "street": "Steenstraat 40",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Cigk\u00f6ftem",
+        "street": "Wondelgemstraat 86",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Bavikhove-Harelbeke",
+        "name": "CILIMANGARO",
+        "street": "Koeksken 31",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "8531"
+    },
+    {
+        "city": "Gent",
+        "name": "Clouds In My Coffee",
+        "street": "Dendermondsesteenweg 104",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Zaventem",
+        "name": "Coco Mango",
+        "street": "Vilvoordelaan 89",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1930"
+    },
+    {
+        "city": "Gent",
+        "name": "Coeur d'Artichaut",
+        "street": "Korenlei 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Com.media",
+        "street": "Oude Markt 55",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Como Como",
+        "street": "Antoine Dansaert 19",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "ComoComo",
+        "street": "Kammenstraat 75",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Drogenbos",
+        "name": "Cook-Om",
+        "street": "Rue Marie Collart",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1620"
+    },
+    {
+        "city": "Sint-Joris (Beernem)",
+        "name": "Cooking@home",
+        "street": "Lattenklieversstraat 145",
+        "tags": [
+            "Cateraar",
+            "100% vegetarisch",
+            "EVA voordeel"
+        ],
+        "zipcode": "8730"
+    },
+    {
+        "city": "Beernem",
+        "name": "cookingathome",
+        "street": "Lattenklieversstraat 145",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "8730"
+    },
+    {
+        "city": "Waardamme",
+        "name": "Cowboy Up",
+        "street": "Kortrijksestraat 350",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8020"
+    },
+    {
+        "city": "Elsene",
+        "name": "Cr\u00eaperie au p\u2019tit Breton",
+        "street": "Amerikaansestraat 117",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Oostende",
+        "name": "Cristallo",
+        "street": "Alfons Pieterslaan 35",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Borgerhout",
+        "name": "Cucina dell'arte",
+        "street": "koxplein 28",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2140"
+    },
+    {
+        "city": "Borgerhout",
+        "name": "Cucina dell\u2019arte",
+        "street": "Koxplein 28",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2140"
+    },
+    {
+        "city": "Mechelen",
+        "name": "d'Afspraak",
+        "street": "Keizeerstraat 23",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Leuven",
+        "name": "D'entreprise",
+        "street": "Naamsestraat 18",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Dali",
+        "street": "Kasteellaan 51",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Sterrebeek",
+        "name": "dauranta vzw",
+        "street": "Hippodroomlaan 173",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "1933"
+    },
+    {
+        "city": "Leuven",
+        "name": "De Appel",
+        "street": "Ravenstraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "De Appelier",
+        "street": "Citadellaan 47",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Retie",
+        "name": "De Bospaddestoel",
+        "street": "Beverdonk 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2470"
+    },
+    {
+        "city": "Wellen",
+        "name": "De Bottelarij",
+        "street": "Ulbeekstraat 21",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3830"
+    },
+    {
+        "city": "Brugge",
+        "name": "De Bottelier",
+        "street": "St.Jacobsstraat 63",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "De Broers van Julienne",
+        "street": "Kasteelpleinstraat 45-47",
+        "tags": [
+            "Cateraar",
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brugge",
+        "name": "De Bron",
+        "street": "Katelijnestraat 82",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Gent",
+        "name": "De Brooderie",
+        "street": "Jan Breydelstraat 8",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brugge",
+        "name": "De Buhne",
+        "street": "Sint-Salvatorskoorstraat 6",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Berchem",
+        "name": "De Burgerij",
+        "street": "Tramplein 2",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2600"
+    },
+    {
+        "city": "Lier",
+        "name": "De Comeet",
+        "street": "Florent van Cauwenberghstraat 16&18",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2500"
+    },
+    {
+        "city": " Leuven",
+        "name": "De Dijlemolens",
+        "street": "Zwarte zustersstraat 16/4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "De Fobie",
+        "street": "Brusselsepoortstraat 61",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Hofstade",
+        "name": "De Frietkampioen",
+        "street": "Steenweg naar Oudegem 151",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9308"
+    },
+    {
+        "city": "Gent",
+        "name": "De Frietketel",
+        "street": "Papegaaistraat 89",
+        "tags": [
+            "Snack",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Scheldewindeke",
+        "name": "De Frietketel",
+        "street": "Dorp 36 A1",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9860"
+    },
+    {
+        "city": "Leopoldsburg",
+        "name": "De Gastvrijheid",
+        "street": "Koningin Astridplein 40",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3970"
+    },
+    {
+        "city": "Sint-Pieters-Rode",
+        "name": "De Gelaarsde Kat",
+        "street": "Gobbelsrode 68a",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3320"
+    },
+    {
+        "city": "Hasselt",
+        "name": "De geletterde mens",
+        "street": "Kolonel Dusartplein 48",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Teralfene",
+        "name": "De Glazen Toren",
+        "street": "Domentstraat 45",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "1790"
+    },
+    {
+        "city": "Sint Amandsberg",
+        "name": "De Goede Zaak",
+        "street": "Emiel Maeyensstraat 22",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9040"
+    },
+    {
+        "city": "Hasselt",
+        "name": "De Goei Goesting",
+        "street": "Zuivelmarkt 18",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Oostende",
+        "name": "De Graankorrel",
+        "street": "Edith Cavellstraat 86",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Hasselt",
+        "name": "De Groene Hendrickx",
+        "street": "Zuivelmarkt 25",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Gent",
+        "name": "De Groene Waaier",
+        "street": "Schoonmeersstraat 25",
+        "tags": [
+            "Cateraar",
+            "Gastronomisch",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "nvriendelijk",
+        "name": "De Grote post",
+        "street": "Eethuis",
+        "tags": [],
+        "zipcode": "Vega"
+    },
+    {
+        "city": "Zonhoven",
+        "name": "De Hofmakerij vzw",
+        "street": "Koningsbergweg 28",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3520"
+    },
+    {
+        "city": "Brugge - Sint Kruis",
+        "name": "De Jonkman",
+        "street": "Maaltsesteenweg 438",
+        "tags": [
+            "Gastronomisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8310"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "De Juliette",
+        "street": "Ijzerenwaag 4",
+        "tags": [
+            "Cateraar",
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Zoersel",
+        "name": "De Kadee",
+        "street": "Handelslei 164",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2980"
+    },
+    {
+        "city": "Gent",
+        "name": "De Kastart",
+        "street": "Onderbergen 42",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Rumbeke",
+        "name": "De Kleine Prins",
+        "street": "Rijstelstraat 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8800"
+    },
+    {
+        "city": "Zottegem",
+        "name": "De Kleine Prins",
+        "street": "Stationsstraat 33",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9620"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "De KleinKeuken",
+        "street": "Budastraat 8",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Leuven",
+        "name": "De Koerier van Navarra",
+        "street": "Tervuursevest 130",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Leuven",
+        "name": "De Kruimel",
+        "street": "Tiensestraat 92",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Vorst, Kempen",
+        "name": "De Kruimel",
+        "street": "Dikstraat 3",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2430"
+    },
+    {
+        "city": "Voorde",
+        "name": "De Lavendel",
+        "street": "Lavendelstraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9400"
+    },
+    {
+        "city": "Hasselt",
+        "name": "De Levensboom",
+        "street": "Leopoldplein 44",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Sleidinge",
+        "name": "De Lieve's Bistronoom",
+        "street": "Rabotstraat 120",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9940"
+    },
+    {
+        "city": "Noorderwijk",
+        "name": "De Mangerie",
+        "street": "Bovenrij 17",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2200"
+    },
+    {
+        "city": "Brussel",
+        "name": "De Markten",
+        "street": "Oude Graanmarkt 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brussel",
+        "name": "De Markten",
+        "street": "Oude Graanmarkt 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Lier",
+        "name": "De Nieuwe Schapestal",
+        "street": "Koning Albertstraat 3",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2500"
+    },
+    {
+        "city": "Gent",
+        "name": "De Onvrije Schipper",
+        "street": "Korenlei 7A",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "De Orangerie",
+        "street": "Walputstraat 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Tessenderlo",
+        "name": "De oude post",
+        "street": "Stationsstraat 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3980"
+    },
+    {
+        "city": "Gent",
+        "name": "De Panda",
+        "street": "Oudburg 38A",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "De Piero",
+        "street": "Sint-Goriksplein 21-22",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Waregem",
+        "name": "De Postelein",
+        "street": "Holstraat 40",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8790"
+    },
+    {
+        "city": "Waregem",
+        "name": "De Postelein Natuur Eethuis",
+        "street": "Holstraat 40",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "8790"
+    },
+    {
+        "city": "Noorderwijk",
+        "name": "De Posterijen",
+        "street": "Markt 13",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2200"
+    },
+    {
+        "city": "Hasselt",
+        "name": "De Preuverie",
+        "street": "Paardsdemerstraat 21",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "De Promenade",
+        "street": "Veemlarkt 30",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "De Regent",
+        "street": "Regentiestraat 3",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Noorderwijk",
+        "name": "De Repertoire",
+        "street": "Poederleeseweg 15",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2200"
+    },
+    {
+        "city": "Brugge",
+        "name": "De Republiek",
+        "street": "St. Jacobsstraat 36",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Gent",
+        "name": "De Retraite",
+        "street": "Sleepstraat 210",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Zoutenaaie",
+        "name": "De Reygaerd",
+        "street": "Reygaerddijkstraat 22",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8630"
+    },
+    {
+        "city": "Hasselt",
+        "name": "De Sladerij",
+        "street": "Havermarkt 39",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Brugge",
+        "name": "De Stoepa",
+        "street": "Oostmeers 124",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Stokrooie",
+        "name": "De Stroobander",
+        "street": "St. Jozefsplein 13",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3511"
+    },
+    {
+        "city": "Gent",
+        "name": "De vegetarische kookstudio",
+        "street": "Gustaaf Carelshof 6",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9040"
+    },
+    {
+        "city": "Lommel",
+        "name": "De Volksmacht",
+        "street": "Kerkplein 15",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3920"
+    },
+    {
+        "city": "Gent",
+        "name": "De Vooruit",
+        "street": "Sint-Pietersnieuwstraat 23",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "De Walrus",
+        "street": "Coupure Links 497,",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "De Warempel",
+        "street": "Zandberg 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Turnhout",
+        "name": "De Weerelt",
+        "street": "Warandestraat 17-19",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2300"
+    },
+    {
+        "city": "Leuven",
+        "name": "De Wiering",
+        "street": "Wieringstraat 2",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Westmeerbeek",
+        "name": "De Wingerd",
+        "street": "Grote Baan 68",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2235"
+    },
+    {
+        "city": "Rumbeke",
+        "name": "De Zalm",
+        "street": "Grote Markt",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8800"
+    },
+    {
+        "city": "Assebroek",
+        "name": "De Zonnekeuken",
+        "street": "Felix Timmermansstraat 24 8310 Assebroek",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "8310"
+    },
+    {
+        "city": "Ledeberg",
+        "name": "De Zuidkant",
+        "street": "Frederik Burvenichstraat 156",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9050"
+    },
+    {
+        "city": "Gentbrugge",
+        "name": "De Zuidkant",
+        "street": "Frederik Burvenichstraat 156",
+        "tags": [
+            "Cateraar",
+            "Eethuis",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9050"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "deDingen",
+        "street": "Budastraat 12",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Brugge",
+        "name": "Delaney's Irish Pub & Restaurant",
+        "street": "Burg 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Borgerhout",
+        "name": "Delhi Delicious",
+        "street": "Gitschotellei 379",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2140"
+    },
+    {
+        "city": "Aalst",
+        "name": "Deluxe Burger",
+        "street": "Gentsestraat 45",
+        "tags": [
+            "Snack",
+            "EVA voordeel"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Den Akker",
+        "street": "Nauwstraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Den aperitief",
+        "street": "Bolivarplaats 3",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Zoersel",
+        "name": "Den boer van Zoersel",
+        "street": "Rodendijk 32",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2980"
+    },
+    {
+        "city": "Ieper",
+        "name": "Den Olifant",
+        "street": "Diksmuidestraat 44",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8900"
+    },
+    {
+        "city": "Brussel",
+        "name": "Den Teepot",
+        "street": "Kartuizersstraat 66",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Dewerf",
+        "street": "Hogeschoolplein 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Divino",
+        "street": "Kartuizersstraat 56",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Sint-Martens-Latem",
+        "name": "Dolce Far Niente",
+        "street": "Kortrijksesteenweg 210",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9830"
+    },
+    {
+        "city": "Brussel",
+        "name": "Dolma",
+        "street": "Elsense Steenweg 329",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Dome",
+        "street": "Grotehondstraat 2",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Double Dragons",
+        "street": "Hasseltweg 214",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Brugge",
+        "name": "Du Phare",
+        "street": "Sasplein 2",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Gent",
+        "name": "Eat Love Pizza",
+        "street": "Ajuinlei 10a",
+        "tags": [
+            "Gastronomisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Borgerhout",
+        "name": "Ecocaf\u00e9",
+        "street": "Turnhoutsebaan 139",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2140"
+    },
+    {
+        "city": "Gent",
+        "name": "Eetcaf\u00e9 De Lieve",
+        "street": "Sint-Margrietstraat 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Eetcafe Toreke",
+        "street": "Vlotstraat 22",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leffinge",
+        "name": "Eethuis Kromme Elleboog",
+        "street": "Torhoutsesteenweg 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8432"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Eigenwijs",
+        "street": "Ankerstraat 2",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Oostende",
+        "name": "El Mariachi",
+        "street": "Kapucijnestraat 44",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Gent",
+        "name": "El Pincho",
+        "street": "Brabantdam 82",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "El Sombrero",
+        "street": "Lei 25",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Elsene",
+        "name": "El Vergel",
+        "street": "Troonstraat 39",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Schaarbeek",
+        "name": "Elan",
+        "street": "Vooruitgangstraat 331",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1030"
+    },
+    {
+        "city": "Schaarbeek",
+        "name": "Elan",
+        "street": "Vooruitgangstraat 331",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1030"
+    },
+    {
+        "city": "Schaerbeek",
+        "name": "Elan vzw",
+        "street": "Vooruitgangstraat 331",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1030"
+    },
+    {
+        "city": "Sint-Maria-Horebeke",
+        "name": "Elim",
+        "street": "Dorpstraat 30",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9667"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Ellis Gourmet burger",
+        "street": "Ijzerleen 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Brussel",
+        "name": "Ellis Gourmet Burger",
+        "street": "Sint-Katelijneplein 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Stevoort",
+        "name": "Elsartmolen",
+        "street": "Herkkantstraat 58",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3512"
+    },
+    {
+        "city": "Les Bulles - Nederland",
+        "name": "Enig Alternatief",
+        "street": "Wielakkerstraat 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "6811"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Eten vol leven",
+        "street": "Minderbroedersrui 52",
+        "tags": [
+            "Eethuis",
+            "100% plantaardig",
+            "EVA voordeel"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Ette-Ibibio",
+        "street": "Zwijnaardsesteenweg 104",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Exki",
+        "street": "Wiegstraat 7-9",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Elsene",
+        "name": "Exki",
+        "street": "Elsensesteenweg 12",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Exki",
+        "street": "Wiegstraat 7-9",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Exki",
+        "street": "Sint Michielshelling 2",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Exki",
+        "street": "Wiegstraat 7-9",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Exki",
+        "street": "Wiegstraat 7-9",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Express",
+        "street": "Houtbriel 12",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Hoboken",
+        "name": "Extra Time",
+        "street": "Louisalei 24",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "2660"
+    },
+    {
+        "city": "Gent",
+        "name": "Fabula Rasa",
+        "street": "Fr. Lousbergkaai 134",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Faim Fatale",
+        "street": "Zuidstationstraat 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Faki",
+        "street": "Sleepstraat 112",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Falafel",
+        "street": "Korte Herentalsestraat 60",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Falafel Beni",
+        "street": "Lange Leemstraat 188",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Falafel Punt",
+        "street": "Rooiegemlaan 389",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Fanny Thai",
+        "street": "Jules van Praetstraat 36",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Oostende",
+        "name": "Faro",
+        "street": "Vindictivelaan 3b",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Brussel",
+        "name": "Feux de Bengale",
+        "street": "Spoormakersstraat 69",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Fez",
+        "street": "Kloosterstraat 52",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": " Gent",
+        "name": "Fin de Faim",
+        "street": "Hoogstraat 73",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Fin du Monde",
+        "street": "Keizer Karelstraat 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Finjan",
+        "street": "Graaf Van Hoornestraat 1",
+        "tags": [
+            "Snack",
+            "EVA voordeel"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Dendermonde",
+        "name": "Flammazien",
+        "street": "Brusselsestraat 72",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9200"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Florian",
+        "street": "Fruitmarkt 22",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Gent",
+        "name": "Foley's Irish Pub",
+        "street": "Recolettenlei 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Rumbeke",
+        "name": "Fonduehuis La Paix",
+        "street": "Ardooisesteenweg 74",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8800"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "foodlovers companie",
+        "street": "Somm\u00e9straat 45",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2060"
+    },
+    {
+        "city": "Sterrebeek",
+        "name": "foodshop.be",
+        "street": "Hippodroomlaan 173",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "1933"
+    },
+    {
+        "city": "Brugge",
+        "name": "Foresti\u00e8re",
+        "street": "Academiestraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Gent",
+        "name": "Frietcultuur",
+        "street": "Kantienberg 28",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Frituur & Veggie Eetboetiek Royal",
+        "street": "Langestraat 181 A",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Gent",
+        "name": "Frituur 'Dulle Friet'",
+        "street": "Vlasmarkt 1",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Wetteren",
+        "name": "Frituur 't Hoekske",
+        "street": "Koningin Astridlaan 54",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9230"
+    },
+    {
+        "city": "Zandvoorde",
+        "name": "Frituur Cannibal",
+        "street": "Hertstraat 8",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Zoerle-Parwijs",
+        "name": "Frituur De Levensweg",
+        "street": "Abdijstraat 4",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2260"
+    },
+    {
+        "city": "Londerzeel",
+        "name": "Frituur De Linde",
+        "street": "Linde 80",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1840"
+    },
+    {
+        "city": "Lokeren",
+        "name": "Frituur De Markt",
+        "street": "Markt",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9160"
+    },
+    {
+        "city": "Gent",
+        "name": "Frituur De Papegaai",
+        "street": "Annonciadenstraat 17",
+        "tags": [
+            "Snack",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Heverlee",
+        "name": "Frituur Den Dreef",
+        "street": "Naamsesteenweg 58",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "3001"
+    },
+    {
+        "city": "Ledeberg",
+        "name": "Frituur Frietshop Gentbrugge",
+        "street": "Tweekapellenstraat 2",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9050"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Frituur Groeninghe Veemarkt",
+        "street": "Hoek Zwevegemsestraat - Veemarkt 1",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Leuven",
+        "name": "Frituur Movie",
+        "street": "Burgemeestersstraat 42",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Frituur Tervuursepoort",
+        "street": "Tervuursepoort 1",
+        "tags": [],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Funky Food",
+        "street": "Stationsstraat 9A",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Garden of India",
+        "street": "Oude Koornmarkt 60",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Elsene",
+        "name": "Garuda",
+        "street": "Adolphe Buylstraat 25",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Gent",
+        "name": "Gaston",
+        "street": "wiedauwkaai 52",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Vucht",
+        "name": "Gastronomia Cellini",
+        "street": "Maasmechelen Village",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3630"
+    },
+    {
+        "city": "Gent",
+        "name": "Gate of India",
+        "street": "Oudburg 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Uitbergen",
+        "name": "Gaver 15",
+        "street": "Gaver 15",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9290"
+    },
+    {
+        "city": "Rotselaar",
+        "name": "Geert Groffen",
+        "street": "Aarschotsesteenweg 10",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "3110"
+    },
+    {
+        "city": "Brussel",
+        "name": "Gourmet d'Asie",
+        "street": "Van Arteveldestraat 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Graspoort",
+        "street": "Begijnenstraat 28",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Wetteren",
+        "name": "Green Note",
+        "street": "Nieuwstraat 1",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "9230"
+    },
+    {
+        "city": "Kessel-Lo",
+        "name": "Green Palace",
+        "street": "Diestsesteenweg 66",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3010"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Greenfield 2",
+        "street": "Nekkerspoelstraat 5",
+        "tags": [],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Gent",
+        "name": "Greenway",
+        "street": "Nederkouter 42",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Greenway Antwerpen",
+        "street": "Groenplaats 6",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Sint - Gillis",
+        "name": "Greenway Brussel-Zuid",
+        "street": "Fonsnylaan 46 bus 18",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1060"
+    },
+    {
+        "city": "Leuven",
+        "name": "Greenway Leuven",
+        "street": "Parijsstraat 12",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Grenoble",
+        "street": "Kokkelbeekstraat 34",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Gent",
+        "name": "G\u00fclhan",
+        "street": "Sleepstraat 70",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Gusto",
+        "street": "Sint Pietersnieuwstraat 116",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Borgerhout",
+        "name": "Hacienda POPULAR",
+        "street": "Prins Leopoldstraat 51",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2140"
+    },
+    {
+        "city": "Brussel",
+        "name": "Happy Buddha",
+        "street": "E. Jacqmainlaan 7",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Healthyfoods, samen met De Levensboom te Hasselt",
+        "street": "Molenstraat 33",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Sint-Jans-Molenbeek",
+        "name": "Heksenketel",
+        "street": "Henegouwenkaai 29",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "1080"
+    },
+    {
+        "city": "Brussel",
+        "name": "H\u00e9misph\u00e8res",
+        "street": "Leopoldstraat 29",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Henri",
+        "street": "Vlaamsesteenweg 113",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Het andere idee",
+        "street": "Hauwerstraat 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Het Dagelijks Brood/ Le Pain Quotidien",
+        "street": "Parijsstraat 35",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Zutendaal",
+        "name": "Het Engelenhofke",
+        "street": "Schansstraat 15",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3690"
+    },
+    {
+        "city": "Kessel - Lo",
+        "name": "Het geheim",
+        "street": "B.A. de Becker-Remyplein 19",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3010"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Het Gevoel",
+        "street": "Regentieplein 53",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Oud-Turnhout",
+        "name": "Het Herenhuis",
+        "street": "Dorp 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2360"
+    },
+    {
+        "city": "Herent",
+        "name": "Het huis van Mihr",
+        "street": "Mechelsesteenweg 690",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3020"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Het Laatste Avondmaal",
+        "street": "Sacramentstraat 5",
+        "tags": [],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Nieuwkerke",
+        "name": "Het Labyrint",
+        "street": "Dries 29",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8950"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Het Lastig Portret",
+        "street": "Blindestraat 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Het Magazijn",
+        "street": "Minderbroedersstraat 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Gent",
+        "name": "Het Poorthuis",
+        "street": "Kempstraat 151",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Het Restaurant",
+        "street": "Kempstraat 150",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Aast",
+        "name": "Het Verschil",
+        "street": "Gentsestraat 70",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Beringen",
+        "name": "Het Voorste Huis",
+        "street": "Koerselsesteenweg 15",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "3580"
+    },
+    {
+        "city": "Brussel",
+        "name": "Het Warm Water",
+        "street": "Vossenstraat 25",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Himalaya Restaurant",
+        "street": "Tiensevest 14",
+        "tags": [],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Himalaya Restaurant",
+        "street": "Naamsestraat 51",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Kruishoutem",
+        "name": "Hof Van Cleve",
+        "street": "Riemegemstraat 1",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "9770"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Hoffy's",
+        "street": "Lange Kievitstraat 52",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Stevoort",
+        "name": "Home Cooking",
+        "street": "Pater Raskinstraat 18",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3512"
+    },
+    {
+        "city": "Brussel",
+        "name": "Hong Hoa",
+        "street": "Karperbrug 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent - Ledeberg",
+        "name": "Hot Falafel",
+        "street": "Brusselsesteenweg 17a",
+        "tags": [
+            "Snack",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9050"
+    },
+    {
+        "city": "Manhay",
+        "name": "Hotel les Sources",
+        "street": "Route du Crahay 28",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "6960"
+    },
+    {
+        "city": "Leuven",
+        "name": "House Of Lalibela",
+        "street": "Brusselsestraat 59",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Houtsiplou",
+        "street": "Rouppeplein 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Jette",
+        "name": "Humus Botanical Gastronomy",
+        "street": "Gielelaan 20",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1090"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "I Famosi",
+        "street": "Steenbergstraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brussel",
+        "name": "i latini",
+        "street": "Place Saint Cath\u00e9rine 1a - 2",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "I Ro Ha",
+        "street": "Lange Herentalsestraat 12",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Il Cardinale",
+        "street": "Wollemarkt 22-24",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Gent",
+        "name": "Il Cortile",
+        "street": "Kraanlei 53",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Il Mezzogiorno",
+        "street": "Baudelokaai 17",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Il Pastaio",
+        "street": "Parijsstraat 33",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Il Pastaiolo",
+        "street": "Wiegstraat 18",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Il Pasticcio",
+        "street": "Maastrichterstraat 72",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Leuven",
+        "name": "Il Piccantino",
+        "street": "Drie Engelenberg 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": " Gent",
+        "name": "Illie Mangaro",
+        "street": "Sassevaartstraat 47",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Nieuwerkerken",
+        "name": "In 't Dik Pak",
+        "street": "Pater Rasschaertlaan 8",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9320"
+    },
+    {
+        "city": "Aalst",
+        "name": "In de Maeltydt",
+        "street": "Gentsestraat 91",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Heuvelland ( Dranouter)",
+        "name": "In de Wulf",
+        "street": "Wulvestraat 1",
+        "tags": [
+            "Gastronomisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8950"
+    },
+    {
+        "city": "Leuven",
+        "name": "Inari",
+        "street": "Parijsstraat 18",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Indian Tandoori",
+        "street": "Oude Gentweg 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Gent",
+        "name": "Inner Kitchen",
+        "street": "Land Van Waaslaan 78a",
+        "tags": [
+            "Cateraar",
+            "Eethuis",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "IZIBILIBOCO",
+        "street": "Dorpstraat 36",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "EVA voordeel"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Izumi",
+        "street": "Beeldhouwersstraat 44",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Jackie's Bagelbar",
+        "street": "Vlaanderenstraat 84",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Vlekkem",
+        "name": "Jajo",
+        "street": "Oudenaardsesteenweg 318",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9420"
+    },
+    {
+        "city": "Zottegem",
+        "name": "Jeera Thai",
+        "street": "Zavel 23",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9620"
+    },
+    {
+        "city": "Gent",
+        "name": "Jilles",
+        "street": "Tentoonstellingslaan 165",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Jour de f\u00eate",
+        "street": "Gustaaf Callierlaan 233",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Jour De F\u00eate",
+        "street": "Anspachlaan 181",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Merksem",
+        "name": "Joy's Villa",
+        "street": "Bredabaan 831",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2170"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Juliette",
+        "street": "Ijzerenwaag 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Just like your mom",
+        "street": "Maaltebruggestraat 294",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Kaf\u00e9 Puur",
+        "street": "Schoytestraat 1",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Kalypta",
+        "street": "Parijsstraat 21",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Sint-Gillis",
+        "name": "Kamilou",
+        "street": "Fernand Bernierstraat 15",
+        "tags": [
+            "Cateraar",
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1060"
+    },
+    {
+        "city": "Vorst",
+        "name": "Kamilou",
+        "street": "Van Volxemlaan 354",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1190"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Kamu",
+        "street": "Draakstraat 28",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Schelderode",
+        "name": "Kanazawa",
+        "street": "Hundelgemsesteenweg 242",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9820"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Kantine",
+        "street": "Regentieplein 1",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Gent",
+        "name": "Kapittelhuis",
+        "street": "Lange Kruisstraat 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Kasbah",
+        "street": "Dansaertstraat 20",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Kasteel Walburg",
+        "street": "Walburgstraat 35",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Puurs",
+        "name": "Kers naast de taart",
+        "street": "Winkelveld 4",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2870"
+    },
+    {
+        "city": "Sinaai-Waas",
+        "name": "Keyserhof",
+        "street": "Keizerstraat 69",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9112"
+    },
+    {
+        "city": "Elsene",
+        "name": "Kifkif",
+        "street": "Biarritzsquare 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "King of Bombay",
+        "street": "Breydelstraat 23",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Kioku",
+        "street": "Oude Vaartplaats 47",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Blankenberge",
+        "name": "Klein Begin",
+        "street": "Visserstraat 23",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8370"
+    },
+    {
+        "city": "Wondelgem",
+        "name": "Koe-vert",
+        "street": "Botestraat 61",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9032"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Koek en Ei",
+        "street": "Hendrik Heymanplein 5",
+        "tags": [],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Koekelare",
+        "name": "Kok aan huis Paul De Soete",
+        "street": "Sterrestraat 140 B",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "8680"
+    },
+    {
+        "city": "Sint-Gillis-bij-Dendermonde",
+        "name": "Kokarde",
+        "street": "Grote Markt 9 - 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9200"
+    },
+    {
+        "city": "Brussel",
+        "name": "Kom Kom",
+        "street": "Kruidtuinlaan 13",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Kom Sjee Twa",
+        "street": "Walvisstraat 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Gent",
+        "name": "Komkommertijd",
+        "street": "Reep 14",
+        "tags": [
+            "Eethuis",
+            "100% plantaardig",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Kookpunt",
+        "street": "Hemelrijk 13",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Gent",
+        "name": "Korenhuis",
+        "street": "Hoogpoort 35",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Korenlei Twee",
+        "street": "Korenlei 2",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Koya",
+        "street": "D\u00e9sir\u00e9 Boucherystraat 16",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Krua Thai",
+        "street": "Pelgrimstrtaat 13",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Elsene",
+        "name": "L'Ultime Atome",
+        "street": "Sint Bonifaasstraat 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Elsene",
+        "name": "L'Ultime Atome",
+        "street": "Sint Bonifaasstraat 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Brussel",
+        "name": "La Belle Equipe",
+        "street": "Dansaertstraat 202",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Mechelen",
+        "name": "La Boya",
+        "street": "Gebroeders Verhaegenstraat 16",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Leuven",
+        "name": "La Cucaracha",
+        "street": "Tiensestraat 21",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Brussel",
+        "name": "La Ferme nos Pilifs ASBL",
+        "street": "Trassersweg 347",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "1120"
+    },
+    {
+        "city": "Aaslt",
+        "name": "La Locanda",
+        "street": "Kerkstraat 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Mechelen",
+        "name": "La Loggia",
+        "street": "Korenmarkt 37",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Deinze",
+        "name": "La Luna",
+        "street": "Kortrijkstraat 43",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9800"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "La Luna Rossa",
+        "street": "Nieuwstraat 6",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Brussel",
+        "name": "La Maison des Cr\u00eapes",
+        "street": "Zuidstraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Sint-Gillis",
+        "name": "La maison du peuple",
+        "street": "Sint-Gillisvoorplein 37A",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1060"
+    },
+    {
+        "city": "Gent",
+        "name": "La Malcontenta",
+        "street": "Haringsteeg 7 - 9",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "La Marmite",
+        "street": "Hoogstraat 304",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "La-Roche-en-Ardenne",
+        "name": "La Nature Gourmande",
+        "street": "Rue Pumalet 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "6980"
+    },
+    {
+        "city": "Brussel",
+        "name": "La Papaye Verte",
+        "street": "Rue A. Dansaertstraat 53",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "La Perla",
+        "street": "Sint-Pietersnieuwstraat 212",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Elsene",
+        "name": "La Porte des Indes",
+        "street": "Louisalaan 455",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "La Primavera",
+        "street": "Kronenburgstraat 82",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "La Resistenza",
+        "street": "Brabantdam 82",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "La Rotonda",
+        "street": "Tiensestraat 121",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Veldwezelt",
+        "name": "La Source",
+        "street": "Paalsteenlaan 90",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3620"
+    },
+    {
+        "city": "Leuven",
+        "name": "La Stanza",
+        "street": "Wandelingenstraat 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Herenthout",
+        "name": "La Taperia",
+        "street": "Nijlense steenweg 12",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2270"
+    },
+    {
+        "city": "Etterbeek",
+        "name": "La Terrasse",
+        "street": "Keltenlaan 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1040"
+    },
+    {
+        "city": "Elsene",
+        "name": "La Tsampa",
+        "street": "Livornostraat 109",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Gent",
+        "name": "La Vita Nova",
+        "street": "Steendam 51",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Heldergem",
+        "name": "Labaij Kris",
+        "street": "Stationstraat 220",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9450"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Lan Na Thai",
+        "street": "F. de Merodestraat 59",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Lara kookt voor u",
+        "street": "Tentoonstellingslaan 42",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2020"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Lara kookt voor u",
+        "street": "Van Schoonbekestraat 158",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Brussel",
+        "name": "Le Bar \u00e0 Tapas",
+        "street": "Borgvalstraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Le Bar \u00e0 Tapas",
+        "street": "Borgvalstraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Etterbeek",
+        "name": "Le Bol de Riz",
+        "street": "Waversesteenweg 335",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1040"
+    },
+    {
+        "city": "Schaarbeek",
+        "name": "Le caveau du Max",
+        "street": "Emile Maxlaan 87",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1030"
+    },
+    {
+        "city": "Elsene",
+        "name": "Le Grenier d'Elvire",
+        "street": "Boondaalsesteenweg 339a",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Brussel",
+        "name": "Le Pain Quotidien",
+        "street": "Dansaertstraat 16A",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Le Pain Quotidien",
+        "street": "Philip Stockstraat 21",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Le Pain Quotidien",
+        "street": "Lange Kievitstraat 107",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Le Pain Quotidien",
+        "street": "Kalandeberg 10",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Le Pain Quotidien",
+        "street": "Mechelsesteenweg 45-47",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Le Pain Quotidien",
+        "street": "Steenhouwersvest 48",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Le Pain Quotidien",
+        "street": "Steenhouwersvest 48",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Le Pain Total",
+        "street": "Sint-Pietersnieuwstraat 218",
+        "tags": [
+            "Cateraar",
+            "Snack",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Le Paon Royal",
+        "street": "Oude Graanmarkt 6",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Le Perroquet",
+        "street": "Watteeustraat 31",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Elsene",
+        "name": "Le Pullman",
+        "street": "Luxemburgplein 12",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Brussel",
+        "name": "Le Space: Dum tek veg",
+        "street": "Sleutelstraat 26",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Schaarbeek",
+        "name": "Le Tibet",
+        "street": "Boulevard Auguste Reyers 153",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1030"
+    },
+    {
+        "city": "Gent",
+        "name": "Lekker GEC",
+        "street": "Koningin Maria Hendrikaplein 6",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Lepelblad",
+        "street": "Onderbergen 40",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Les Filles",
+        "street": "Rue du Vieux March\u00e9 aux Grains 46",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Elsene",
+        "name": "Les Jardins de Bagatelle",
+        "street": "Herderstraat 17",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Sint-Gillis",
+        "name": "Les Nourritures",
+        "street": "Sint-Gillisvoorplein 43",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1060"
+    },
+    {
+        "city": "Sint-Gillis",
+        "name": "Les Nourritures Terrestres",
+        "street": "Sint-Gillisvoorplein 43",
+        "tags": [
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1060"
+    },
+    {
+        "city": "raar",
+        "name": "Les Odettes",
+        "street": "2000Regio Antwerpen",
+        "tags": [],
+        "zipcode": "Cate"
+    },
+    {
+        "city": "Watermaal-Bosvoorde",
+        "name": "Les rives du Gange",
+        "street": "avenue de la Fauconnerie 1-5",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "1170"
+    },
+    {
+        "city": "Sint Martens Latem",
+        "name": "Leven in Balans",
+        "street": "Kraaiendonk 36",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9830"
+    },
+    {
+        "city": "Brussel",
+        "name": "Little Asia",
+        "street": "rue St. Cath\u00e9rine St. Katelijnestraat 8",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Little Ethiopia",
+        "street": "Zirkstraat 8",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": " plantaardig",
+        "name": "Little Green Truck",
+        "street": "Cateraar",
+        "tags": [
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "100%"
+    },
+    {
+        "city": "Geel",
+        "name": "Living",
+        "street": "Markt 20",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2440"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Loes & Krikke bvba",
+        "street": "Colonia Congresstraat 42/101",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2060"
+    },
+    {
+        "city": " Gent",
+        "name": "Lokaal",
+        "street": "Brabantdam 100",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "EVA voordeel"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Lombardia",
+        "street": "Lombardenvest 78",
+        "tags": [
+            "Snack",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Lotus",
+        "street": "Wapenmakerstraat 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Nazareth",
+        "name": "Lotus Root",
+        "street": "Stationsstraat 33",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9810"
+    },
+    {
+        "city": "Brussel",
+        "name": "Lotus-Bar",
+        "street": "Rue Joseph Stevensstraat 12",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Loving Hut",
+        "street": "Tiensestraat 65",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Loving Hut Express",
+        "street": "Sint-Katelijneplein",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Loving Hut Venagerie",
+        "street": "Rector De Someplein 13",
+        "tags": [
+            "Eethuis",
+            "100% plantaardig",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Lukemieke",
+        "street": "Vlamingenstraat 55",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Lust",
+        "street": "Napoleon destanbergstraat 3",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Lyrique",
+        "street": "Grote Markt 12",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Leuven",
+        "name": "L\u2019Inizio Pasta Bar",
+        "street": "Parijsstraat 39",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "M-with a view",
+        "street": "Gasmeterlaan 110",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Madam Toertjes",
+        "street": "Vlaamse kaai 72",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Halle",
+        "name": "Mag's Eetbar",
+        "street": "Vandenpeereboomstraat 8",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "1500"
+    },
+    {
+        "city": "Zaventem",
+        "name": "Maharaja",
+        "street": "Vilvoordelaan 39",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1930"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Mai Thai",
+        "street": "Suikerrui Z6",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Maison Blanche",
+        "street": "Maastrichterstraat 82",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Mama Matrea",
+        "street": "Lange Nieuwstraat 13",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Mama's Garden",
+        "street": "Oude Koornmarkt 41-43",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "St-Gillis",
+        "name": "Mammouth",
+        "street": "Ruslandstraat 10",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1060"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Mampoko",
+        "street": "Amerikalei 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Marco Polo Trattoria",
+        "street": "Serpentstraat 11",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Mata Mata & Pili Pili",
+        "street": "Hoogstraat 44",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Matiate",
+        "street": "Groenendaallaan 414",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2030"
+    },
+    {
+        "city": "Schelderode",
+        "name": "Mayom Thai",
+        "street": "Hundelgemsesteenweg 220",
+        "tags": [
+            "Cateraar",
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "9820"
+    },
+    {
+        "city": "Halle",
+        "name": "Me Gusta",
+        "street": "Bergensesteenweg 20",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1500"
+    },
+    {
+        "city": "Melle",
+        "name": "Meridiem",
+        "street": "Brusselsesteenweg 69",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9090"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Merlot",
+        "street": "Regentiestraat 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Met Tijd en Boterhammen",
+        "street": "Nieuwstraat 5",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Wilrijk",
+        "name": "Mezze Bar Efes",
+        "street": "De Kern 13",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2610"
+    },
+    {
+        "city": "Brussel",
+        "name": "Mi-figue Mi-raisin",
+        "street": "Archimedesstraat 71",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Tremelo",
+        "name": "Miel van Kest",
+        "street": "Schrieksebaan 59",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3120"
+    },
+    {
+        "city": "Gent",
+        "name": "Mimosa",
+        "street": "Kongostraat 2",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Elsene",
+        "name": "Mo-Mo",
+        "street": "Rue Defacqzstraat 27",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Teuven",
+        "name": "Moeder de Gans",
+        "street": "Teuven-dorp 60",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3793"
+    },
+    {
+        "city": "Brussel",
+        "name": "Monya",
+        "street": "Zwaluwenstraat 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Moon Eat",
+        "street": "Richard Van Britsomstraat 18",
+        "tags": [],
+        "zipcode": "9100"
+    },
+    {
+        "city": "sel",
+        "name": "Moonfood",
+        "street": "Koloni\u00ebnstraat 58",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "Brus"
+    },
+    {
+        "city": "Gent",
+        "name": "Mosquito Coast",
+        "street": "Hoogpoort 28",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "MOSQUITO DA BEIRA BAIXA",
+        "street": "Dokter Willemsstraat 38",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Brussel",
+        "name": "Mr. Falafel",
+        "street": "Lemonnierlaan 53",
+        "tags": [
+            "Snack",
+            "100% vegetarisch"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Mrs. Beanzz",
+        "street": "Hoefslagstraatje 6",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "EVA voordeel"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Mub'art",
+        "street": "Fernand Scribedreef 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Muday",
+        "street": "Sint-Salvatorstraat 53",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Multatuli",
+        "street": "Huidevetterskaai 40",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Mykene",
+        "street": "Muntstraat 44",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Deurne",
+        "name": "Nam Fong",
+        "street": "Boshovestraat 46-48",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2100"
+    },
+    {
+        "city": "Leuven",
+        "name": "Namaste",
+        "street": "Naamsestraat 25",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Namaste",
+        "street": "Suikerrui 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Native",
+        "street": "Muntstraat 8",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": " vegetarisch",
+        "name": "Natuurfrituur",
+        "street": "Cateraar",
+        "tags": [
+            "Veganvriendelijk"
+        ],
+        "zipcode": "100%"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Navaro",
+        "street": "Parkstraat 5",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Nectar",
+        "street": "Sint Jansstraat 17",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Brussel",
+        "name": "Neuf et Voisin",
+        "street": "Van Arteveldestraat 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Leuven",
+        "name": "New Mexico",
+        "street": "Muntstraat 34",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Ni Hao",
+        "street": "Crutzenstraat 6",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Lommel",
+        "name": "Nori Events",
+        "street": "Kerkweg 1",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3920"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Nostradam",
+        "street": "Blauwhondstraat 25",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Brussel",
+        "name": "Notos",
+        "street": "Livornostraat 154",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Nova",
+        "street": "Grote Markt 9",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Numero Dieci",
+        "street": "Zuivelmarkt 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Nuova Era",
+        "street": "Graaf Van Hoornestraat 3",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Elsene",
+        "name": "O Liban",
+        "street": "Vleurgatsesteenweg 324",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Oats",
+        "street": "Toekomststraat 20",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Gent",
+        "name": "Ocean Garden",
+        "street": "Zwijnaardsesteenweg 399",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Sterrebeek",
+        "name": "Office Traiteur Catering",
+        "street": "Hippodroomlaan 173",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "1933"
+    },
+    {
+        "city": "Leuven",
+        "name": "Officina Clandestina",
+        "street": "Sint-Antoniusberg 6",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Zottegem",
+        "name": "Old Sotteghem",
+        "street": "Markt 3",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9620"
+    },
+    {
+        "city": "Leuven",
+        "name": "OONA Asian Restaurant en Bar",
+        "street": "Parijsstraat 23",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Mol",
+        "name": "Opera",
+        "street": "Kloosterstraat 1",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2400"
+    },
+    {
+        "city": "Liedekerke",
+        "name": "Orangerie",
+        "street": "Schelfhoutstraat 77",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1770"
+    },
+    {
+        "city": "Gent",
+        "name": "Orchidee",
+        "street": "Vlaanderenstraat 105",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Orphyse Chausette",
+        "street": "Charles Hanssensstraat 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Elsene",
+        "name": "Oups",
+        "street": "Lesbroussartstraat 13",
+        "tags": [
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Overvloed",
+        "street": "Dageraadplaats 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Sint-Gillis",
+        "name": "Ozfair",
+        "street": "J.Volderslaan",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1060"
+    },
+    {
+        "city": "Gent",
+        "name": "Pacha Mama",
+        "street": "Jan-Baptist Guinardstraat 9",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Waltwilder",
+        "name": "Padam",
+        "street": "Markt 41",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "3740"
+    },
+    {
+        "city": "Leuven",
+        "name": "Pannenkoekenhuis",
+        "street": "Brusselsestraat 26",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Pappardelle",
+        "street": "Kammerstraat 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Evere",
+        "name": "Paradise of India",
+        "street": "RUE Godefroid Kurth-85",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1140"
+    },
+    {
+        "city": "Gent",
+        "name": "Parnassus",
+        "street": "Oude Houtlei 122",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Passade",
+        "street": "Brusselsesteenweg 301",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Brugge",
+        "name": "Passage",
+        "street": "Dweerstraat 26",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Pasta Hippo",
+        "street": "Pelgrimstraat 1-3",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Pasta Presto",
+        "street": "St. Amandstraat 17",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Pasta winkel",
+        "street": "Hoogstraat 6",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Pasta-Hippo",
+        "street": "Oude Koornmarkt 32-34",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Pastis",
+        "street": "Speelmansrei 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Pataya",
+        "street": "Antoine Dansaertstraat 49",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Patijntje",
+        "street": "Gordunakaai 91",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Patrick Devos",
+        "street": "Zilverstraat 41",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Pattos",
+        "street": "Demerstraat 69",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Paul's Boutique",
+        "street": "Kleine Sint-Jansstraat en Zandstraat 19",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Wulpen",
+        "name": "Peper & Zout",
+        "street": "Albert I Laan 43",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8670"
+    },
+    {
+        "city": "Gent",
+        "name": "Petrus",
+        "street": "Sint-Amandsstraat 15",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Lier",
+        "name": "Pezo",
+        "street": "Eikelstraat 36",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2500"
+    },
+    {
+        "city": "Rumst",
+        "name": "Philippe Van den Bulck",
+        "street": "Hoge Vosbergstraat 11",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2840"
+    },
+    {
+        "city": "Hoboken",
+        "name": "Philippe Van den Bulck",
+        "street": "Graspolderlaan 12",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2660"
+    },
+    {
+        "city": " Brussel",
+        "name": "Picnik",
+        "street": "Vlaamsesteenweg 109",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Booischot",
+        "name": "Piet Konijn",
+        "street": "Kleine Steenweg 155",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2221"
+    },
+    {
+        "city": "Gent",
+        "name": "Pinocchio",
+        "street": "Vlaanderenstraat 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Pocomatto",
+        "street": "Dorpstraat 42",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Merksem",
+        "name": "Poespas Gezondheidsbar",
+        "street": "Bredabaan 430",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2170"
+    },
+    {
+        "city": "Zegelsem (Brakel)",
+        "name": "Ponderspijs",
+        "street": "Rovorst 33",
+        "tags": [
+            "Cateraar",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9660"
+    },
+    {
+        "city": "Zegelsem (Brakel)",
+        "name": "Ponderspijs",
+        "street": "\"Rovorst 33 9660 Zegelsem (Brakel)\"",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9660"
+    },
+    {
+        "city": "Zegelsem (Brakel)",
+        "name": "Ponderspijs",
+        "street": "Rovorst 33",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9660"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Porto Belfino",
+        "street": "Houtbriel 24",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Lokeren",
+        "name": "Postiljon",
+        "street": "Markt 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9160"
+    },
+    {
+        "city": "Tielen",
+        "name": "Potiron",
+        "street": "Geelsebaan 73",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2460"
+    },
+    {
+        "city": "Kasterlee",
+        "name": "Potiron",
+        "street": "Geelsebaan 73",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2460"
+    },
+    {
+        "city": "Geel",
+        "name": "Prepareeke",
+        "street": "Rozendaal 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2440"
+    },
+    {
+        "city": "Heverlee",
+        "name": "Punjab",
+        "street": "Naamsesteenweg 33",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3001"
+    },
+    {
+        "city": "Gent",
+        "name": "Punjab Tandoori",
+        "street": "Sleepstraat 67",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "PurPur",
+        "street": "Parijsstraat 33",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Puur",
+        "street": "Hoogpoort 35",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Aalst",
+        "name": "Qarfa",
+        "street": "Stationstraat 13",
+        "tags": [],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Aalst",
+        "name": "Qarfa",
+        "street": "Stationsstraat 13",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Gent",
+        "name": "Quetzal - De chocoladebar",
+        "street": "Sint-Pietersnieuwstraat 99",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Quiche caf\u00e9",
+        "street": "Botermarkt 11",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Gent",
+        "name": "Quicherie Patiron",
+        "street": "Sluizeken 30",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Quo Vadis",
+        "street": "Muntstraat 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Recyclart vzw",
+        "street": "Ursulinenstraat 25",
+        "tags": [
+            "EVA voordeel"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Torhout",
+        "name": "Red Rooster Fast Food",
+        "street": "Stationsstraat 15",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8820"
+    },
+    {
+        "city": "Brugge",
+        "name": "R\u00e9liva",
+        "street": "Goezeputstraat 6",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Repos et Repas",
+        "street": "Bouwcentrum Pottelberg Engelse Wandeling 2 K17",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Gent",
+        "name": "Restaurant Ateljee",
+        "street": "Vlaamsekaai 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Resto Jardin",
+        "street": "Somm\u00e9straat 45",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "2060"
+    },
+    {
+        "city": "Brussel",
+        "name": "Ricotta & Parmesan",
+        "street": "Schildknaapstraat 31",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Riz d'Or",
+        "street": "Sint-Michielsstraat 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Brugge",
+        "name": "Rock Fort",
+        "street": "Langestraat 15",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Ronda",
+        "street": "Vismarkt 10",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Gent",
+        "name": "Rood",
+        "street": "Sleepstraat 210",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Oudenaarde",
+        "name": "Roodstop",
+        "street": "Deinzestraat 63",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9700"
+    },
+    {
+        "city": "Elsene",
+        "name": "Rouge Tomate",
+        "street": "Louizalaan 190",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Leuven",
+        "name": "Royal Indian Food",
+        "street": "Tervuursestraat 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "S.M.A.K caf\u00e9 by Grade",
+        "street": "Citadelpark",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Tienen",
+        "name": "Sake Sushi House",
+        "street": "Hennemarkt 12",
+        "tags": [],
+        "zipcode": "3300"
+    },
+    {
+        "city": "Gent",
+        "name": "Sala Thai 3",
+        "street": "Hooiaard 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Sale e pepe",
+        "street": "Kasteelpleinstraat 53",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Same same but different",
+        "street": "Doorniksesteenweg 105",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Leuven",
+        "name": "Samourai",
+        "street": "Muntstraat 9",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Sarabande",
+        "street": "Korenlei 1",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Oostende",
+        "name": "Sassy's pizza en pastabar",
+        "street": "Steensedijk 23",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Sava",
+        "street": "Grote Markt 13",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Aalst",
+        "name": "Savarin",
+        "street": "Esplanadeplein 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9300"
+    },
+    {
+        "city": "Zaventem",
+        "name": "Sawadee",
+        "street": "Vilvoordelaan 21",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1930"
+    },
+    {
+        "city": "Kasterlee",
+        "name": "Seven Hill",
+        "street": "Geelsebaan 29/2",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9460"
+    },
+    {
+        "city": "Heverlee",
+        "name": "Siam",
+        "street": "Naamsesteenweg 217",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3001"
+    },
+    {
+        "city": "Vorst",
+        "name": "Sinstreetfood",
+        "street": "Koningsstraat 165",
+        "tags": [
+            "Snack",
+            "100% vegetarisch",
+            "EVA voordeel"
+        ],
+        "zipcode": "1190"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Sjalot en Schanul",
+        "street": "Oude beurs 12",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Skievelat",
+        "street": "J. Stevensstraat 16-18",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Sinaai-Waas",
+        "name": "Smos Express",
+        "street": "Dries 29",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9112"
+    },
+    {
+        "city": "Leuven",
+        "name": "Snackworld",
+        "street": "Naamsevest 4",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Soep en Zoet",
+        "street": "Stationsstraat 16",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Gent",
+        "name": "Soeperstar",
+        "street": "Makelaarstraat 24",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Heusden",
+        "name": "Soepkom",
+        "street": "Leegrede 3",
+        "tags": [
+            "Snack",
+            "EVA voordeel"
+        ],
+        "zipcode": "9070"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Soepmie",
+        "street": "Oranjestraat 94",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2060"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Soepmie",
+        "street": "Dambruggestraat 26/1",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2060"
+    },
+    {
+        "city": "Gent",
+        "name": "Soepplus",
+        "street": "Lammerstraat 33",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Lier",
+        "name": "Soetemin",
+        "street": "Schollebeekstraat 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2500"
+    },
+    {
+        "city": "Brugge",
+        "name": "Sol Y Sombra",
+        "street": "Langestraat 121",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "8000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Soul",
+        "street": "Samaritanessestraat 20",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Soup in the City",
+        "street": "Lakensestraat 36",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Ledeberg",
+        "name": "Souperette",
+        "street": "Bellevuestraat 30b",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9050"
+    },
+    {
+        "city": "Gent",
+        "name": "Sous Fleurs",
+        "street": "Zalmstraat 75",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Spaghettiworld",
+        "street": "Oude Koronmarkt 66",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Mechelen",
+        "name": "Spice and taste",
+        "street": "Liersesteenweg 179",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Gent",
+        "name": "Spice of India",
+        "street": "Sleepstraat 66",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Walem",
+        "name": "Spice of India",
+        "street": "Zandpoortvest 22",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Gent",
+        "name": "Spinnekop",
+        "street": "Einde Were 44",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Turnhout",
+        "name": "Sprouts",
+        "street": "Baron du Fourstraat 4 bus 7 (Bloemekensgang)",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2300"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Starfish & Coffee",
+        "street": "Bresstraat 9",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Gent",
+        "name": "Sushi-Food",
+        "street": "Limburgstraat 36",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Sweet Lime",
+        "street": "Kasteelkaai 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Merendree",
+        "name": "t Aards Paradijs",
+        "street": "Merendreedorp 65",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "9850"
+    },
+    {
+        "city": "Leest",
+        "name": "t Archief",
+        "street": "Frans Reyniersstraat 17-19",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "2811"
+    },
+    {
+        "city": "Heist-op-den-Berg",
+        "name": "t Eetkafee",
+        "street": "Bergstraat 2b",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2220"
+    },
+    {
+        "city": "Heldergem",
+        "name": "t Friethoeksken",
+        "street": "Kerkskenhoek 39",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9450"
+    },
+    {
+        "city": "Zalardinge",
+        "name": "t Goed Verteer",
+        "street": "Oudenaardsestraat 28",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9500"
+    },
+    {
+        "city": "Zalardinge",
+        "name": "t Goed Verteer",
+        "street": "Oudenaardsestraat 28",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9500"
+    },
+    {
+        "city": "Gent",
+        "name": "t Gouden hoofd",
+        "street": "Slachthuisstraat 96",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Nieuwerkerken",
+        "name": "t Groen Blad",
+        "street": "Kemmelstraat 94",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8950"
+    },
+    {
+        "city": "Rupelmonde",
+        "name": "t Hofke van Bazel",
+        "street": "Koningin Astridplein 11-13",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "9150"
+    },
+    {
+        "city": "Kortrijk-Dutsel (Holsbeek)",
+        "name": "t Kraaienest",
+        "street": "Gobbelsrode 74B",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3220"
+    },
+    {
+        "city": "Waardamme",
+        "name": "t Oud Gemeentehuis",
+        "street": "Kortrijksstraat 405",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8020"
+    },
+    {
+        "city": "Waardamme",
+        "name": "t Roodhof",
+        "street": "Nieuwburgstraat 32",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "8020"
+    },
+    {
+        "city": "Poeke",
+        "name": "t Vijfde Seizoen",
+        "street": "Stationsstraat 9",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "9880"
+    },
+    {
+        "city": "Waltwilder",
+        "name": "t Vlierhof",
+        "street": "Hasseltsestraat 57A",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "3740"
+    },
+    {
+        "city": "Sint-Amandsberg",
+        "name": "Table d'amis",
+        "street": "Gustaaf Carelshof 6",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "9040"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Taj Mahal",
+        "street": "Statiestraat 15",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Zepperen",
+        "name": "Taj Mahal",
+        "street": "Stationsstraat 53",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3800"
+    },
+    {
+        "city": "Elsene",
+        "name": "Tan",
+        "street": "Waterleidingstraat 95",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Tangh's",
+        "street": "Kasteelpleinstraat 36",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Brussel",
+        "name": "Tarte Julie",
+        "street": "E. Jacqmainlaan 56",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Middelkerke",
+        "name": "Tartine",
+        "street": "Zeedijk 153",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "8430"
+    },
+    {
+        "city": "Gent",
+        "name": "Tartino",
+        "street": "Predikherenlei 25",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Oudenaarde",
+        "name": "Taste and Flavor",
+        "street": "Markt 60",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9700"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Taste of India",
+        "street": "Fruitmarkt 26",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Tasty Bowl",
+        "street": "Fruitmarkt 34",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Gent",
+        "name": "Tasty I",
+        "street": "Walpoortstraat 3",
+        "tags": [
+            "Snack",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Tasty II",
+        "street": "Hoogpoort 1",
+        "tags": [
+            "Snack",
+            "100% vegetarisch",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Rocourt",
+        "name": "Tasty III",
+        "street": "Rue de la casquette 17",
+        "tags": [
+            "Snack",
+            "100% vegetarisch",
+            "EVA voordeel"
+        ],
+        "zipcode": "4000"
+    },
+    {
+        "city": "Nijlen",
+        "name": "Taverne De Beemden",
+        "street": "Vogelzangstraat 29",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2560"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Terras caf\u00e9 (Hilton)",
+        "street": "Groenplaats 32",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Diegem",
+        "name": "Testa Rossi",
+        "street": "Oude Haachtsesteenweg 119",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1831"
+    },
+    {
+        "city": "Sint-Michiels",
+        "name": "T\u00eate Press\u00e9e",
+        "street": "Koningin Astridlaan 100",
+        "tags": [
+            "Gastronomisch"
+        ],
+        "zipcode": "8200"
+    },
+    {
+        "city": "Zandvoorde",
+        "name": "Tex Mex",
+        "street": "Monacoplein 7",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "8400"
+    },
+    {
+        "city": "Gent",
+        "name": "Thai Cuisine",
+        "street": "Zuidstationstraat 2-4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Thai House",
+        "street": "Alfonssmetsplein",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Thalia",
+        "street": "Sint-Pietersnieuwstraat 138",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Than Thai",
+        "street": "Lekkerbeetstraat 4-10",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Ledeberg",
+        "name": "Thawan Thai Take Away",
+        "street": "Jacques Eggermontstraat 72",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9050"
+    },
+    {
+        "city": "Gent",
+        "name": "The Lounge",
+        "street": "The Lounge",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "The New Holy Cow",
+        "street": "Naamsestraat 51",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Leuven",
+        "name": "The sushi lounge",
+        "street": "Oude markt 34",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Kessel-Lo",
+        "name": "The Worldkitchen",
+        "street": "Wilselsesteenweg 321",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3010"
+    },
+    {
+        "city": "Hasselt",
+        "name": "Theatercaf\u00e9",
+        "street": "Kunstlaan 5",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3500"
+    },
+    {
+        "city": "Brussel",
+        "name": "Thien Long",
+        "street": "Van Arteveldestraat 12",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Time Out",
+        "street": "Lange Herentalsestraat 58",
+        "tags": [
+            "100% vegetarisch"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Leuven",
+        "name": "Timory",
+        "street": "Brusselsestraat 76",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Tinsel",
+        "street": "Vlaamse kaai 40",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Tiva",
+        "street": "Oudburg 43",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Toeareg",
+        "street": "Parijsstraat 37",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Toi et moi",
+        "street": "Sint-Michielsstraat 31",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Tokyo Sushi",
+        "street": "Haarstraat 8",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Elsene",
+        "name": "Tom Yam",
+        "street": "Chaussee de Boondaalsesteenweg 341",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Brussel",
+        "name": "Toukoul",
+        "street": "Lakenstraat 34",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Trafiek",
+        "street": "Haspelstraat 37",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Rotselaar",
+        "name": "Traiteur Geert Groffen",
+        "street": "Aarschotsesteenweg 10",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "3110"
+    },
+    {
+        "city": "Berchem",
+        "name": "Trizee Privee",
+        "street": "Thaliastraat 84",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2600"
+    },
+    {
+        "city": "Gent",
+        "name": "Tuin van Eten",
+        "street": "Kortrijksestesteenweg 573",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Leuven",
+        "name": "Turquoise",
+        "street": "Naamsevest 6",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Voorde",
+        "name": "Tweety Frit",
+        "street": "Brusselsesteenweg 73",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9400"
+    },
+    {
+        "city": "Gent",
+        "name": "Twilight Eetcaf\u00e9",
+        "street": "Korenmarkt 36",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Gent",
+        "name": "Uit Steppe & Oase",
+        "street": "Jan Breydelstraat 21",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Umami",
+        "street": "Magdalenastraat 8",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Zwalm",
+        "name": "Un.Do",
+        "street": "Veldstraat 4",
+        "tags": [
+            "Eethuis",
+            "EVA voordeel"
+        ],
+        "zipcode": "9630"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Urban wraps",
+        "street": "Minderbroedersrui 64",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Urvashi",
+        "street": "Verschansingstraat 63",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Hoogstraten",
+        "name": "Vandersmissen Feestservice BVBA",
+        "street": "Vrijheid 64",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2320"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Varelli",
+        "street": "Plantinkaai 15",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Bornem",
+        "name": "Vegabites",
+        "street": "Woestijnstraat 53A",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2880"
+    },
+    {
+        "city": "Leuven",
+        "name": "Vegaverso",
+        "street": "Tiensestraat 22",
+        "tags": [
+            "Eethuis",
+            "100% plantaardig",
+            "100% vegetarisch"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": " vegetarisch",
+        "name": "Veggiebites",
+        "street": "Cateraar",
+        "tags": [],
+        "zipcode": "100%"
+    },
+    {
+        "city": "Wilsele",
+        "name": "Vera Cruz",
+        "street": "Kolonel Begaultlaan 19",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3012"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Via Via Reiscaf\u00e9",
+        "street": "Wolstraat 43",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Heverlee",
+        "name": "ViaVia Leuven",
+        "street": "Naamsesteenweg 227",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "3001"
+    },
+    {
+        "city": "Walem",
+        "name": "ViaVia Mechelen",
+        "street": "Zandpoortvest 50",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "2800"
+    },
+    {
+        "city": "Merelbeke",
+        "name": "Villa Florazicht",
+        "street": "Hundelgemsesteenweg 182",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9082"
+    },
+    {
+        "city": "Balen",
+        "name": "Villa Muun",
+        "street": "Nieuwstraat 8",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2490"
+    },
+    {
+        "city": "Hamme",
+        "name": "VivaVega / The Loving Hut Express",
+        "street": "Museumstraat 10",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "9220"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Wagamama",
+        "street": "Keyserlei 15",
+        "tags": [
+            "Eethuis",
+            "Snack",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Gent",
+        "name": "Wakame",
+        "street": "Lostraat 32-34",
+        "tags": [],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Meerhout",
+        "name": "Wang Jiang",
+        "street": "Schoolstraat 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2450"
+    },
+    {
+        "city": "Deurne",
+        "name": "Watsoep",
+        "street": "Plankenbergstraat 112 L11",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "2100"
+    },
+    {
+        "city": "Deurne",
+        "name": "Watsoep",
+        "street": "Plankenbergstraat 112 L11",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch"
+        ],
+        "zipcode": "2100"
+    },
+    {
+        "city": "Berchem",
+        "name": "Wattman",
+        "street": "Tramplein 3",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2600"
+    },
+    {
+        "city": " Borgloon",
+        "name": "Welkom India",
+        "street": "Papenstraat 2",
+        "tags": [
+            "Cateraar",
+            "Eethuis"
+        ],
+        "zipcode": "3840"
+    },
+    {
+        "city": "Leuven",
+        "name": "Wereldcaf\u00e9.coop",
+        "street": "Joris Helleputteplein 2",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "3000"
+    },
+    {
+        "city": "Gent",
+        "name": "Wereldrestaurant De Centrale",
+        "street": "Kraankinderstraat 2",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": " Antwerpen",
+        "name": "Wild Project",
+        "street": "Grote Pieter Potstraat 21",
+        "tags": [
+            "Eethuis",
+            "100% vegetarisch",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Sint-Niklaas",
+        "name": "Winny's",
+        "street": "Houtbriel 5",
+        "tags": [
+            "Snack"
+        ],
+        "zipcode": "9100"
+    },
+    {
+        "city": "Brussel",
+        "name": "Witlov",
+        "street": "Stalingradlaan 56",
+        "tags": [
+            "Cateraar"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Gent",
+        "name": "Witte olifant-Chang Phuak",
+        "street": "Zwarte zusterstraat 32",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Wok & Walk",
+        "street": "Koningin Astridplein 32",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2018"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Wok A Way",
+        "street": "Groendalstraat 14",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Gent",
+        "name": "Wokaway",
+        "street": "Korenmarkt 11",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "9000"
+    },
+    {
+        "city": "Elsene",
+        "name": "YAG*",
+        "street": "Rue Washington 59",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1050"
+    },
+    {
+        "city": "Brussel",
+        "name": "Yaki",
+        "street": "Visverkopersstraat 6B",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Kortrijk",
+        "name": "Yanto's Boutique",
+        "street": "Doorniksesteenweg 117",
+        "tags": [
+            "Eethuis",
+            "Snack"
+        ],
+        "zipcode": "8500"
+    },
+    {
+        "city": "Brussel",
+        "name": "Yeti",
+        "street": "Goede Bijstandstraat 4",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "1000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Yuna",
+        "street": "Pelgrimsstraat 2",
+        "tags": [
+            "Eethuis",
+            "Veganvriendelijk"
+        ],
+        "zipcode": "2000"
+    },
+    {
+        "city": "Antwerpen",
+        "name": "Z'Hoor",
+        "street": "Verschansingstraat 28",
+        "tags": [
+            "Eethuis"
+        ],
+        "zipcode": "2000"
+    }
+]
