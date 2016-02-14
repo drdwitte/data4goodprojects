@@ -1,0 +1,736 @@
+city,name,street,tags,zipcode,full_address,latlon,missing
+Neerijse,Biesbemd,Kamstraat 33,"['Approved by EVA', 'EVA voordeel', 'Veganvriendelijk']",3040,Kamstraat 33 3040 Neerijse,"(50.8127340562564, 4.622892881244533)",False
+Antwerpen,Falafel Shami,Hoogstraat 47,"['Snack', '100% vegetarisch', 'Approved by EVA', 'Veganvriendelijk']",2000,Hoogstraat 47 2000 Antwerpen,"(51.21912277399896, 4.39791278664577)",False
+Antwerpen,Falafel Tof,Hoogstraat 32,"['Eethuis', 'Snack', '100% vegetarisch', 'Approved by EVA', 'Veganvriendelijk']",2000,Hoogstraat 32 2000 Antwerpen,"(51.219967595445304, 4.398256839416387)",False
+Antwerpen,Falafeltof,Hoogstraat 32,"['Snack', '100% vegetarisch', 'Approved by EVA', 'Veganvriendelijk']",2000,Hoogstraat 32 2000 Antwerpen,"(51.219967595445304, 4.398256839416387)",False
+Deurle,Markies de Salade,Xavier de Cocklaan 69,"['Eethuis', '100% plantaardig', '100% vegetarisch', 'Approved by EVA', 'Veganvriendelijk']",9831,Xavier de Cocklaan 69 9831 Deurle,"(51.00079815695149, 3.614998033550879)",False
+Ledeberg,Qorn'r,Landjuweelstraat 23,"['Eethuis', '100% vegetarisch', 'Approved by EVA', 'EVA voordeel', 'Veganvriendelijk']",9050,Landjuweelstraat 23 9050 Ledeberg,"(51.037862832515444, 3.740955211608581)",False
+Gent,Restaurant & Bar Lof,Hoogstraat 36,"['Gastronomisch', 'Approved by EVA', 'EVA voordeel', 'Veganvriendelijk']",9000,Hoogstraat 36 9000 Gent,"(51.054712258948776, 3.7151273681040378)",False
+Baal,The Vexican,C. Huysmansstraat 126,"['Cateraar', 'Snack', '100% vegetarisch', 'Approved by EVA', 'EVA voordeel', 'Veganvriendelijk']",3128,C. Huysmansstraat 126 3128 Baal,,True
+Diksmuide,Water en vuur,IJzerdijk 48,"['Eethuis', 'Approved by EVA', 'EVA voordeel', 'Veganvriendelijk']",8600,IJzerdijk 48 8600 Diksmuide,"(51.0318704144283, 2.8543034959990954)",False
+Voorde,Bahn Khoun,Burchtdam 16,['Eethuis'],9400,Burchtdam 16 9400 Voorde,"(50.83207522889307, 4.023544538763293)",False
+Lokeren,Bistro Den Bascuul,Amand de Vosstraat 9,['Eethuis'],9160,Amand de Vosstraat 9 9160 Lokeren,"(51.1471581981293, 3.9593837905030775)",False
+Sint - Pauwels,De Koerier,Kerkstraat 27,"['Cateraar', 'Eethuis']",9170,Kerkstraat 27 9170 Sint - Pauwels,"(51.21816212212936, 4.127191954663045)",False
+Gent,Pakhuis,Schuurkenstraat 4,['Gastronomisch'],9000,Schuurkenstraat 4 9000 Gent,"(51.05327368048533, 3.721594115364494)",False
+Brugge,#Food,Oude Burg 30,['Eethuis'],8000,Oude Burg 30 8000 Brugge,"(51.206539755635134, 3.2236446181979823)",False
+Kortrijk,'De Blauwe Frituur',Doorniksesteenweg 22,['Snack'],8500,Doorniksesteenweg 22 8500 Kortrijk,"(50.81616982873522, 3.2705242513034776)",False
+Sint-Niklaas,'t Centerken,Stationsstraat 131,['Eethuis'],9100,Stationsstraat 131 9100 Sint-Niklaas,"(51.169834802652545, 4.14288283181067)",False
+Antwerpen,'t Koekebakske,Leeuwestraat 23,"['Eethuis', 'EVA voordeel']",2000,Leeuwestraat 23 2000 Antwerpen,,True
+Antwerpen,22b,Sint-Vincentiusstraat 22b,"['Eethuis', 'Snack']",2018,Sint-Vincentiusstraat 22b 2018 Antwerpen,"(51.204817334665634, 4.413242177970222)",False
+Brussel,A Bubble Tree,Galerie Ravenstein 30,"['Eethuis', 'Veganvriendelijk']",1000,Galerie Ravenstein 30 1000 Brussel,"(50.84484272171161, 4.358429687831122)",False
+Leuven,A Zamara,Tiensestraat 123,['Eethuis'],3000,Tiensestraat 123 3000 Leuven,"(50.87572228755119, 4.708611753145017)",False
+Antwerpen,Aahaar,Lange Herentalsestraat 23,"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",2018,Lange Herentalsestraat 23 2018 Antwerpen,"(51.2155297666382, 4.41766054066986)",False
+Brussel,AB Café - resto,Steenstraat 23/b,"['Eethuis', 'EVA voordeel']",1000,Steenstraat 23/b 1000 Brussel,"(50.84710708745605, 4.350023144573089)",False
+Gent,Aba-jour,Oudburg 20,['Eethuis'],9000,Oudburg 20 9000 Gent,"(51.05810624903715, 3.7242089868983173)",False
+St-Amandsberg,Abre la Boca,Waterstraat 206,['Cateraar'],9040,Waterstraat 206 9040 St-Amandsberg,"(51.07440894463257, 3.7607557022593494)",False
+Ieper,Agadir,Rijselsestraat 42,"['Eethuis', 'Snack']",8900,Rijselsestraat 42 8900 Ieper,,True
+Brussel,Ajiyoshi,Steenkaai 32,['Eethuis'],1000,Steenkaai 32 1000 Brussel,"(50.85232955838954, 4.347408149520976)",False
+Antwerpen,Al Dente,Vlaamsekaai 52,['Eethuis'],2000,Vlaamsekaai 52 2000 Antwerpen,"(51.20894063649523, 4.390007364129878)",False
+ Brussel,Al Jannah,Blaesstraat 59,['Eethuis'],1000,Blaesstraat 59 1000  Brussel,"(50.83995133658402, 4.349429603791874)",False
+Gent,Alexander De Grote,Rodelijvekensstraat 1,['Eethuis'],9000,Rodelijvekensstraat 1 9000 Gent,"(51.06008521796525, 3.7244527835762598)",False
+Nazareth,Allervita,Kapellestraat 17,['Cateraar'],9810,Kapellestraat 17 9810 Nazareth,"(50.96292163719054, 3.600588142463766)",False
+Kortrijk,AMAH food is life,Hugo verriestlaan 142,['Cateraar'],8500,Hugo verriestlaan 142 8500 Kortrijk,"(50.82277377351522, 3.282633442818771)",False
+Antwerpen,Amon,Dageraadplaats 27,['Eethuis'],2018,Dageraadplaats 27 2018 Antwerpen,"(51.20713801572362, 4.42948520939014)",False
+Wetteren,Amuz&Vous,V. Van Sandelaan 33,['Cateraar'],9230,V. Van Sandelaan 33 9230 Wetteren,,True
+Brussel,Annapurna,Lakensestraat 26,['Eethuis'],1000,Lakensestraat 26 1000 Brussel,"(50.851934558547846, 4.350731337612484)",False
+Gent,Aperto Chiuso,Sleepstraat 82,['Eethuis'],9000,Sleepstraat 82 9000 Gent,"(51.06132847652337, 3.726603962043045)",False
+Vissenaken,Arax,Gilainstraat 14,['Eethuis'],3300,Gilainstraat 14 3300 Vissenaken,"(50.808724076660006, 4.937478128469792)",False
+Brussel,Arcadi,Arenbergstraat 1b,['Eethuis'],1000,Arenbergstraat 1b 1000 Brussel,"(50.848438284312294, 4.35583037656129)",False
+Antwerpen,Ardent,Dageraadplaats 3,"['Eethuis', 'Veganvriendelijk']",2018,Dageraadplaats 3 2018 Antwerpen,"(51.20677790074904, 4.430586524355107)",False
+Elsene,Au Palais des Indes,Louizalaan 263,"['Eethuis', 'EVA voordeel']",1050,Louizalaan 263 1050 Elsene,"(50.82445482165293, 4.366197226432464)",False
+Gent,Avalon,Geldmunt 32,"['Cateraar', 'Eethuis', 'Gastronomisch', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",9000,Geldmunt 32 9000 Gent,"(51.05771240054376, 3.721233250453135)",False
+Antwerpen,Azuma,Verlatstraat 39,['Eethuis'],2000,Verlatstraat 39 2000 Antwerpen,"(51.209982535190655, 4.393771366034952)",False
+Poeke,Bacchus,Aalterweg 10,['Eethuis'],9880,Aalterweg 10 9880 Poeke,"(51.1218037874967, 3.4282576316061175)",False
+Tielt-Winge,Bakkerij Hans,Haksberg 43,['Cateraar'],3390,Haksberg 43 3390 Tielt-Winge,"(50.95493478850118, 4.914218355575642)",False
+Wommelgem,Bali,Autolei 217,['Eethuis'],2160,Autolei 217 2160 Wommelgem,"(51.20823263872455, 4.4899724997553125)",False
+Brussel,Bambou Fleur,Jules van Praetstraat 13,['Eethuis'],1000,Jules van Praetstraat 13 1000 Brussel,"(50.84833842321012, 4.348602688989273)",False
+Overpelt,Bananasplit,Dorpsstraat 55,['Eethuis'],3900,Dorpsstraat 55 3900 Overpelt,"(51.213289318590704, 5.423767332333873)",False
+Waregem,BAOBAB Catering,"Mirakelstraat 104A, 8790 Waregem",['Cateraar'],8790,"Mirakelstraat 104A, 8790 Waregem 8790 Waregem",,True
+Brussel,Bar Bik,Quai Aux Pierres De Taille 3,"['Eethuis', 'Veganvriendelijk']",1000,Quai Aux Pierres De Taille 3 1000 Brussel,"(50.85547627038862, 4.34975009447347)",False
+Antwerpen,Bar Buenos Aires,Koepoortbrug 3,['Snack'],2000,Koepoortbrug 3 2000 Antwerpen,"(51.22363339700229, 4.403512495813195)",False
+Antwerpen,Bar d'Office,Dambruggestraat 29,['Snack'],2060,Dambruggestraat 29 2060 Antwerpen,"(51.21972495373421, 4.4230752880307165)",False
+Antwerpen,Bar Italia,Graaf Van Egmontstraat 59,['Eethuis'],2000,Graaf Van Egmontstraat 59 2000 Antwerpen,"(51.21008126283823, 4.394429678642773)",False
+Leuven,Bar Stan,Constantin Meunierstraat 2,['Eethuis'],3000,Constantin Meunierstraat 2 3000 Leuven,"(50.8713438612334, 4.702542071888302)",False
+Gent,Barista coffee&cake,Hippoliet Lippensplein 25 en Meersseniersstraat 16,"['Snack', 'Veganvriendelijk']",9000,Hippoliet Lippensplein 25 en Meersseniersstraat 16 9000 Gent,"(51.05017292175058, 3.729937197766088)",False
+Antwerpen,Bartilia,Falconplein 43,"['Eethuis', 'Snack', '100% vegetarisch']",2000,Falconplein 43 2000 Antwerpen,"(51.225295682360944, 4.405346032620327)",False
+Turnhout,Barzoen,Warandestraat 42,"['Eethuis', 'Snack']",2300,Warandestraat 42 2300 Turnhout,"(51.32459856260331, 4.943619612262634)",False
+Leuven,Basecamp,Naamsestraat 16,['Eethuis'],3000,Naamsestraat 16 3000 Leuven,"(50.87844231211624, 4.700532299142458)",False
+Mechelen,Basic Italian,Bruul 22,['Eethuis'],2800,Bruul 22 2800 Mechelen,"(51.02708277185859, 4.48066333683549)",False
+Etterbeek,Be Positive,Jourdanplein 26,['Eethuis'],1040,Jourdanplein 26 1040 Etterbeek,"(50.83712929773853, 4.381812812513121)",False
+Gent,Belga Queen,Graslei 10,['Eethuis'],9000,Graslei 10 9000 Gent,"(51.05479837484676, 3.7209597426271697)",False
+Oostende,Belle du jour,Aartshertoginnestraat 5,['Eethuis'],8400,Aartshertoginnestraat 5 8400 Oostende,"(51.22989099952995, 2.916976007330142)",False
+Brussel,Bellone Café,Vlaamsesteenweg 46,['Snack'],1000,Vlaamsesteenweg 46 1000 Brussel,"(50.851349518519655, 4.346386126894671)",False
+Brugge,Bhavani,Simon Stevenplein 5,['Eethuis'],8000,Simon Stevenplein 5 8000 Brugge,"(51.20635474285077, 3.2231053582595637)",False
+Sint-Niklaas,Biko,Sacramentstraat 3,"['Eethuis', 'Snack']",9100,Sacramentstraat 3 9100 Sint-Niklaas,,True
+Kessel-Lo,Biokoffiebar Reispunt,Martelarenlaan 14,['Snack'],3010,Martelarenlaan 14 3010 Kessel-Lo,"(50.88188143499887, 4.717338791914262)",False
+Widooie (Haren),Bistro Bis,Hemelingenstraat 23,['Eethuis'],3700,Hemelingenstraat 23 3700 Widooie (Haren),"(50.781849386943776, 5.463072362499631)",False
+Aalst,Bistro D'licious,Keizersplein 22a,"['Eethuis', 'EVA voordeel']",9300,Keizersplein 22a 9300 Aalst,"(50.93733997451418, 4.035177431453215)",False
+Antwerpen,Bites and Wines,Oude Beurs 60,"['Eethuis', '100% plantaardig']",2000,Oude Beurs 60 2000 Antwerpen,"(51.22143163567633, 4.402179671328716)",False
+Kalmthout,Bjorn Matheusen,Molenstraat 4,['Cateraar'],2920,Molenstraat 4 2920 Kalmthout,"(51.394670836508645, 4.473264698470573)",False
+ Aalst,Black and White,Koostraat 107,['Eethuis'],9300,Koostraat 107 9300  Aalst,,True
+Gent,Bluesette,Sint-Kwintensberg 85,['Eethuis'],9000,Sint-Kwintensberg 85 9000 Gent,"(51.04479131654757, 3.723878785100654)",False
+Antwerpen,Bollywood,Lange Herentalsestraat 56,"['Eethuis', '100% vegetarisch']",2018,Lange Herentalsestraat 56 2018 Antwerpen,"(51.21459512807877, 4.417287451516119)",False
+Brussel,Bombay Inn,Greepstraat 38,"['Eethuis', 'EVA voordeel']",1000,Greepstraat 38 1000 Brussel,"(50.84868071551028, 4.353345325113805)",False
+Nazareth,Bonaparte,Steenweg 231,['Eethuis'],9810,Steenweg 231 9810 Nazareth,"(50.96483423402093, 3.6515210762002246)",False
+Antwerpen,Bonnie + Frø,Lange Koepoortstraat 2/403,['Cateraar'],2000,Lange Koepoortstraat 2/403 2000 Antwerpen,"(51.22260007555398, 4.402352292031972)",False
+Brussel,Bonsoir Clara,Dansaertstraat 22,['Eethuis'],1000,Dansaertstraat 22 1000 Brussel,"(50.851025577687416, 4.344724801138332)",False
+ Brugge,Books & Brunch,Garenmarkt 30,['Eethuis'],8000,Garenmarkt 30 8000  Brugge,"(51.20439256866853, 3.229364025893704)",False
+Ronse,Boon,Sint Martensstraat 7,['Eethuis'],9600,Sint Martensstraat 7 9600 Ronse,"(50.75282662062917, 3.6033879748722746)",False
+ Heist- op- den- Berg ( Hallaar),Boshuis Averegten,Boonmarkt 12,['Eethuis'],2220,Boonmarkt 12 2220  Heist- op- den- Berg ( Hallaar),"(51.089730634410415, 4.708057820687655)",False
+Oostende,Bottarga,Albert I Promenade 64c,['Eethuis'],8400,Albert I Promenade 64c 8400 Oostende,"(51.233705722674465, 2.917215242469248)",False
+Westouter,Bourgondie,Bellestraat 21,['Eethuis'],8954,Bellestraat 21 8954 Westouter,"(50.79101740974222, 2.745757223683968)",False
+Genk,Brasserie 360,Stadsplein 16,['Eethuis'],3600,Stadsplein 16 3600 Genk,"(50.96528693810857, 5.496655941658058)",False
+Oostende,Brasserie Buyl,A. Buylstraat 44B,['Eethuis'],8400,A. Buylstraat 44B 8400 Oostende,,True
+Aalst,Brasserie Het Element,Korte Zoutstraat 6v,['Eethuis'],9300,Korte Zoutstraat 6v 9300 Aalst,"(50.93604835588348, 4.03938341814389)",False
+Oud-Heverlee,Brasserie St-Jean,Waversebaan 157,['Eethuis'],3050,Waversebaan 157 3050 Oud-Heverlee,"(50.823739665780934, 4.653125760166389)",False
+Aalst,Brasseur,Parklaan 62,['Eethuis'],9300,Parklaan 62 9300 Aalst,"(50.92776627746473, 4.03517422595287)",False
+Ukkel,Brother and sister,Rue Edith Cavell 178,"['Cateraar', 'Snack']",1180,Rue Edith Cavell 178 1180 Ukkel,"(50.809145087626455, 4.35740127357715)",False
+Antwerpen,Burgerij,Sint-Laureiskaai 8,['Eethuis'],2000,Sint-Laureiskaai 8 2000 Antwerpen,"(51.229978903931446, 4.404433550038374)",False
+Schoten,Burgerij,Brechtsebaan 298,['Eethuis'],2900,Brechtsebaan 298 2900 Schoten,"(51.27798374196482, 4.526455139252933)",False
+Aalst,Bvba Lowie,Molenstraat 16,['Eethuis'],9300,Molenstraat 16 9300 Aalst,"(50.93882800207421, 4.04007531211864)",False
+Ledeberg,Bvba Souperette,Bellevuestraat 30b,['Cateraar'],9050,Bellevuestraat 30b 9050 Ledeberg,"(51.03463721275709, 3.734525810008194)",False
+Antwerpen,Café Bartilia,Falconplein 43,['Eethuis'],2000,Falconplein 43 2000 Antwerpen,"(51.225295682360944, 4.405346032620327)",False
+Gent,Café De Kleine Kunst,Lousbergkaai 99,"['Eethuis', 'EVA voordeel']",9000,Lousbergkaai 99 9000 Gent,,True
+Etterbeel,Café des épices,Jourdanplein 21,['Eethuis'],1040,Jourdanplein 21 1040 Etterbeel,"(50.83724616336309, 4.38179865020872)",False
+Sint-Gillis,Café des spores,Chaussée d'Alsemberg 103,['Eethuis'],1060,Chaussée d'Alsemberg 103 1060 Sint-Gillis,"(50.82436234124813, 4.343375543608509)",False
+Aarschot,Café Diner,Herseltsesteenweg 243,['Eethuis'],3200,Herseltsesteenweg 243 3200 Aarschot,"(51.00510476862285, 4.837067915899821)",False
+Kortrijk,Café Fernand,Zwevegemsestraat 61,['Eethuis'],8500,Zwevegemsestraat 61 8500 Kortrijk,"(50.82424474523215, 3.273557858855834)",False
+Hasselt,Café Latino,Zuivelmarkt 12,['Eethuis'],3500,Zuivelmarkt 12 3500 Hasselt,"(50.93087469351139, 5.339439252105995)",False
+Elsene,Café Panisse,Rue du Tabellion 31,"['Eethuis', 'Veganvriendelijk']",1050,Rue du Tabellion 31 1050 Elsene,"(50.82353737991498, 4.357014817606931)",False
+Gent,Café Parti,Maria-Hendrikaplein 65a,"['Eethuis', 'Veganvriendelijk']",9000,Maria-Hendrikaplein 65a 9000 Gent,,True
+Brussel,Café Walvis,Rue A. Dansaertstraat 205,['Snack'],1000,Rue A. Dansaertstraat 205 1000 Brussel,"(50.847862473722664, 4.351854614231369)",False
+Brussel,Cafeabc,Phillippe de Champagnestraat 23,"['Eethuis', 'Snack']",1000,Phillippe de Champagnestraat 23 1000 Brussel,,True
+Gent,Caffé Cafféé,Nederkouter 129,['Snack'],9000,Nederkouter 129 9000 Gent,"(51.04671496879238, 3.7222266064501777)",False
+Antwerpen,Cantina,Arenbergstraat 28,['Eethuis'],2000,Arenbergstraat 28 2000 Antwerpen,"(51.21484138052214, 4.407813549627389)",False
+Antwerpen,Caramba,Kaasrui 8,['Eethuis'],2000,Kaasrui 8 2000 Antwerpen,"(51.22097328163296, 4.401993262968322)",False
+Gent,Carte Blanche,Martelaarslaan 321,['Gastronomisch'],9000,Martelaarslaan 321 9000 Gent,"(51.04766073230593, 3.709578442182387)",False
+Gent,Casa di Batavia,François Benardstraat 80,"['Cateraar', 'Eethuis', 'Snack', 'EVA voordeel']",9000,François Benardstraat 80 9000 Gent,"(51.04178433233594, 3.731306350028227)",False
+Antwerpen,Celeste,Hoogstraat 77,[],2000,Hoogstraat 77 2000 Antwerpen,"(51.21837692295786, 4.397168058797844)",False
+Sint-Katelijne-Waver,Centpourcent,Antwerpsesteenweg 1,['Eethuis'],2860,Antwerpsesteenweg 1 2860 Sint-Katelijne-Waver,"(51.055799784919564, 4.463460193360536)",False
+Brussel,Chéri Chéri,Hoogstraat 89 Rue Haute,['Snack'],1000,Hoogstraat 89 Rue Haute 1000 Brussel,"(50.83969083421705, 4.350693259480191)",False
+Hasselt,Chess Café,Runkstersteenweg 247,['Eethuis'],3500,Runkstersteenweg 247 3500 Hasselt,"(50.92484067157494, 5.31654145966145)",False
+Gent,Chess Café,Ottergemsesteenweg 802,['Eethuis'],9000,Ottergemsesteenweg 802 9000 Gent,"(51.03016504332595, 3.730366696662502)",False
+Etterbeek,Chez Michel,Sint-Pieterssteenweg 5,['Eethuis'],1040,Sint-Pieterssteenweg 5 1040 Etterbeek,"(50.8363741750054, 4.381826787909339)",False
+Antwerpen,Chez Vincent,Suikerrui 25,['Snack'],2000,Suikerrui 25 2000 Antwerpen,"(51.22103715476721, 4.398486545279975)",False
+Overijse,Chi Chi's,Brusselsesteenweg 541,[],3090,Brusselsesteenweg 541 3090 Overijse,"(50.7909888425228, 4.487232287621554)",False
+Antwerpen,Chickpea,Oudaan 4,"['Snack', 'Veganvriendelijk']",2000,Oudaan 4 2000 Antwerpen,"(51.215634043043295, 4.402447350921276)",False
+Brussel,Choosy,Steenstraat 40,['Snack'],1000,Steenstraat 40 1000 Brussel,"(50.847233005352486, 4.350449081140504)",False
+Gent,Cigköftem,Wondelgemstraat 86,"['Snack', 'Veganvriendelijk']",9000,Wondelgemstraat 86 9000 Gent,"(51.063169457653224, 3.7099735944276535)",False
+Bavikhove-Harelbeke,CILIMANGARO,Koeksken 31,['Cateraar'],8531,Koeksken 31 8531 Bavikhove-Harelbeke,"(50.87440453599666, 3.3060508188066895)",False
+Gent,Clouds In My Coffee,Dendermondsesteenweg 104,['Snack'],9000,Dendermondsesteenweg 104 9000 Gent,"(51.054683187390964, 3.742912037056209)",False
+Zaventem,Coco Mango,Vilvoordelaan 89,['Eethuis'],1930,Vilvoordelaan 89 1930 Zaventem,"(50.889853533858705, 4.470570393493417)",False
+Gent,Coeur d'Artichaut,Korenlei 10,['Eethuis'],9000,Korenlei 10 9000 Gent,"(51.055072160945905, 3.720071644359223)",False
+Leuven,Com.media,Oude Markt 55,['Eethuis'],3000,Oude Markt 55 3000 Leuven,"(50.87884868218141, 4.699881552312265)",False
+Brussel,Como Como,Antoine Dansaert 19,"['Eethuis', 'Veganvriendelijk']",1000,Antoine Dansaert 19 1000 Brussel,"(50.851025577687416, 4.344724801138332)",False
+Antwerpen,ComoComo,Kammenstraat 75,"['Snack', 'Veganvriendelijk']",2000,Kammenstraat 75 2000 Antwerpen,"(51.21623643933862, 4.401846697459598)",False
+Drogenbos,Cook-Om,Rue Marie Collart,"['Eethuis', 'EVA voordeel', 'Veganvriendelijk']",1620,Rue Marie Collart 1620 Drogenbos,,True
+Sint-Joris (Beernem),Cooking@home,Lattenklieversstraat 145,"['Cateraar', '100% vegetarisch', 'EVA voordeel']",8730,Lattenklieversstraat 145 8730 Sint-Joris (Beernem),"(51.125932715305225, 3.3568331787588357)",False
+Beernem,cookingathome,Lattenklieversstraat 145,['Cateraar'],8730,Lattenklieversstraat 145 8730 Beernem,"(51.125932715305225, 3.3568331787588357)",False
+Waardamme,Cowboy Up,Kortrijksestraat 350,['Eethuis'],8020,Kortrijksestraat 350 8020 Waardamme,"(51.12006055145093, 3.219149118225608)",False
+Elsene,Crêperie au p’tit Breton,Amerikaansestraat 117,['Snack'],1050,Amerikaansestraat 117 1050 Elsene,,True
+Oostende,Cristallo,Alfons Pieterslaan 35,['Eethuis'],8400,Alfons Pieterslaan 35 8400 Oostende,"(51.22615651857145, 2.9137562446469474)",False
+Borgerhout,Cucina dell'arte,koxplein 28,['Eethuis'],2140,koxplein 28 2140 Borgerhout,"(51.2111626400326, 4.433568944687725)",False
+Borgerhout,Cucina dell’arte,Koxplein 28,['Cateraar'],2140,Koxplein 28 2140 Borgerhout,"(51.2111626400326, 4.433568944687725)",False
+Mechelen,d'Afspraak,Keizeerstraat 23,['Eethuis'],2800,Keizeerstraat 23 2800 Mechelen,,True
+Leuven,D'entreprise,Naamsestraat 18,['Eethuis'],3000,Naamsestraat 18 3000 Leuven,"(50.878379225710916, 4.7005886888602815)",False
+Gent,Dali,Kasteellaan 51,['Eethuis'],9000,Kasteellaan 51 9000 Gent,"(51.049556774132256, 3.7390586317684047)",False
+Sterrebeek,dauranta vzw,Hippodroomlaan 173,['Cateraar'],1933,Hippodroomlaan 173 1933 Sterrebeek,"(50.85109241703316, 4.504468088734993)",False
+Leuven,De Appel,Ravenstraat 11,['Eethuis'],3000,Ravenstraat 11 3000 Leuven,"(50.87744373567944, 4.707075475899087)",False
+Gent,De Appelier,Citadellaan 47,"['Eethuis', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",9000,Citadellaan 47 9000 Gent,"(51.03871080532511, 3.7281400842803483)",False
+Retie,De Bospaddestoel,Beverdonk 1,['Eethuis'],2470,Beverdonk 1 2470 Retie,"(51.24750305947439, 5.028298297873405)",False
+Wellen,De Bottelarij,Ulbeekstraat 21,['Eethuis'],3830,Ulbeekstraat 21 3830 Wellen,,True
+Brugge,De Bottelier,St.Jacobsstraat 63,['Eethuis'],8000,St.Jacobsstraat 63 8000 Brugge,,True
+Antwerpen,De Broers van Julienne,Kasteelpleinstraat 45-47,"['Cateraar', 'Eethuis', 'Veganvriendelijk']",2000,Kasteelpleinstraat 45-47 2000 Antwerpen,"(51.210510865970306, 4.401685138447252)",False
+Brugge,De Bron,Katelijnestraat 82,"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",8000,Katelijnestraat 82 8000 Brugge,"(51.20195648484883, 3.2265759750469947)",False
+Gent,De Brooderie,Jan Breydelstraat 8,['Snack'],9000,Jan Breydelstraat 8 9000 Gent,"(51.05585550158825, 3.7203032738924646)",False
+Brugge,De Buhne,Sint-Salvatorskoorstraat 6,"['Eethuis', '100% vegetarisch']",8000,Sint-Salvatorskoorstraat 6 8000 Brugge,"(51.20608745457625, 3.2224250188786776)",False
+Berchem,De Burgerij,Tramplein 2,['Snack'],2600,Tramplein 2 2600 Berchem,"(51.205437272862085, 4.433088721689656)",False
+Lier,De Comeet,Florent van Cauwenberghstraat 16&18,"['Eethuis', 'Snack', 'Veganvriendelijk']",2500,Florent van Cauwenberghstraat 16&18 2500 Lier,"(51.13132821940978, 4.567786958737899)",False
+ Leuven,De Dijlemolens,Zwarte zustersstraat 16/4,['Eethuis'],3000,Zwarte zustersstraat 16/4 3000  Leuven,,True
+Gent,De Fobie,Brusselsepoortstraat 61,"['Eethuis', 'Veganvriendelijk']",9000,Brusselsepoortstraat 61 9000 Gent,"(51.04450802913183, 3.7363030276043236)",False
+Hofstade,De Frietkampioen,Steenweg naar Oudegem 151,['Snack'],9308,Steenweg naar Oudegem 151 9308 Hofstade,"(50.984694727169696, 4.051133114766306)",False
+Gent,De Frietketel,Papegaaistraat 89,"['Snack', 'EVA voordeel', 'Veganvriendelijk']",9000,Papegaaistraat 89 9000 Gent,"(51.050574159996295, 3.711348692007254)",False
+Scheldewindeke,De Frietketel,Dorp 36 A1,['Snack'],9860,Dorp 36 A1 9860 Scheldewindeke,"(50.945808374751785, 3.8043274341728535)",False
+Leopoldsburg,De Gastvrijheid,Koningin Astridplein 40,"['Eethuis', 'EVA voordeel', 'Veganvriendelijk']",3970,Koningin Astridplein 40 3970 Leopoldsburg,"(51.11898169597435, 5.263877679103315)",False
+Sint-Pieters-Rode,De Gelaarsde Kat,Gobbelsrode 68a,['Eethuis'],3320,Gobbelsrode 68a 3320 Sint-Pieters-Rode,,True
+Hasselt,De geletterde mens,Kolonel Dusartplein 48,['Eethuis'],3500,Kolonel Dusartplein 48 3500 Hasselt,"(50.932182265645956, 5.342212022734895)",False
+Teralfene,De Glazen Toren,Domentstraat 45,"['Eethuis', 'EVA voordeel']",1790,Domentstraat 45 1790 Teralfene,"(50.920794767047695, 4.133752697603763)",False
+Sint Amandsberg,De Goede Zaak,Emiel Maeyensstraat 22,['Cateraar'],9040,Emiel Maeyensstraat 22 9040 Sint Amandsberg,"(51.06957803591319, 3.7635292331689936)",False
+Hasselt,De Goei Goesting,Zuivelmarkt 18,['Eethuis'],3500,Zuivelmarkt 18 3500 Hasselt,"(50.93102549898484, 5.339684217368552)",False
+Oostende,De Graankorrel,Edith Cavellstraat 86,"['Eethuis', '100% vegetarisch']",8400,Edith Cavellstraat 86 8400 Oostende,"(51.222225939314896, 2.9165273956225355)",False
+Hasselt,De Groene Hendrickx,Zuivelmarkt 25,['Eethuis'],3500,Zuivelmarkt 25 3500 Hasselt,"(50.93124479935025, 5.340343160933796)",False
+Gent,De Groene Waaier,Schoonmeersstraat 25,"['Cateraar', 'Gastronomisch', '100% vegetarisch', 'Veganvriendelijk']",9000,Schoonmeersstraat 25 9000 Gent,"(51.03032850175406, 3.7046331681886437)",False
+nvriendelijk,De Grote post,Eethuis,[],Vega,Eethuis Vega nvriendelijk,,True
+Zonhoven,De Hofmakerij vzw,Koningsbergweg 28,['Cateraar'],3520,Koningsbergweg 28 3520 Zonhoven,"(50.99571473267463, 5.409348523745904)",False
+Brugge - Sint Kruis,De Jonkman,Maaltsesteenweg 438,"['Gastronomisch', 'Veganvriendelijk']",8310,Maaltsesteenweg 438 8310 Brugge - Sint Kruis,,True
+Antwerpen,De Juliette,Ijzerenwaag 4,"['Cateraar', 'Snack']",2000,Ijzerenwaag 4 2000 Antwerpen,"(51.21670426391802, 4.400315653146848)",False
+Zoersel,De Kadee,Handelslei 164,['Eethuis'],2980,Handelslei 164 2980 Zoersel,"(51.267449115996186, 4.640324090051692)",False
+Gent,De Kastart,Onderbergen 42,['Eethuis'],9000,Onderbergen 42 9000 Gent,"(51.05200414637008, 3.7195864247758226)",False
+Rumbeke,De Kleine Prins,Rijstelstraat 5,['Eethuis'],8800,Rijstelstraat 5 8800 Rumbeke,,True
+Zottegem,De Kleine Prins,Stationsstraat 33,['Eethuis'],9620,Stationsstraat 33 9620 Zottegem,"(50.868970901696756, 3.813077123744012)",False
+Kortrijk,De KleinKeuken,Budastraat 8,"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",8500,Budastraat 8 8500 Kortrijk,"(50.83005475415859, 3.2641953087025115)",False
+Leuven,De Koerier van Navarra,Tervuursevest 130,['Eethuis'],3000,Tervuursevest 130 3000 Leuven,"(50.87092953730719, 4.693233670130759)",False
+Leuven,De Kruimel,Tiensestraat 92,['Eethuis'],3000,Tiensestraat 92 3000 Leuven,"(50.87637634067053, 4.706257891345667)",False
+"Vorst, Kempen",De Kruimel,Dikstraat 3,['Eethuis'],2430,"Dikstraat 3 2430 Vorst, Kempen",,True
+Voorde,De Lavendel,Lavendelstraat 11,['Eethuis'],9400,Lavendelstraat 11 9400 Voorde,"(50.83688473183124, 4.020513830758552)",False
+Hasselt,De Levensboom,Leopoldplein 44,['Eethuis'],3500,Leopoldplein 44 3500 Hasselt,"(50.92809989587098, 5.333606388978036)",False
+Sleidinge,De Lieve's Bistronoom,Rabotstraat 120,['Eethuis'],9940,Rabotstraat 120 9940 Sleidinge,"(51.0910315715149, 3.652128056085782)",False
+Noorderwijk,De Mangerie,Bovenrij 17,['Eethuis'],2200,Bovenrij 17 2200 Noorderwijk,"(51.17404793731025, 4.838350783332316)",False
+Brussel,De Markten,Oude Graanmarkt 5,['Eethuis'],1000,Oude Graanmarkt 5 1000 Brussel,"(50.85045063605696, 4.3467557536106165)",False
+Brussel,De Markten,Oude Graanmarkt 5,['Eethuis'],1000,Oude Graanmarkt 5 1000 Brussel,"(50.85045063605696, 4.3467557536106165)",False
+Lier,De Nieuwe Schapestal,Koning Albertstraat 3,['Eethuis'],2500,Koning Albertstraat 3 2500 Lier,"(51.12083542468261, 4.5695131640707)",False
+Gent,De Onvrije Schipper,Korenlei 7A,"['Eethuis', 'Veganvriendelijk']",9000,Korenlei 7A 9000 Gent,"(51.05524357167466, 3.720183376026259)",False
+Hasselt,De Orangerie,Walputstraat 9,['Eethuis'],3500,Walputstraat 9 3500 Hasselt,"(50.93173840825557, 5.337180928641174)",False
+Tessenderlo,De oude post,Stationsstraat 1,['Eethuis'],3980,Stationsstraat 1 3980 Tessenderlo,"(51.06754293208439, 5.089831454105058)",False
+Gent,De Panda,Oudburg 38A,"['Eethuis', 'Veganvriendelijk']",9000,Oudburg 38A 9000 Gent,"(51.0582325568718, 3.724292833288057)",False
+Brussel,De Piero,Sint-Goriksplein 21-22,['Eethuis'],1000,Sint-Goriksplein 21-22 1000 Brussel,"(50.84799659284419, 4.347268056154273)",False
+Waregem,De Postelein,Holstraat 40,"['Eethuis', 'EVA voordeel', 'Veganvriendelijk']",8790,Holstraat 40 8790 Waregem,"(50.88516382018355, 3.43484053717165)",False
+Waregem,De Postelein Natuur Eethuis,Holstraat 40,['Cateraar'],8790,Holstraat 40 8790 Waregem,"(50.88516382018355, 3.43484053717165)",False
+Noorderwijk,De Posterijen,Markt 13,['Eethuis'],2200,Markt 13 2200 Noorderwijk,"(51.177834005283856, 4.835628965390239)",False
+Hasselt,De Preuverie,Paardsdemerstraat 21,"['Eethuis', 'Veganvriendelijk']",3500,Paardsdemerstraat 21 3500 Hasselt,"(50.93203362464369, 5.3395343776232895)",False
+Kortrijk,De Promenade,Veemlarkt 30,"['Eethuis', 'Snack']",8500,Veemlarkt 30 8500 Kortrijk,,True
+Sint-Niklaas,De Regent,Regentiestraat 3,"['Eethuis', 'Snack']",9100,Regentiestraat 3 9100 Sint-Niklaas,"(51.16854900742554, 4.1426602773856605)",False
+Noorderwijk,De Repertoire,Poederleeseweg 15,['Eethuis'],2200,Poederleeseweg 15 2200 Noorderwijk,"(51.1887115753058, 4.833034569395046)",False
+Brugge,De Republiek,St. Jacobsstraat 36,"['Eethuis', 'Snack']",8000,St. Jacobsstraat 36 8000 Brugge,,True
+Gent,De Retraite,Sleepstraat 210,"['Eethuis', 'Snack']",9000,Sleepstraat 210 9000 Gent,"(51.063615762849366, 3.728997770977965)",False
+Zoutenaaie,De Reygaerd,Reygaerddijkstraat 22,['Eethuis'],8630,Reygaerddijkstraat 22 8630 Zoutenaaie,,True
+Hasselt,De Sladerij,Havermarkt 39,"['Eethuis', 'Veganvriendelijk']",3500,Havermarkt 39 3500 Hasselt,"(50.92940356742352, 5.334685907297525)",False
+Brugge,De Stoepa,Oostmeers 124,['Eethuis'],8000,Oostmeers 124 8000 Brugge,"(51.2002605109335, 3.2203932158765123)",False
+Stokrooie,De Stroobander,St. Jozefsplein 13,['Eethuis'],3511,St. Jozefsplein 13 3511 Stokrooie,,True
+Gent,De vegetarische kookstudio,Gustaaf Carelshof 6,['Cateraar'],9040,Gustaaf Carelshof 6 9040 Gent,"(51.069904535497585, 3.7729273271324053)",False
+Lommel,De Volksmacht,Kerkplein 15,['Eethuis'],3920,Kerkplein 15 3920 Lommel,"(51.2282726575996, 5.313494714883825)",False
+Gent,De Vooruit,Sint-Pietersnieuwstraat 23,['Eethuis'],9000,Sint-Pietersnieuwstraat 23 9000 Gent,"(51.04763845704453, 3.728374541076049)",False
+Gent,De Walrus,"Coupure Links 497,",['Eethuis'],9000,"Coupure Links 497, 9000 Gent",,True
+Gent,De Warempel,Zandberg 8,['Eethuis'],9000,Zandberg 8 9000 Gent,"(51.05497556267695, 3.7270618847760844)",False
+Turnhout,De Weerelt,Warandestraat 17-19,['Eethuis'],2300,Warandestraat 17-19 2300 Turnhout,"(51.323968445505095, 4.943812652460775)",False
+Leuven,De Wiering,Wieringstraat 2,['Snack'],3000,Wieringstraat 2 3000 Leuven,"(50.87953588065906, 4.69846546642684)",False
+Westmeerbeek,De Wingerd,Grote Baan 68,['Eethuis'],2235,Grote Baan 68 2235 Westmeerbeek,"(51.07704094660703, 4.785548539286743)",False
+Rumbeke,De Zalm,Grote Markt,['Eethuis'],8800,Grote Markt 8800 Rumbeke,"(50.94534038957267, 3.123968237998923)",False
+Assebroek,De Zonnekeuken,Felix Timmermansstraat 24 8310 Assebroek,['Cateraar'],8310,Felix Timmermansstraat 24 8310 Assebroek 8310 Assebroek,"(51.202842623978896, 3.25922261142153)",False
+Ledeberg,De Zuidkant,Frederik Burvenichstraat 156,['Eethuis'],9050,Frederik Burvenichstraat 156 9050 Ledeberg,"(51.04000758645978, 3.753901684635687)",False
+Gentbrugge,De Zuidkant,Frederik Burvenichstraat 156,"['Cateraar', 'Eethuis', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",9050,Frederik Burvenichstraat 156 9050 Gentbrugge,"(51.04000758645978, 3.753901684635687)",False
+Kortrijk,deDingen,Budastraat 12,"['Eethuis', 'Snack']",8500,Budastraat 12 8500 Kortrijk,"(50.830179658489094, 3.2640930050527968)",False
+Brugge,Delaney's Irish Pub & Restaurant,Burg 8,['Eethuis'],8000,Burg 8 8000 Brugge,"(51.20941102844163, 3.226808547397451)",False
+Borgerhout,Delhi Delicious,Gitschotellei 379,['Eethuis'],2140,Gitschotellei 379 2140 Borgerhout,"(51.19787295798947, 4.454895166188194)",False
+Aalst,Deluxe Burger,Gentsestraat 45,"['Snack', 'EVA voordeel']",9300,Gentsestraat 45 9300 Aalst,"(50.93794066176739, 4.031459897754862)",False
+Mechelen,Den Akker,Nauwstraat 11,['Eethuis'],2800,Nauwstraat 11 2800 Mechelen,"(51.026205229417414, 4.4770692737089295)",False
+Antwerpen,Den aperitief,Bolivarplaats 3,['Snack'],2000,Bolivarplaats 3 2000 Antwerpen,"(51.20495897698329, 4.388803585888366)",False
+Zoersel,Den boer van Zoersel,Rodendijk 32,['Eethuis'],2980,Rodendijk 32 2980 Zoersel,"(51.24914411863399, 4.705024530417264)",False
+Ieper,Den Olifant,Diksmuidestraat 44,['Eethuis'],8900,Diksmuidestraat 44 8900 Ieper,"(50.853333517787384, 2.886687416453987)",False
+Brussel,Den Teepot,Kartuizersstraat 66,"['Eethuis', '100% vegetarisch']",1000,Kartuizersstraat 66 1000 Brussel,"(50.84844564620362, 4.345010079304438)",False
+Leuven,Dewerf,Hogeschoolplein 5,['Eethuis'],3000,Hogeschoolplein 5 3000 Leuven,"(50.87709112936612, 4.701503134218559)",False
+Brussel,Divino,Kartuizersstraat 56,['Eethuis'],1000,Kartuizersstraat 56 1000 Brussel,"(50.84856258178025, 4.345379219311093)",False
+Sint-Martens-Latem,Dolce Far Niente,Kortrijksesteenweg 210,['Eethuis'],9830,Kortrijksesteenweg 210 9830 Sint-Martens-Latem,"(51.00472887263987, 3.622415024662395)",False
+Brussel,Dolma,Elsense Steenweg 329,"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",1050,Elsense Steenweg 329 1050 Brussel,"(50.82868889506306, 4.370483615181949)",False
+Antwerpen,Dome,Grotehondstraat 2,"['Eethuis', 'Veganvriendelijk']",2018,Grotehondstraat 2 2018 Antwerpen,"(51.20597077271352, 4.427022575267428)",False
+Hasselt,Double Dragons,Hasseltweg 214,['Eethuis'],3500,Hasseltweg 214 3500 Hasselt,,True
+Brugge,Du Phare,Sasplein 2,['Eethuis'],8000,Sasplein 2 8000 Brugge,"(51.2213974549231, 3.2327708533533293)",False
+Gent,Eat Love Pizza,Ajuinlei 10a,"['Gastronomisch', 'Veganvriendelijk']",9000,Ajuinlei 10a 9000 Gent,"(51.0517295011806, 3.720317596684668)",False
+Borgerhout,Ecocafé,Turnhoutsebaan 139,['Eethuis'],2140,Turnhoutsebaan 139 2140 Borgerhout,"(51.2154675206214, 4.434591117001991)",False
+Gent,Eetcafé De Lieve,Sint-Margrietstraat 1,['Eethuis'],9000,Sint-Margrietstraat 1 9000 Gent,"(51.05859952847617, 3.720721741140939)",False
+Gent,Eetcafe Toreke,Vlotstraat 22,['Eethuis'],9000,Vlotstraat 22 9000 Gent,"(51.06348421886655, 3.7116097205933865)",False
+Leffinge,Eethuis Kromme Elleboog,Torhoutsesteenweg 11,['Eethuis'],8432,Torhoutsesteenweg 11 8432 Leffinge,"(51.18641519018696, 2.8995593814602523)",False
+Sint-Niklaas,Eigenwijs,Ankerstraat 2,['Eethuis'],9100,Ankerstraat 2 9100 Sint-Niklaas,"(51.16536818460902, 4.143261783916668)",False
+Oostende,El Mariachi,Kapucijnestraat 44,['Eethuis'],8400,Kapucijnestraat 44 8400 Oostende,,True
+Gent,El Pincho,Brabantdam 82,['Eethuis'],9000,Brabantdam 82 9000 Gent,"(51.04980963747567, 3.730911931803679)",False
+Leuven,El Sombrero,Lei 25,['Eethuis'],3000,Lei 25 3000 Leuven,"(50.88171660522307, 4.696590867683566)",False
+Elsene,El Vergel,Troonstraat 39,['Eethuis'],1050,Troonstraat 39 1050 Elsene,"(50.83879316612758, 4.367474382602495)",False
+Schaarbeek,Elan,Vooruitgangstraat 331,['Eethuis'],1030,Vooruitgangstraat 331 1030 Schaarbeek,"(50.86643576502582, 4.36307039372256)",False
+Schaarbeek,Elan,Vooruitgangstraat 331,['Eethuis'],1030,Vooruitgangstraat 331 1030 Schaarbeek,"(50.86643576502582, 4.36307039372256)",False
+Schaerbeek,Elan vzw,Vooruitgangstraat 331,['Eethuis'],1030,Vooruitgangstraat 331 1030 Schaerbeek,"(50.86643576502582, 4.36307039372256)",False
+Sint-Maria-Horebeke,Elim,Dorpstraat 30,['Eethuis'],9667,Dorpstraat 30 9667 Sint-Maria-Horebeke,,True
+Mechelen,Ellis Gourmet burger,Ijzerleen 10,['Eethuis'],2800,Ijzerleen 10 2800 Mechelen,,True
+Brussel,Ellis Gourmet Burger,Sint-Katelijneplein 4,['Eethuis'],1000,Sint-Katelijneplein 4 1000 Brussel,"(50.85083731396025, 4.34747980817896)",False
+Stevoort,Elsartmolen,Herkkantstraat 58,['Eethuis'],3512,Herkkantstraat 58 3512 Stevoort,"(50.923217800006185, 5.230854482148161)",False
+Les Bulles - Nederland,Enig Alternatief,Wielakkerstraat 4,['Eethuis'],6811,Wielakkerstraat 4 6811 Les Bulles - Nederland,,True
+Antwerpen,Eten vol leven,Minderbroedersrui 52,"['Eethuis', '100% plantaardig', 'EVA voordeel']",2000,Minderbroedersrui 52 2000 Antwerpen,"(51.221898264445265, 4.404742145014601)",False
+Gent,Ette-Ibibio,Zwijnaardsesteenweg 104,['Eethuis'],9000,Zwijnaardsesteenweg 104 9000 Gent,"(51.033948256433966, 3.7251685136088484)",False
+Antwerpen,Exki,Wiegstraat 7-9,['Snack'],2000,Wiegstraat 7-9 2000 Antwerpen,"(51.2180782393116, 4.404610328133859)",False
+Elsene,Exki,Elsensesteenweg 12,['Snack'],1050,Elsensesteenweg 12 1050 Elsene,,True
+Antwerpen,Exki,Wiegstraat 7-9,['Snack'],2000,Wiegstraat 7-9 2000 Antwerpen,"(51.2180782393116, 4.404610328133859)",False
+Gent,Exki,Sint Michielshelling 2,['Snack'],9000,Sint Michielshelling 2 9000 Gent,"(51.05639211175542, 3.726372096399898)",False
+Antwerpen,Exki,Wiegstraat 7-9,['Snack'],2000,Wiegstraat 7-9 2000 Antwerpen,"(51.2180782393116, 4.404610328133859)",False
+Antwerpen,Exki,Wiegstraat 7-9,['Snack'],2000,Wiegstraat 7-9 2000 Antwerpen,"(51.2180782393116, 4.404610328133859)",False
+Sint-Niklaas,Express,Houtbriel 12,['Snack'],9100,Houtbriel 12 9100 Sint-Niklaas,"(51.165286470611825, 4.142833288545373)",False
+Hoboken,Extra Time,Louisalei 24,"['Eethuis', 'Snack']",2660,Louisalei 24 2660 Hoboken,"(51.17820009127701, 4.346448845262592)",False
+Gent,Fabula Rasa,Fr. Lousbergkaai 134,['Eethuis'],9000,Fr. Lousbergkaai 134 9000 Gent,,True
+Gent,Faim Fatale,Zuidstationstraat 14,['Eethuis'],9000,Zuidstationstraat 14 9000 Gent,"(51.049064298297196, 3.7327189964071787)",False
+Gent,Faki,Sleepstraat 112,['Snack'],9000,Sleepstraat 112 9000 Gent,"(51.06196186780296, 3.7273655987782717)",False
+Antwerpen,Falafel,Korte Herentalsestraat 60,['Eethuis'],2018,Korte Herentalsestraat 60 2018 Antwerpen,"(51.214424502708844, 4.416915177720612)",False
+Antwerpen,Falafel Beni,Lange Leemstraat 188,"['Eethuis', '100% vegetarisch']",2000,Lange Leemstraat 188 2000 Antwerpen,"(51.22379356477641, 4.408565519566605)",False
+Gent,Falafel Punt,Rooiegemlaan 389,"['Eethuis', 'EVA voordeel', 'Veganvriendelijk']",9000,Rooiegemlaan 389 9000 Gent,,True
+Brussel,Fanny Thai,Jules van Praetstraat 36,['Eethuis'],1000,Jules van Praetstraat 36 1000 Brussel,"(50.84811357531697, 4.3479495930019185)",False
+Oostende,Faro,Vindictivelaan 3b,['Eethuis'],8400,Vindictivelaan 3b 8400 Oostende,"(51.22954112828776, 2.9236450741650115)",False
+Brussel,Feux de Bengale,Spoormakersstraat 69,['Eethuis'],1000,Spoormakersstraat 69 1000 Brussel,"(50.845120829405936, 4.353034064751299)",False
+Antwerpen,Fez,Kloosterstraat 52,['Eethuis'],2000,Kloosterstraat 52 2000 Antwerpen,"(51.21590569051865, 4.394719207317952)",False
+ Gent,Fin de Faim,Hoogstraat 73,['Eethuis'],9000,Hoogstraat 73 9000  Gent,"(51.05522737719995, 3.7123816539463617)",False
+Gent,Fin du Monde,Keizer Karelstraat 10,['Eethuis'],9000,Keizer Karelstraat 10 9000 Gent,"(51.05322762384373, 3.7312932716112006)",False
+Antwerpen,Finjan,Graaf Van Hoornestraat 1,"['Snack', 'EVA voordeel']",2000,Graaf Van Hoornestraat 1 2000 Antwerpen,"(51.208256880326395, 4.393198038670664)",False
+Dendermonde,Flammazien,Brusselsestraat 72,['Eethuis'],9200,Brusselsestraat 72 9200 Dendermonde,"(51.02690392378656, 4.10023785178939)",False
+Hasselt,Florian,Fruitmarkt 22,['Eethuis'],3500,Fruitmarkt 22 3500 Hasselt,"(50.93023257485071, 5.338814248109191)",False
+Gent,Foley's Irish Pub,Recolettenlei 10,['Eethuis'],9000,Recolettenlei 10 9000 Gent,,True
+Rumbeke,Fonduehuis La Paix,Ardooisesteenweg 74,['Eethuis'],8800,Ardooisesteenweg 74 8800 Rumbeke,"(50.94997280824011, 3.1335662081581734)",False
+Antwerpen,foodlovers companie,Somméstraat 45,['Cateraar'],2060,Somméstraat 45 2060 Antwerpen,"(51.22248506091551, 4.438723496947052)",False
+Sterrebeek,foodshop.be,Hippodroomlaan 173,['Cateraar'],1933,Hippodroomlaan 173 1933 Sterrebeek,"(50.85109241703316, 4.504468088734993)",False
+Brugge,Forestière,Academiestraat 11,['Eethuis'],8000,Academiestraat 11 8000 Brugge,"(51.2114667818947, 3.224654362341255)",False
+Gent,Frietcultuur,Kantienberg 28,"['Snack', 'Veganvriendelijk']",9000,Kantienberg 28 9000 Gent,"(51.0411171272722, 3.7276223878700483)",False
+Brugge,Frituur & Veggie Eetboetiek Royal,Langestraat 181 A,"['Eethuis', 'EVA voordeel']",8000,Langestraat 181 A 8000 Brugge,"(51.212614189862634, 3.239282140460991)",False
+Gent,Frituur 'Dulle Friet',Vlasmarkt 1,['Snack'],9000,Vlasmarkt 1 9000 Gent,"(51.0562686060025, 3.728456254403136)",False
+Wetteren,Frituur 't Hoekske,Koningin Astridlaan 54,['Snack'],9230,Koningin Astridlaan 54 9230 Wetteren,"(51.004851991011435, 3.8789156556267157)",False
+Zandvoorde,Frituur Cannibal,Hertstraat 8,['Snack'],8400,Hertstraat 8 8400 Zandvoorde,"(51.23168751185705, 2.9146576244615217)",False
+Zoerle-Parwijs,Frituur De Levensweg,Abdijstraat 4,"['Snack', 'Veganvriendelijk']",2260,Abdijstraat 4 2260 Zoerle-Parwijs,"(51.10629262711369, 4.914887329788872)",False
+Londerzeel,Frituur De Linde,Linde 80,['Eethuis'],1840,Linde 80 1840 Londerzeel,"(51.002948517149235, 4.290554430131844)",False
+Lokeren,Frituur De Markt,Markt,['Snack'],9160,Markt 9160 Lokeren,"(51.10365020528189, 3.98837642485554)",False
+Gent,Frituur De Papegaai,Annonciadenstraat 17,"['Snack', 'EVA voordeel', 'Veganvriendelijk']",9000,Annonciadenstraat 17 9000 Gent,"(51.04997330858101, 3.716462761218731)",False
+Heverlee,Frituur Den Dreef,Naamsesteenweg 58,['Snack'],3001,Naamsesteenweg 58 3001 Heverlee,"(50.86708957411806, 4.696971588965888)",False
+Ledeberg,Frituur Frietshop Gentbrugge,Tweekapellenstraat 2,['Snack'],9050,Tweekapellenstraat 2 9050 Ledeberg,"(51.043324389325754, 3.7590486098573557)",False
+Kortrijk,Frituur Groeninghe Veemarkt,Hoek Zwevegemsestraat - Veemarkt 1,['Snack'],8500,Hoek Zwevegemsestraat - Veemarkt 1 8500 Kortrijk,"(50.83240884172966, 3.256431287611519)",False
+Leuven,Frituur Movie,Burgemeestersstraat 42,['Snack'],3000,Burgemeestersstraat 42 3000 Leuven,"(50.87608136395484, 4.711868071894286)",False
+Leuven,Frituur Tervuursepoort,Tervuursepoort 1,[],3000,Tervuursepoort 1 3000 Leuven,,True
+Kortrijk,Funky Food,Stationsstraat 9A,['Eethuis'],8500,Stationsstraat 9A 8500 Kortrijk,"(50.82558098671413, 3.2645700197267153)",False
+Antwerpen,Garden of India,Oude Koornmarkt 60,"['Eethuis', 'Veganvriendelijk']",2000,Oude Koornmarkt 60 2000 Antwerpen,"(51.219122158008474, 4.400260074831732)",False
+Elsene,Garuda,Adolphe Buylstraat 25,['Eethuis'],1050,Adolphe Buylstraat 25 1050 Elsene,"(50.81479911344138, 4.382714426739399)",False
+Gent,Gaston,wiedauwkaai 52,['Eethuis'],9000,wiedauwkaai 52 9000 Gent,"(51.0744881819794, 3.7232129701089094)",False
+Vucht,Gastronomia Cellini,Maasmechelen Village,['Eethuis'],3630,Maasmechelen Village 3630 Vucht,,True
+Gent,Gate of India,Oudburg 1,['Eethuis'],9000,Oudburg 1 9000 Gent,"(51.058059123002664, 3.7238102431667857)",False
+Uitbergen,Gaver 15,Gaver 15,['Eethuis'],9290,Gaver 15 9290 Uitbergen,"(51.02688074570519, 4.007358266471628)",False
+Rotselaar,Geert Groffen,Aarschotsesteenweg 10,"['Eethuis', 'EVA voordeel']",3110,Aarschotsesteenweg 10 3110 Rotselaar,"(50.93836219457909, 4.735016925792405)",False
+Brussel,Gourmet d'Asie,Van Arteveldestraat 14,['Eethuis'],1000,Van Arteveldestraat 14 1000 Brussel,"(50.82868217285996, 4.291920394993346)",False
+Mechelen,Graspoort,Begijnenstraat 28,['Eethuis'],2800,Begijnenstraat 28 2800 Mechelen,"(51.027491092169726, 4.4766018795222555)",False
+Wetteren,Green Note,Nieuwstraat 1,"['Eethuis', 'Snack']",9230,Nieuwstraat 1 9230 Wetteren,"(51.00173407420266, 3.881412875357365)",False
+Kessel-Lo,Green Palace,Diestsesteenweg 66,['Eethuis'],3010,Diestsesteenweg 66 3010 Kessel-Lo,"(50.8835043071787, 4.718757710886484)",False
+Mechelen,Greenfield 2,Nekkerspoelstraat 5,[],2800,Nekkerspoelstraat 5 2800 Mechelen,"(51.03029082435245, 4.490692335980145)",False
+Gent,Greenway,Nederkouter 42,"['Eethuis', 'Snack', '100% vegetarisch', 'Veganvriendelijk']",9000,Nederkouter 42 9000 Gent,"(51.04761007562845, 3.7215297353355012)",False
+Antwerpen,Greenway Antwerpen,Groenplaats 6,"['Eethuis', 'Snack', '100% vegetarisch', 'Veganvriendelijk']",2000,Groenplaats 6 2000 Antwerpen,"(51.219193931602796, 4.400746758148396)",False
+Sint - Gillis,Greenway Brussel-Zuid,Fonsnylaan 46 bus 18,"['Eethuis', 'Snack', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",1060,Fonsnylaan 46 bus 18 1060 Sint - Gillis,"(50.83601145668405, 4.337648395616994)",False
+Leuven,Greenway Leuven,Parijsstraat 12,"['Eethuis', 'Snack', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",3000,Parijsstraat 12 3000 Leuven,"(50.87905700241857, 4.699328862819362)",False
+Sint-Niklaas,Grenoble,Kokkelbeekstraat 34,"['Eethuis', '100% vegetarisch']",9100,Kokkelbeekstraat 34 9100 Sint-Niklaas,"(51.16178014761566, 4.142435641787203)",False
+Gent,Gülhan,Sleepstraat 70,['Eethuis'],9000,Sleepstraat 70 9000 Gent,"(51.06096691378879, 3.7262380317349937)",False
+Gent,Gusto,Sint Pietersnieuwstraat 116,['Eethuis'],9000,Sint Pietersnieuwstraat 116 9000 Gent,"(51.05639211175542, 3.726372096399898)",False
+Borgerhout,Hacienda POPULAR,Prins Leopoldstraat 51,['Cateraar'],2140,Prins Leopoldstraat 51 2140 Borgerhout,"(51.21233687191453, 4.439194682563386)",False
+Brussel,Happy Buddha,E. Jacqmainlaan 7,"['Eethuis', 'EVA voordeel']",1000,E. Jacqmainlaan 7 1000 Brussel,,True
+Hasselt,"Healthyfoods, samen met De Levensboom te Hasselt",Molenstraat 33,['Cateraar'],3500,Molenstraat 33 3500 Hasselt,"(50.93334085818825, 5.346674834788411)",False
+Sint-Jans-Molenbeek,Heksenketel,Henegouwenkaai 29,"['Cateraar', 'Eethuis']",1080,Henegouwenkaai 29 1080 Sint-Jans-Molenbeek,"(50.85176149094773, 4.3392145001728375)",False
+Brussel,Hémisphères,Leopoldstraat 29,['Eethuis'],1000,Leopoldstraat 29 1000 Brussel,"(50.84982261839919, 4.355361407114638)",False
+Brussel,Henri,Vlaamsesteenweg 113,['Eethuis'],1000,Vlaamsesteenweg 113 1000 Brussel,"(50.853039284252496, 4.345022027523742)",False
+Brugge,Het andere idee,Hauwerstraat 9,['Eethuis'],8000,Hauwerstraat 9 8000 Brugge,"(51.20375168897651, 3.215184426696205)",False
+Leuven,Het Dagelijks Brood/ Le Pain Quotidien,Parijsstraat 35,['Eethuis'],3000,Parijsstraat 35 3000 Leuven,"(50.87859858614858, 4.699311421005059)",False
+Zutendaal,Het Engelenhofke,Schansstraat 15,['Cateraar'],3690,Schansstraat 15 3690 Zutendaal,"(50.91606665690673, 5.589935543329456)",False
+Kessel - Lo,Het geheim,B.A. de Becker-Remyplein 19,['Eethuis'],3010,B.A. de Becker-Remyplein 19 3010 Kessel - Lo,,True
+Sint-Niklaas,Het Gevoel,Regentieplein 53,['Eethuis'],9100,Regentieplein 53 9100 Sint-Niklaas,"(51.16813931117519, 4.144649561935037)",False
+Oud-Turnhout,Het Herenhuis,Dorp 1,['Eethuis'],2360,Dorp 1 2360 Oud-Turnhout,"(51.31746962337766, 4.981484180934898)",False
+Herent,Het huis van Mihr,Mechelsesteenweg 690,['Cateraar'],3020,Mechelsesteenweg 690 3020 Herent,"(50.914398843682214, 4.656861588439386)",False
+Sint-Niklaas,Het Laatste Avondmaal,Sacramentstraat 5,[],9100,Sacramentstraat 5 9100 Sint-Niklaas,,True
+Nieuwkerke,Het Labyrint,Dries 29,['Eethuis'],8950,Dries 29 8950 Nieuwkerke,,True
+Antwerpen,Het Lastig Portret,Blindestraat 1,['Eethuis'],2000,Blindestraat 1 2000 Antwerpen,"(51.22285948037097, 4.406446253347435)",False
+Hasselt,Het Magazijn,Minderbroedersstraat 9,['Eethuis'],3500,Minderbroedersstraat 9 3500 Hasselt,"(50.932096071763056, 5.337415938433967)",False
+Gent,Het Poorthuis,Kempstraat 151,['Eethuis'],9000,Kempstraat 151 9000 Gent,"(51.068919237515594, 3.6919158417157485)",False
+Gent,Het Restaurant,Kempstraat 150,['Eethuis'],9000,Kempstraat 150 9000 Gent,"(51.068803941669806, 3.6921885875107683)",False
+Aast,Het Verschil,Gentsestraat 70,"['Eethuis', 'EVA voordeel']",9300,Gentsestraat 70 9300 Aast,"(50.937550288829634, 4.030125362594947)",False
+Beringen,Het Voorste Huis,Koerselsesteenweg 15,"['Eethuis', 'Snack']",3580,Koerselsesteenweg 15 3580 Beringen,"(51.04812439234235, 5.2267394646377605)",False
+Brussel,Het Warm Water,Vossenstraat 25,"['Eethuis', 'EVA voordeel']",1000,Vossenstraat 25 1000 Brussel,"(50.83677780473699, 4.348053816596991)",False
+Leuven,Himalaya Restaurant,Tiensevest 14,[],3000,Tiensevest 14 3000 Leuven,"(50.88186460791657, 4.7139140278935345)",False
+Leuven,Himalaya Restaurant,Naamsestraat 51,['Eethuis'],3000,Naamsestraat 51 3000 Leuven,"(50.87664412139852, 4.700633241205477)",False
+Kruishoutem,Hof Van Cleve,Riemegemstraat 1,['Gastronomisch'],9770,Riemegemstraat 1 9770 Kruishoutem,"(50.90357023466016, 3.509557654327995)",False
+Antwerpen,Hoffy's,Lange Kievitstraat 52,['Eethuis'],2018,Lange Kievitstraat 52 2018 Antwerpen,"(51.21268842172594, 4.4200044837452594)",False
+Stevoort,Home Cooking,Pater Raskinstraat 18,['Cateraar'],3512,Pater Raskinstraat 18 3512 Stevoort,"(50.912327198728484, 5.24952446244104)",False
+Brussel,Hong Hoa,Karperbrug 10,['Eethuis'],1000,Karperbrug 10 1000 Brussel,"(50.848428124301556, 4.347466663256457)",False
+Gent - Ledeberg,Hot Falafel,Brusselsesteenweg 17a,"['Snack', 'EVA voordeel', 'Veganvriendelijk']",9050,Brusselsesteenweg 17a 9050 Gent - Ledeberg,"(51.04115920502852, 3.7421373097390997)",False
+Manhay,Hotel les Sources,Route du Crahay 28,"['Eethuis', 'EVA voordeel']",6960,Route du Crahay 28 6960 Manhay,,True
+Leuven,House Of Lalibela,Brusselsestraat 59,['Eethuis'],3000,Brusselsestraat 59 3000 Leuven,"(50.87997939337771, 4.697388661367615)",False
+Brussel,Houtsiplou,Rouppeplein 9,['Eethuis'],1000,Rouppeplein 9 1000 Brussel,"(50.84316001387633, 4.346063342907322)",False
+Jette,Humus Botanical Gastronomy,Gielelaan 20,['Eethuis'],1090,Gielelaan 20 1090 Jette,"(50.86860421523584, 4.327228538209357)",False
+Antwerpen,I Famosi,Steenbergstraat 11,['Eethuis'],2000,Steenbergstraat 11 2000 Antwerpen,"(51.21500620558345, 4.397437872718811)",False
+Brussel,i latini,Place Saint Cathérine 1a - 2,"['Cateraar', 'Eethuis']",1000,Place Saint Cathérine 1a - 2 1000 Brussel,"(50.84799659284419, 4.347268056154273)",False
+Antwerpen,I Ro Ha,Lange Herentalsestraat 12,['Eethuis'],2018,Lange Herentalsestraat 12 2018 Antwerpen,"(51.21588054719278, 4.4171027558360985)",False
+Mechelen,Il Cardinale,Wollemarkt 22-24,['Eethuis'],2800,Wollemarkt 22-24 2800 Mechelen,"(51.029520374950444, 4.479001388420192)",False
+Gent,Il Cortile,Kraanlei 53,['Eethuis'],9000,Kraanlei 53 9000 Gent,"(51.05727305807972, 3.7230793497768255)",False
+Gent,Il Mezzogiorno,Baudelokaai 17,"['Cateraar', 'Eethuis']",9000,Baudelokaai 17 9000 Gent,"(51.059359504931976, 3.729854707819251)",False
+Leuven,Il Pastaio,Parijsstraat 33,['Eethuis'],3000,Parijsstraat 33 3000 Leuven,"(50.87866135111002, 4.69936870014012)",False
+Antwerpen,Il Pastaiolo,Wiegstraat 18,"['Cateraar', 'Eethuis']",2000,Wiegstraat 18 2000 Antwerpen,"(51.21793452191149, 4.404295343314858)",False
+Hasselt,Il Pasticcio,Maastrichterstraat 72,"['Cateraar', 'Eethuis']",3500,Maastrichterstraat 72 3500 Hasselt,"(50.92974336309734, 5.340354725960681)",False
+Leuven,Il Piccantino,Drie Engelenberg 4,['Eethuis'],3000,Drie Engelenberg 4 3000 Leuven,"(50.88600235645571, 4.706867235540431)",False
+ Gent,Illie Mangaro,Sassevaartstraat 47,"['Cateraar', 'Eethuis']",9000,Sassevaartstraat 47 9000  Gent,"(51.067233324251006, 3.7330429241229206)",False
+Nieuwerkerken,In 't Dik Pak,Pater Rasschaertlaan 8,['Snack'],9320,Pater Rasschaertlaan 8 9320 Nieuwerkerken,"(50.917123499529836, 4.075977980901107)",False
+Aalst,In de Maeltydt,Gentsestraat 91,"['Eethuis', 'EVA voordeel']",9300,Gentsestraat 91 9300 Aalst,"(50.93768438984572, 4.029868310309208)",False
+Heuvelland ( Dranouter),In de Wulf,Wulvestraat 1,"['Gastronomisch', 'Veganvriendelijk']",8950,Wulvestraat 1 8950 Heuvelland ( Dranouter),,True
+Leuven,Inari,Parijsstraat 18,['Eethuis'],3000,Parijsstraat 18 3000 Leuven,"(50.87892260336814, 4.69917161367462)",False
+Brugge,Indian Tandoori,Oude Gentweg 11,['Eethuis'],8000,Oude Gentweg 11 8000 Brugge,"(51.20288011312688, 3.2263387295926638)",False
+Gent,Inner Kitchen,Land Van Waaslaan 78a,"['Cateraar', 'Eethuis', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",9000,Land Van Waaslaan 78a 9000 Gent,"(51.05794734170448, 3.7448083239870518)",False
+Hasselt,IZIBILIBOCO,Dorpstraat 36,"['Eethuis', '100% vegetarisch', 'EVA voordeel']",3500,Dorpstraat 36 3500 Hasselt,,True
+Antwerpen,Izumi,Beeldhouwersstraat 44,['Eethuis'],2000,Beeldhouwersstraat 44 2000 Antwerpen,"(51.207303696320885, 4.395057708984547)",False
+Gent,Jackie's Bagelbar,Vlaanderenstraat 84,['Snack'],9000,Vlaanderenstraat 84 9000 Gent,"(51.0495911327427, 3.73040149559671)",False
+Vlekkem,Jajo,Oudenaardsesteenweg 318,['Snack'],9420,Oudenaardsesteenweg 318 9420 Vlekkem,"(50.92959593354456, 3.962345538600295)",False
+Zottegem,Jeera Thai,Zavel 23,['Eethuis'],9620,Zavel 23 9620 Zottegem,"(50.86904406629474, 3.8114425136054497)",False
+Gent,Jilles,Tentoonstellingslaan 165,['Eethuis'],9000,Tentoonstellingslaan 165 9000 Gent,"(51.03895460372439, 3.7316585208185273)",False
+Gent,Jour de fête,Gustaaf Callierlaan 233,"['Cateraar', 'Eethuis']",9000,Gustaaf Callierlaan 233 9000 Gent,"(51.03997870051699, 3.734867014913963)",False
+Brussel,Jour De Fête,Anspachlaan 181,['Eethuis'],1000,Anspachlaan 181 1000 Brussel,"(50.84569514732187, 4.34654492358794)",False
+Merksem,Joy's Villa,Bredabaan 831,"['Eethuis', 'Veganvriendelijk']",2170,Bredabaan 831 2170 Merksem,"(51.25240195431594, 4.459522843263288)",False
+Antwerpen,Juliette,Ijzerenwaag 4,['Eethuis'],2000,Ijzerenwaag 4 2000 Antwerpen,"(51.21670426391802, 4.400315653146848)",False
+Gent,Just like your mom,Maaltebruggestraat 294,['Cateraar'],9000,Maaltebruggestraat 294 9000 Gent,"(51.02551297917851, 3.7067254802806566)",False
+Antwerpen,Kafé Puur,Schoytestraat 1,"['Snack', 'Veganvriendelijk']",2000,Schoytestraat 1 2000 Antwerpen,"(51.21523949869058, 4.39902660102489)",False
+Leuven,Kalypta,Parijsstraat 21,['Eethuis'],3000,Parijsstraat 21 3000 Leuven,"(50.87891212965754, 4.6996972807175075)",False
+Sint-Gillis,Kamilou,Fernand Bernierstraat 15,"['Cateraar', 'Eethuis', 'Veganvriendelijk']",1060,Fernand Bernierstraat 15 1060 Sint-Gillis,"(50.82990730109313, 4.336687133580912)",False
+Vorst,Kamilou,Van Volxemlaan 354,"['Eethuis', 'Veganvriendelijk']",1190,Van Volxemlaan 354 1190 Vorst,"(50.82156215011329, 4.3274538729687055)",False
+Antwerpen,Kamu,Draakstraat 28,['Eethuis'],2018,Draakstraat 28 2018 Antwerpen,"(51.206175295081415, 4.431301154838009)",False
+Schelderode,Kanazawa,Hundelgemsesteenweg 242,['Eethuis'],9820,Hundelgemsesteenweg 242 9820 Schelderode,"(51.015846072611325, 3.7525226366222264)",False
+Sint-Niklaas,Kantine,Regentieplein 1,['Snack'],9100,Regentieplein 1 9100 Sint-Niklaas,"(51.167951389642106, 4.145093671691452)",False
+Gent,Kapittelhuis,Lange Kruisstraat 4,['Eethuis'],9000,Lange Kruisstraat 4 9000 Gent,"(51.05284671778664, 3.725707589807837)",False
+Brussel,Kasbah,Dansaertstraat 20,['Eethuis'],1000,Dansaertstraat 20 1000 Brussel,"(50.851025577687416, 4.344724801138332)",False
+Sint-Niklaas,Kasteel Walburg,Walburgstraat 35,"['Cateraar', 'Eethuis']",9100,Walburgstraat 35 9100 Sint-Niklaas,"(51.16286546688599, 4.145961398325051)",False
+Puurs,Kers naast de taart,Winkelveld 4,['Cateraar'],2870,Winkelveld 4 2870 Puurs,"(51.070280613093374, 4.297790486237957)",False
+Sinaai-Waas,Keyserhof,Keizerstraat 69,['Eethuis'],9112,Keizerstraat 69 9112 Sinaai-Waas,"(51.15544582068004, 4.000390522369852)",False
+Elsene,Kifkif,Biarritzsquare 1,['Eethuis'],1050,Biarritzsquare 1 1050 Elsene,"(50.82519195134125, 4.370696327832227)",False
+Antwerpen,King of Bombay,Breydelstraat 23,['Eethuis'],2018,Breydelstraat 23 2018 Antwerpen,"(51.21798284157819, 4.419437886094201)",False
+Antwerpen,Kioku,Oude Vaartplaats 47,['Eethuis'],2000,Oude Vaartplaats 47 2000 Antwerpen,"(51.221818484948905, 4.400948987992742)",False
+Blankenberge,Klein Begin,Visserstraat 23,['Eethuis'],8370,Visserstraat 23 8370 Blankenberge,,True
+Wondelgem,Koe-vert,Botestraat 61,['Eethuis'],9032,Botestraat 61 9032 Wondelgem,"(51.08636007647652, 3.7064787126627468)",False
+Sint-Niklaas,Koek en Ei,Hendrik Heymanplein 5,[],9100,Hendrik Heymanplein 5 9100 Sint-Niklaas,"(51.16226863306464, 4.1393740715322975)",False
+Koekelare,Kok aan huis Paul De Soete,Sterrestraat 140 B,['Cateraar'],8680,Sterrestraat 140 B 8680 Koekelare,"(51.08765613470771, 2.96608565942793)",False
+Sint-Gillis-bij-Dendermonde,Kokarde,Grote Markt 9 - 10,['Eethuis'],9200,Grote Markt 9 - 10 9200 Sint-Gillis-bij-Dendermonde,"(51.03059487193046, 4.098677178133559)",False
+Brussel,Kom Kom,Kruidtuinlaan 13,['Eethuis'],1000,Kruidtuinlaan 13 1000 Brussel,"(50.85525247580251, 4.357376612196755)",False
+Antwerpen,Kom Sjee Twa,Walvisstraat 1,['Eethuis'],2018,Walvisstraat 1 2018 Antwerpen,"(51.20874672056236, 4.429916614739037)",False
+Gent,Komkommertijd,Reep 14,"['Eethuis', '100% plantaardig', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",9000,Reep 14 9000 Gent,"(51.05324128151047, 3.7304943843050893)",False
+Hasselt,Kookpunt,Hemelrijk 13,['Eethuis'],3500,Hemelrijk 13 3500 Hasselt,"(50.930026361350606, 5.339834236834965)",False
+Gent,Korenhuis,Hoogpoort 35,['Eethuis'],9000,Hoogpoort 35 9000 Gent,"(51.055166746112114, 3.7242066416206705)",False
+Gent,Korenlei Twee,Korenlei 2,"['Eethuis', 'Veganvriendelijk']",9000,Korenlei 2 9000 Gent,"(51.05564071632214, 3.720477406341214)",False
+Mechelen,Koya,Désiré Boucherystraat 16,['Eethuis'],2800,Désiré Boucherystraat 16 2800 Mechelen,"(51.027180306723935, 4.482060471114452)",False
+Antwerpen,Krua Thai,Pelgrimstrtaat 13,"['Eethuis', 'Veganvriendelijk']",2000,Pelgrimstrtaat 13 2000 Antwerpen,,True
+Elsene,L'Ultime Atome,Sint Bonifaasstraat 14,['Eethuis'],1050,Sint Bonifaasstraat 14 1050 Elsene,"(50.8360692801947, 4.364365465439404)",False
+Elsene,L'Ultime Atome,Sint Bonifaasstraat 14,['Eethuis'],1050,Sint Bonifaasstraat 14 1050 Elsene,"(50.8360692801947, 4.364365465439404)",False
+Brussel,La Belle Equipe,Dansaertstraat 202,['Eethuis'],1000,Dansaertstraat 202 1000 Brussel,"(50.851025577687416, 4.344724801138332)",False
+Mechelen,La Boya,Gebroeders Verhaegenstraat 16,['Eethuis'],2800,Gebroeders Verhaegenstraat 16 2800 Mechelen,"(51.02323835189125, 4.4776039767927704)",False
+Leuven,La Cucaracha,Tiensestraat 21,['Eethuis'],3000,Tiensestraat 21 3000 Leuven,"(50.87828913880125, 4.703813500197568)",False
+Brussel,La Ferme nos Pilifs ASBL,Trassersweg 347,"['Eethuis', 'EVA voordeel']",1120,Trassersweg 347 1120 Brussel,"(50.90367718067191, 4.388812636106314)",False
+Aaslt,La Locanda,Kerkstraat 14,['Eethuis'],9300,Kerkstraat 14 9300 Aaslt,"(50.93817167250907, 4.040037219077624)",False
+Mechelen,La Loggia,Korenmarkt 37,"['Eethuis', 'EVA voordeel']",2800,Korenmarkt 37 2800 Mechelen,"(51.02433638190193, 4.476124211332823)",False
+Deinze,La Luna,Kortrijkstraat 43,"['Eethuis', 'Veganvriendelijk']",9800,Kortrijkstraat 43 9800 Deinze,"(50.97812741754083, 3.5288259864714053)",False
+Sint-Niklaas,La Luna Rossa,Nieuwstraat 6,['Eethuis'],9100,Nieuwstraat 6 9100 Sint-Niklaas,"(51.163580711179215, 4.139238982574633)",False
+Brussel,La Maison des Crêpes,Zuidstraat 11,['Eethuis'],1000,Zuidstraat 11 1000 Brussel,"(50.84723301386868, 4.350505879122635)",False
+Sint-Gillis,La maison du peuple,Sint-Gillisvoorplein 37A,['Eethuis'],1060,Sint-Gillisvoorplein 37A 1060 Sint-Gillis,"(50.8303947836212, 4.345600899331678)",False
+Gent,La Malcontenta,Haringsteeg 7 - 9,"['Eethuis', 'Veganvriendelijk']",9000,Haringsteeg 7 - 9 9000 Gent,"(51.05758914345411, 3.7217056618659545)",False
+Brussel,La Marmite,Hoogstraat 304,['Eethuis'],1000,Hoogstraat 304 1000 Brussel,"(50.83504261426899, 4.346862106535629)",False
+La-Roche-en-Ardenne,La Nature Gourmande,Rue Pumalet 9,['Eethuis'],6980,Rue Pumalet 9 6980 La-Roche-en-Ardenne,,True
+Brussel,La Papaye Verte,Rue A. Dansaertstraat 53,['Eethuis'],1000,Rue A. Dansaertstraat 53 1000 Brussel,"(50.847862473722664, 4.351854614231369)",False
+Gent,La Perla,Sint-Pietersnieuwstraat 212,['Eethuis'],9000,Sint-Pietersnieuwstraat 212 9000 Gent,"(51.044426871109124, 3.726279455650121)",False
+Elsene,La Porte des Indes,Louisalaan 455,['Eethuis'],1050,Louisalaan 455 1050 Elsene,,True
+Antwerpen,La Primavera,Kronenburgstraat 82,['Eethuis'],2000,Kronenburgstraat 82 2000 Antwerpen,"(51.21171608997299, 4.398838225408162)",False
+Gent,La Resistenza,Brabantdam 82,"['Eethuis', 'Snack']",9000,Brabantdam 82 9000 Gent,"(51.04980963747567, 3.730911931803679)",False
+Leuven,La Rotonda,Tiensestraat 121,['Eethuis'],3000,Tiensestraat 121 3000 Leuven,"(50.87583069550803, 4.708427831250533)",False
+Veldwezelt,La Source,Paalsteenlaan 90,['Eethuis'],3620,Paalsteenlaan 90 3620 Veldwezelt,"(50.915038315648324, 5.668130085320723)",False
+Leuven,La Stanza,Wandelingenstraat 8,['Eethuis'],3000,Wandelingenstraat 8 3000 Leuven,,True
+Herenthout,La Taperia,Nijlense steenweg 12,"['Eethuis', 'Snack', 'Veganvriendelijk']",2270,Nijlense steenweg 12 2270 Herenthout,"(51.14007986984787, 4.7539337647395605)",False
+Etterbeek,La Terrasse,Keltenlaan 1,['Eethuis'],1040,Keltenlaan 1 1040 Etterbeek,"(50.838915152961064, 4.398182457808902)",False
+Elsene,La Tsampa,Livornostraat 109,"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",1050,Livornostraat 109 1050 Elsene,"(50.8269807379716, 4.3618255648479245)",False
+Gent,La Vita Nova,Steendam 51,['Eethuis'],9000,Steendam 51 9000 Gent,"(51.05727778093694, 3.7305534966261686)",False
+Heldergem,Labaij Kris,Stationstraat 220,['Snack'],9450,Stationstraat 220 9450 Heldergem,,True
+Mechelen,Lan Na Thai,F. de Merodestraat 59,"['Eethuis', 'Veganvriendelijk']",2800,F. de Merodestraat 59 2800 Mechelen,,True
+Antwerpen,Lara kookt voor u,Tentoonstellingslaan 42,['Cateraar'],2020,Tentoonstellingslaan 42 2020 Antwerpen,"(51.1918264949031, 4.390628705180052)",False
+Antwerpen,Lara kookt voor u,Van Schoonbekestraat 158,"['Cateraar', 'Eethuis']",2018,Van Schoonbekestraat 158 2018 Antwerpen,"(51.19952645612943, 4.403508481151046)",False
+Brussel,Le Bar à Tapas,Borgvalstraat 11,['Eethuis'],1000,Borgvalstraat 11 1000 Brussel,,True
+Brussel,Le Bar à Tapas,Borgvalstraat 11,['Eethuis'],1000,Borgvalstraat 11 1000 Brussel,,True
+Etterbeek,Le Bol de Riz,Waversesteenweg 335,['Eethuis'],1040,Waversesteenweg 335 1040 Etterbeek,,True
+Schaarbeek,Le caveau du Max,Emile Maxlaan 87,"['Eethuis', 'Veganvriendelijk']",1030,Emile Maxlaan 87 1030 Schaarbeek,"(50.85035063393803, 4.394824281417483)",False
+Elsene,Le Grenier d'Elvire,Boondaalsesteenweg 339a,['Eethuis'],1050,Boondaalsesteenweg 339a 1050 Elsene,,True
+Brussel,Le Pain Quotidien,Dansaertstraat 16A,['Snack'],1000,Dansaertstraat 16A 1000 Brussel,"(50.851025577687416, 4.344724801138332)",False
+Brugge,Le Pain Quotidien,Philip Stockstraat 21,['Eethuis'],8000,Philip Stockstraat 21 8000 Brugge,"(51.20951058486947, 3.22594742244284)",False
+Antwerpen,Le Pain Quotidien,Lange Kievitstraat 107,['Snack'],2000,Lange Kievitstraat 107 2000 Antwerpen,"(51.22379356477641, 4.408565519566605)",False
+Gent,Le Pain Quotidien,Kalandeberg 10,"['Eethuis', 'Veganvriendelijk']",9000,Kalandeberg 10 9000 Gent,"(51.05162201164494, 3.725310800592973)",False
+Antwerpen,Le Pain Quotidien,Mechelsesteenweg 45-47,['Snack'],2000,Mechelsesteenweg 45-47 2000 Antwerpen,"(51.204116827359314, 4.41166760486619)",False
+Antwerpen,Le Pain Quotidien,Steenhouwersvest 48,['Snack'],2000,Steenhouwersvest 48 2000 Antwerpen,"(51.21767517342334, 4.399715208541481)",False
+Antwerpen,Le Pain Quotidien,Steenhouwersvest 48,['Snack'],2000,Steenhouwersvest 48 2000 Antwerpen,"(51.21767517342334, 4.399715208541481)",False
+Gent,Le Pain Total,Sint-Pietersnieuwstraat 218,"['Cateraar', 'Snack', 'EVA voordeel', 'Veganvriendelijk']",9000,Sint-Pietersnieuwstraat 218 9000 Gent,"(51.04381416773671, 3.726016922973371)",False
+Brussel,Le Paon Royal,Oude Graanmarkt 6,['Eethuis'],1000,Oude Graanmarkt 6 1000 Brussel,"(50.850109098907026, 4.347110917562523)",False
+Brussel,Le Perroquet,Watteeustraat 31,['Eethuis'],1000,Watteeustraat 31 1000 Brussel,"(50.8395114315973, 4.353546955765455)",False
+Elsene,Le Pullman,Luxemburgplein 12,['Eethuis'],1050,Luxemburgplein 12 1050 Elsene,"(50.83961112325971, 4.372698939737961)",False
+Brussel,Le Space: Dum tek veg,Sleutelstraat 26,['Eethuis'],1000,Sleutelstraat 26 1000 Brussel,"(50.85238277824536, 4.343673249367892)",False
+Schaarbeek,Le Tibet,Boulevard Auguste Reyers 153,['Eethuis'],1030,Boulevard Auguste Reyers 153 1030 Schaarbeek,"(50.85042976588114, 4.401711550900237)",False
+Gent,Lekker GEC,Koningin Maria Hendrikaplein 6,"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",9000,Koningin Maria Hendrikaplein 6 9000 Gent,"(51.037031890240094, 3.7121802580223022)",False
+Gent,Lepelblad,Onderbergen 40,['Eethuis'],9000,Onderbergen 40 9000 Gent,"(51.05210309946951, 3.719599315812496)",False
+Brussel,Les Filles,Rue du Vieux Marché aux Grains 46,['Eethuis'],1000,Rue du Vieux Marché aux Grains 46 1000 Brussel,"(50.84961454459741, 4.346386926991319)",False
+Elsene,Les Jardins de Bagatelle,Herderstraat 17,['Eethuis'],1050,Herderstraat 17 1050 Elsene,,True
+Sint-Gillis,Les Nourritures,Sint-Gillisvoorplein 43,['Eethuis'],1060,Sint-Gillisvoorplein 43 1060 Sint-Gillis,"(50.830448750742754, 4.345757012265844)",False
+Sint-Gillis,Les Nourritures Terrestres,Sint-Gillisvoorplein 43,"['100% vegetarisch', 'Veganvriendelijk']",1060,Sint-Gillisvoorplein 43 1060 Sint-Gillis,"(50.830448750742754, 4.345757012265844)",False
+raar,Les Odettes,2000Regio Antwerpen,[],Cate,2000Regio Antwerpen Cate raar,,True
+Watermaal-Bosvoorde,Les rives du Gange,avenue de la Fauconnerie 1-5,"['Eethuis', 'Snack']",1170,avenue de la Fauconnerie 1-5 1170 Watermaal-Bosvoorde,"(50.802320700620264, 4.41824633061715)",False
+Sint Martens Latem,Leven in Balans,Kraaiendonk 36,['Cateraar'],9830,Kraaiendonk 36 9830 Sint Martens Latem,"(51.005677231320725, 3.63456791588454)",False
+Brussel,Little Asia,rue St. Cathérine St. Katelijnestraat 8,['Gastronomisch'],1000,rue St. Cathérine St. Katelijnestraat 8 1000 Brussel,"(50.847862473722664, 4.351854614231369)",False
+Antwerpen,Little Ethiopia,Zirkstraat 8,"['Eethuis', 'EVA voordeel']",2000,Zirkstraat 8 2000 Antwerpen,"(51.22303211704793, 4.400219833389604)",False
+ plantaardig,Little Green Truck,Cateraar,"['100% vegetarisch', 'Veganvriendelijk']",100%,Cateraar 100%  plantaardig,,True
+Geel,Living,Markt 20,"['Eethuis', 'Veganvriendelijk']",2440,Markt 20 2440 Geel,"(51.162530595491816, 4.990484753422669)",False
+Antwerpen,Loes & Krikke bvba,Colonia Congresstraat 42/101,['Cateraar'],2060,Colonia Congresstraat 42/101 2060 Antwerpen,,True
+ Gent,Lokaal,Brabantdam 100,"['Eethuis', '100% vegetarisch', 'EVA voordeel']",9000,Brabantdam 100 9000  Gent,"(51.04966944289746, 3.731584127951162)",False
+Antwerpen,Lombardia,Lombardenvest 78,"['Snack', 'EVA voordeel', 'Veganvriendelijk']",2000,Lombardenvest 78 2000 Antwerpen,"(51.217287492499956, 4.403851163168568)",False
+Brugge,Lotus,Wapenmakerstraat 5,['Eethuis'],8000,Wapenmakerstraat 5 8000 Brugge,,True
+Nazareth,Lotus Root,Stationsstraat 33,['Eethuis'],9810,Stationsstraat 33 9810 Nazareth,"(50.9577007766522, 3.6390617893899213)",False
+Brussel,Lotus-Bar,Rue Joseph Stevensstraat 12,['Eethuis'],1000,Rue Joseph Stevensstraat 12 1000 Brussel,"(50.83848680484259, 4.355080532424223)",False
+Leuven,Loving Hut,Tiensestraat 65,"['Eethuis', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",3000,Tiensestraat 65 3000 Leuven,"(50.877152367673766, 4.705240452709247)",False
+Brussel,Loving Hut Express,Sint-Katelijneplein,['Eethuis'],1000,Sint-Katelijneplein 1000 Brussel,"(50.85078358724611, 4.348715281212784)",False
+Leuven,Loving Hut Venagerie,Rector De Someplein 13,"['Eethuis', '100% plantaardig', '100% vegetarisch', 'Veganvriendelijk']",3000,Rector De Someplein 13 3000 Leuven,"(50.87918447441649, 4.701930062923422)",False
+Leuven,Lukemieke,Vlamingenstraat 55,"['Eethuis', '100% vegetarisch']",3000,Vlamingenstraat 55 3000 Leuven,"(50.87478540581516, 4.703049645515355)",False
+Gent,Lust,Napoleon destanbergstraat 3,['Cateraar'],9000,Napoleon destanbergstraat 3 9000 Gent,"(51.048790580063475, 3.7187895407882565)",False
+Leuven,Lyrique,Grote Markt 12,"['Eethuis', 'Snack']",3000,Grote Markt 12 3000 Leuven,"(50.87889185963708, 4.700507062419342)",False
+Leuven,L’Inizio Pasta Bar,Parijsstraat 39,['Eethuis'],3000,Parijsstraat 39 3000 Leuven,"(50.87833853666988, 4.6990822426512135)",False
+Gent,M-with a view,Gasmeterlaan 110,['Gastronomisch'],9000,Gasmeterlaan 110 9000 Gent,"(51.06604193965381, 3.7140847289889134)",False
+Antwerpen,Madam Toertjes,Vlaamse kaai 72,['Snack'],2000,Vlaamse kaai 72 2000 Antwerpen,"(51.20957871256886, 4.390551437037607)",False
+Halle,Mag's Eetbar,Vandenpeereboomstraat 8,"['Eethuis', 'Snack']",1500,Vandenpeereboomstraat 8 1500 Halle,"(50.73219493518546, 4.239368909934879)",False
+Zaventem,Maharaja,Vilvoordelaan 39,['Eethuis'],1930,Vilvoordelaan 39 1930 Zaventem,"(50.88750728903948, 4.470579484360232)",False
+Antwerpen,Mai Thai,Suikerrui Z6,['Eethuis'],2000,Suikerrui Z6 2000 Antwerpen,"(51.220956336271016, 4.398185913278018)",False
+Hasselt,Maison Blanche,Maastrichterstraat 82,['Eethuis'],3500,Maastrichterstraat 82 3500 Hasselt,"(50.92999304046519, 5.340601737623323)",False
+Antwerpen,Mama Matrea,Lange Nieuwstraat 13,"['Eethuis', 'EVA voordeel']",2000,Lange Nieuwstraat 13 2000 Antwerpen,"(51.220082153393385, 4.406186332328978)",False
+Antwerpen,Mama's Garden,Oude Koornmarkt 41-43,['Eethuis'],2000,Oude Koornmarkt 41-43 2000 Antwerpen,"(51.21986820998142, 4.40020333819031)",False
+St-Gillis,Mammouth,Ruslandstraat 10,['Snack'],1060,Ruslandstraat 10 1060 St-Gillis,"(50.83646148024042, 4.339834326099808)",False
+Antwerpen,Mampoko,Amerikalei 8,['Eethuis'],2000,Amerikalei 8 2000 Antwerpen,"(51.20906363969548, 4.401998907299973)",False
+Gent,Marco Polo Trattoria,Serpentstraat 11,"['Eethuis', 'Veganvriendelijk']",9000,Serpentstraat 11 9000 Gent,"(51.05610926801702, 3.7256057509425595)",False
+Antwerpen,Mata Mata & Pili Pili,Hoogstraat 44,['Eethuis'],2000,Hoogstraat 44 2000 Antwerpen,"(51.21942841894829, 4.397755541212507)",False
+Antwerpen,Matiate,Groenendaallaan 414,['Eethuis'],2030,Groenendaallaan 414 2030 Antwerpen,"(51.24581218978841, 4.416060185472309)",False
+Schelderode,Mayom Thai,Hundelgemsesteenweg 220,"['Cateraar', 'Eethuis', 'Snack']",9820,Hundelgemsesteenweg 220 9820 Schelderode,"(51.01696253891969, 3.7528642491553743)",False
+Halle,Me Gusta,Bergensesteenweg 20,['Eethuis'],1500,Bergensesteenweg 20 1500 Halle,"(50.734356087418774, 4.234560901745362)",False
+Melle,Meridiem,Brusselsesteenweg 69,['Eethuis'],9090,Brusselsesteenweg 69 9090 Melle,"(51.02320903263739, 3.775430722195523)",False
+Sint-Niklaas,Merlot,Regentiestraat 4,['Eethuis'],9100,Regentiestraat 4 9100 Sint-Niklaas,"(51.16873806649821, 4.1428166353901625)",False
+Sint-Niklaas,Met Tijd en Boterhammen,Nieuwstraat 5,"['Eethuis', 'Snack']",9100,Nieuwstraat 5 9100 Sint-Niklaas,"(51.1637422001106, 4.139080937013095)",False
+Wilrijk,Mezze Bar Efes,De Kern 13,['Eethuis'],2610,De Kern 13 2610 Wilrijk,"(51.16934217385778, 4.406244971052172)",False
+Brussel,Mi-figue Mi-raisin,Archimedesstraat 71,"['Eethuis', 'Veganvriendelijk']",1000,Archimedesstraat 71 1000 Brussel,"(50.845201616865204, 4.383987602591317)",False
+Tremelo,Miel van Kest,Schrieksebaan 59,['Eethuis'],3120,Schrieksebaan 59 3120 Tremelo,"(50.9934078244696, 4.706660964206089)",False
+Gent,Mimosa,Kongostraat 2,['Eethuis'],9000,Kongostraat 2 9000 Gent,"(51.060063163404614, 3.730315842221244)",False
+Elsene,Mo-Mo,Rue Defacqzstraat 27,"['Eethuis', 'Veganvriendelijk']",1050,Rue Defacqzstraat 27 1050 Elsene,"(50.82941693758741, 4.373719911174009)",False
+Teuven,Moeder de Gans,Teuven-dorp 60,['Eethuis'],3793,Teuven-dorp 60 3793 Teuven,"(50.754159291726275, 5.8712241709344415)",False
+Brussel,Monya,Zwaluwenstraat 9,['Eethuis'],1000,Zwaluwenstraat 9 1000 Brussel,"(50.85232133880832, 4.3523785148741965)",False
+Sint-Niklaas,Moon Eat,Richard Van Britsomstraat 18,[],9100,Richard Van Britsomstraat 18 9100 Sint-Niklaas,,True
+sel,Moonfood,Koloniënstraat 58,"['Eethuis', 'Snack']",Brus,Koloniënstraat 58 Brus sel,,True
+Gent,Mosquito Coast,Hoogpoort 28,"['Eethuis', 'Veganvriendelijk']",9000,Hoogpoort 28 9000 Gent,"(51.05528759445681, 3.7232921365287943)",False
+Hasselt,MOSQUITO DA BEIRA BAIXA,Dokter Willemsstraat 38,['Eethuis'],3500,Dokter Willemsstraat 38 3500 Hasselt,"(50.931905303978034, 5.334381789684905)",False
+Brussel,Mr. Falafel,Lemonnierlaan 53,"['Snack', '100% vegetarisch']",1000,Lemonnierlaan 53 1000 Brussel,"(50.84260218298565, 4.343635729198065)",False
+Gent,Mrs. Beanzz,Hoefslagstraatje 6,"['Eethuis', '100% vegetarisch', 'EVA voordeel']",9000,Hoefslagstraatje 6 9000 Gent,"(51.056814952394234, 3.723142718566722)",False
+Gent,Mub'art,Fernand Scribedreef 1,['Eethuis'],9000,Fernand Scribedreef 1 9000 Gent,"(51.03815089678561, 3.7243693849525035)",False
+Gent,Muday,Sint-Salvatorstraat 53,['Eethuis'],9000,Sint-Salvatorstraat 53 9000 Gent,"(51.06457699850648, 3.7288847793136726)",False
+Gent,Multatuli,Huidevetterskaai 40,"['Eethuis', 'Veganvriendelijk']",9000,Huidevetterskaai 40 9000 Gent,"(51.061038292700694, 3.7277919277279823)",False
+Leuven,Mykene,Muntstraat 44,"['Eethuis', 'Veganvriendelijk']",3000,Muntstraat 44 3000 Leuven,"(50.87784178315608, 4.703071440442152)",False
+Deurne,Nam Fong,Boshovestraat 46-48,['Eethuis'],2100,Boshovestraat 46-48 2100 Deurne,"(51.2230032829546, 4.467953337275927)",False
+Leuven,Namaste,Naamsestraat 25,['Eethuis'],3000,Naamsestraat 25 3000 Leuven,"(50.877434982379675, 4.7007098839151835)",False
+Antwerpen,Namaste,Suikerrui 14,['Eethuis'],2000,Suikerrui 14 2000 Antwerpen,"(51.22074967238234, 4.397913828288202)",False
+Antwerpen,Native,Muntstraat 8,['Snack'],2000,Muntstraat 8 2000 Antwerpen,"(51.216974799687435, 4.396895254093088)",False
+ vegetarisch,Natuurfrituur,Cateraar,['Veganvriendelijk'],100%,Cateraar 100%  vegetarisch,,True
+Sint-Niklaas,Navaro,Parkstraat 5,['Snack'],9100,Parkstraat 5 9100 Sint-Niklaas,"(51.16531605273939, 4.139516403084879)",False
+Kortrijk,Nectar,Sint Jansstraat 17,['Eethuis'],8500,Sint Jansstraat 17 8500 Kortrijk,"(50.82682387863682, 3.271510546321245)",False
+Brussel,Neuf et Voisin,Van Arteveldestraat 1,['Eethuis'],1000,Van Arteveldestraat 1 1000 Brussel,"(50.82868217285996, 4.291920394993346)",False
+Leuven,New Mexico,Muntstraat 34,['Eethuis'],3000,Muntstraat 34 3000 Leuven,"(50.877977353046454, 4.70281664646056)",False
+Hasselt,Ni Hao,Crutzenstraat 6,['Eethuis'],3500,Crutzenstraat 6 3500 Hasselt,"(50.93804941327765, 5.315129590393515)",False
+Lommel,Nori Events,Kerkweg 1,['Cateraar'],3920,Kerkweg 1 3920 Lommel,"(51.162243131637034, 5.264421860074676)",False
+Mechelen,Nostradam,Blauwhondstraat 25,['Eethuis'],2800,Blauwhondstraat 25 2800 Mechelen,"(51.026876649927836, 4.480007157804094)",False
+Brussel,Notos,Livornostraat 154,['Eethuis'],1000,Livornostraat 154 1000 Brussel,"(50.82645939396757, 4.36286173932774)",False
+Sint-Niklaas,Nova,Grote Markt 9,"['Eethuis', 'Snack', 'Veganvriendelijk']",9100,Grote Markt 9 9100 Sint-Niklaas,"(51.16405663266607, 4.138993619306363)",False
+Hasselt,Numero Dieci,Zuivelmarkt 10,['Eethuis'],3500,Zuivelmarkt 10 3500 Hasselt,"(50.9308032557058, 5.339380869146675)",False
+Antwerpen,Nuova Era,Graaf Van Hoornestraat 3,['Eethuis'],2000,Graaf Van Hoornestraat 3 2000 Antwerpen,"(51.20815801671623, 4.3931550572725815)",False
+Elsene,O Liban,Vleurgatsesteenweg 324,"['Eethuis', 'Veganvriendelijk']",1050,Vleurgatsesteenweg 324 1050 Elsene,,True
+Hasselt,Oats,Toekomststraat 20,['Eethuis'],3500,Toekomststraat 20 3500 Hasselt,"(50.926499278997625, 5.3391068577207275)",False
+Gent,Ocean Garden,Zwijnaardsesteenweg 399,['Snack'],9000,Zwijnaardsesteenweg 399 9000 Gent,"(51.028296762634334, 3.7223951224552647)",False
+Sterrebeek,Office Traiteur Catering,Hippodroomlaan 173,['Cateraar'],1933,Hippodroomlaan 173 1933 Sterrebeek,"(50.85109241703316, 4.504468088734993)",False
+Leuven,Officina Clandestina,Sint-Antoniusberg 6,"['Eethuis', 'Snack']",3000,Sint-Antoniusberg 6 3000 Leuven,"(50.87642292424214, 4.699381330780871)",False
+Zottegem,Old Sotteghem,Markt 3,['Eethuis'],9620,Markt 3 9620 Zottegem,"(50.86986837597801, 3.8108644784880195)",False
+Leuven,OONA Asian Restaurant en Bar,Parijsstraat 23,"['Eethuis', 'Veganvriendelijk']",3000,Parijsstraat 23 3000 Leuven,"(50.87884952541922, 4.699583165195527)",False
+Mol,Opera,Kloosterstraat 1,['Snack'],2400,Kloosterstraat 1 2400 Mol,"(51.18818157407639, 5.119375680940124)",False
+Liedekerke,Orangerie,Schelfhoutstraat 77,['Eethuis'],1770,Schelfhoutstraat 77 1770 Liedekerke,"(50.864752941264086, 4.1033780358112)",False
+Gent,Orchidee,Vlaanderenstraat 105,"['Snack', 'Veganvriendelijk']",9000,Vlaanderenstraat 105 9000 Gent,"(51.0497010026413, 3.730770796279011)",False
+Brussel,Orphyse Chausette,Charles Hanssensstraat 5,['Eethuis'],1000,Charles Hanssensstraat 5 1000 Brussel,"(50.83952939477, 4.353419175693129)",False
+Elsene,Oups,Lesbroussartstraat 13,"['Snack', 'Veganvriendelijk']",1050,Lesbroussartstraat 13 1050 Elsene,"(50.82790680472413, 4.370426800287716)",False
+Antwerpen,Overvloed,Dageraadplaats 8,['Eethuis'],2018,Dageraadplaats 8 2018 Antwerpen,"(51.207254090237626, 4.430959199257351)",False
+Sint-Gillis,Ozfair,J.Volderslaan,['Eethuis'],1060,J.Volderslaan 1060 Sint-Gillis,,True
+Gent,Pacha Mama,Jan-Baptist Guinardstraat 9,"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",9000,Jan-Baptist Guinardstraat 9 9000 Gent,"(51.046953885255974, 3.7248187430116007)",False
+Waltwilder,Padam,Markt 41,"['Eethuis', 'Snack']",3740,Markt 41 3740 Waltwilder,"(50.8703208179682, 5.518045348354416)",False
+Leuven,Pannenkoekenhuis,Brusselsestraat 26,['Eethuis'],3000,Brusselsestraat 26 3000 Leuven,"(50.88219005284586, 4.687911747958736)",False
+Gent,Pappardelle,Kammerstraat 5,['Eethuis'],9000,Kammerstraat 5 9000 Gent,"(51.056338257874984, 3.7263870983723226)",False
+Evere,Paradise of India,RUE Godefroid Kurth-85,['Eethuis'],1140,RUE Godefroid Kurth-85 1140 Evere,"(50.86842762047016, 4.3983576410044565)",False
+Gent,Parnassus,Oude Houtlei 122,['Eethuis'],9000,Oude Houtlei 122 9000 Gent,"(51.051350220661845, 3.716743091644797)",False
+Mechelen,Passade,Brusselsesteenweg 301,['Eethuis'],2800,Brusselsesteenweg 301 2800 Mechelen,"(51.00810330679551, 4.474847164250925)",False
+Brugge,Passage,Dweerstraat 26,['Eethuis'],8000,Dweerstraat 26 8000 Brugge,,True
+Antwerpen,Pasta Hippo,Pelgrimstraat 1-3,['Eethuis'],2000,Pelgrimstraat 1-3 2000 Antwerpen,"(51.21955382774416, 4.399415913735942)",False
+Brugge,Pasta Presto,St. Amandstraat 17,['Eethuis'],8000,St. Amandstraat 17 8000 Brugge,,True
+Antwerpen,Pasta winkel,Hoogstraat 6,['Eethuis'],2000,Hoogstraat 6 2000 Antwerpen,"(51.22048876314344, 4.398872642595865)",False
+Antwerpen,Pasta-Hippo,Oude Koornmarkt 32-34,['Eethuis'],2000,Oude Koornmarkt 32-34 2000 Antwerpen,"(51.21986820998142, 4.40020333819031)",False
+Brugge,Pastis,Speelmansrei 8,['Eethuis'],8000,Speelmansrei 8 8000 Brugge,"(51.20699572186547, 3.2169073893014946)",False
+Brussel,Pataya,Antoine Dansaertstraat 49,['Eethuis'],1000,Antoine Dansaertstraat 49 1000 Brussel,"(50.84966862588736, 4.34718211505981)",False
+Gent,Patijntje,Gordunakaai 91,"['Eethuis', 'Veganvriendelijk']",9000,Gordunakaai 91 9000 Gent,"(51.041543835150634, 3.694535680220294)",False
+Brugge,Patrick Devos,Zilverstraat 41,['Gastronomisch'],8000,Zilverstraat 41 8000 Brugge,"(51.2065848859738, 3.220881566478807)",False
+Hasselt,Pattos,Demerstraat 69,['Eethuis'],3500,Demerstraat 69 3500 Hasselt,"(50.932579989202644, 5.338692098064036)",False
+Kortrijk,Paul's Boutique,Kleine Sint-Jansstraat en Zandstraat 19,"['Eethuis', 'Snack']",8500,Kleine Sint-Jansstraat en Zandstraat 19 8500 Kortrijk,"(50.82682387863682, 3.271510546321245)",False
+Wulpen,Peper & Zout,Albert I Laan 43,['Eethuis'],8670,Albert I Laan 43 8670 Wulpen,"(51.13157369290018, 2.669113042471094)",False
+Gent,Petrus,Sint-Amandsstraat 15,"['Eethuis', 'Snack', 'Veganvriendelijk']",9000,Sint-Amandsstraat 15 9000 Gent,,True
+Lier,Pezo,Eikelstraat 36,['Eethuis'],2500,Eikelstraat 36 2500 Lier,"(51.129879226888704, 4.5688521728509865)",False
+Rumst,Philippe Van den Bulck,Hoge Vosbergstraat 11,['Cateraar'],2840,Hoge Vosbergstraat 11 2840 Rumst,"(51.08670245236546, 4.453204422820165)",False
+Hoboken,Philippe Van den Bulck,Graspolderlaan 12,['Cateraar'],2660,Graspolderlaan 12 2660 Hoboken,"(51.18519251373173, 4.343156071690145)",False
+ Brussel,Picnik,Vlaamsesteenweg 109,['Cateraar'],1000,Vlaamsesteenweg 109 1000  Brussel,"(50.853012365698014, 4.345277663086135)",False
+Booischot,Piet Konijn,Kleine Steenweg 155,['Eethuis'],2221,Kleine Steenweg 155 2221 Booischot,"(51.03673853784791, 4.773954460037)",False
+Gent,Pinocchio,Vlaanderenstraat 9,['Eethuis'],9000,Vlaanderenstraat 9 9000 Gent,"(51.05119383638832, 3.7292244440508107)",False
+Hasselt,Pocomatto,Dorpstraat 42,['Eethuis'],3500,Dorpstraat 42 3500 Hasselt,,True
+Merksem,Poespas Gezondheidsbar,Bredabaan 430,['Eethuis'],2170,Bredabaan 430 2170 Merksem,"(51.2442153463245, 4.4444130226617675)",False
+Zegelsem (Brakel),Ponderspijs,Rovorst 33,"['Cateraar', 'Veganvriendelijk']",9660,Rovorst 33 9660 Zegelsem (Brakel),"(50.79373791875597, 3.7175001627977577)",False
+Zegelsem (Brakel),Ponderspijs,"""Rovorst 33 9660 Zegelsem (Brakel)""",['Cateraar'],9660,"""Rovorst 33 9660 Zegelsem (Brakel)"" 9660 Zegelsem (Brakel)",,True
+Zegelsem (Brakel),Ponderspijs,Rovorst 33,['Cateraar'],9660,Rovorst 33 9660 Zegelsem (Brakel),"(50.79373791875597, 3.7175001627977577)",False
+Sint-Niklaas,Porto Belfino,Houtbriel 24,['Eethuis'],9100,Houtbriel 24 9100 Sint-Niklaas,"(51.16484592320111, 4.142778229266614)",False
+Lokeren,Postiljon,Markt 14,['Eethuis'],9160,Markt 14 9160 Lokeren,"(51.104801948442564, 3.9887382959358524)",False
+Tielen,Potiron,Geelsebaan 73,['Eethuis'],2460,Geelsebaan 73 2460 Tielen,"(51.23600783590903, 4.9708187714608325)",False
+Kasterlee,Potiron,Geelsebaan 73,['Eethuis'],2460,Geelsebaan 73 2460 Kasterlee,"(51.23600783590903, 4.9708187714608325)",False
+Geel,Prepareeke,Rozendaal 4,['Eethuis'],2440,Rozendaal 4 2440 Geel,"(51.16801347703741, 4.988842152351032)",False
+Heverlee,Punjab,Naamsesteenweg 33,['Eethuis'],3001,Naamsesteenweg 33 3001 Heverlee,"(50.86713232827141, 4.697753198917232)",False
+Gent,Punjab Tandoori,Sleepstraat 67,"['Eethuis', 'Veganvriendelijk']",9000,Sleepstraat 67 9000 Gent,"(51.06105508979887, 3.725922994055608)",False
+Leuven,PurPur,Parijsstraat 33,['Eethuis'],3000,Parijsstraat 33 3000 Leuven,"(50.87866135111002, 4.69936870014012)",False
+Gent,Puur,Hoogpoort 35,['Eethuis'],9000,Hoogpoort 35 9000 Gent,"(51.055166746112114, 3.7242066416206705)",False
+Aalst,Qarfa,Stationstraat 13,[],9300,Stationstraat 13 9300 Aalst,,True
+Aalst,Qarfa,Stationsstraat 13,['Cateraar'],9300,Stationsstraat 13 9300 Aalst,"(50.941481263289425, 4.037367638854749)",False
+Gent,Quetzal - De chocoladebar,Sint-Pietersnieuwstraat 99,['Snack'],9000,Sint-Pietersnieuwstraat 99 9000 Gent,"(51.04456379766067, 3.726662595208845)",False
+Hasselt,Quiche café,Botermarkt 11,"['Eethuis', 'Snack']",3500,Botermarkt 11 3500 Hasselt,"(50.930404649451724, 5.338661323534985)",False
+Gent,Quicherie Patiron,Sluizeken 30,['Eethuis'],9000,Sluizeken 30 9000 Gent,"(51.05918955278769, 3.7250499416047083)",False
+Leuven,Quo Vadis,Muntstraat 11,['Eethuis'],3000,Muntstraat 11 3000 Leuven,"(50.878230026756356, 4.702477430813441)",False
+Brussel,Recyclart vzw,Ursulinenstraat 25,['EVA voordeel'],1000,Ursulinenstraat 25 1000 Brussel,"(50.841317549092985, 4.348236454684402)",False
+Torhout,Red Rooster Fast Food,Stationsstraat 15,['Eethuis'],8820,Stationsstraat 15 8820 Torhout,"(51.064561611852476, 3.1045614502084704)",False
+Brugge,Réliva,Goezeputstraat 6,"['Eethuis', 'Veganvriendelijk']",8000,Goezeputstraat 6 8000 Brugge,"(51.2045281671259, 3.2210752528562163)",False
+Kortrijk,Repos et Repas,Bouwcentrum Pottelberg Engelse Wandeling 2 K17,['Eethuis'],8500,Bouwcentrum Pottelberg Engelse Wandeling 2 K17 8500 Kortrijk,,True
+Gent,Restaurant Ateljee,Vlaamsekaai 10,['Eethuis'],9000,Vlaamsekaai 10 9000 Gent,"(51.04406826813524, 3.7414852407616146)",False
+Antwerpen,Resto Jardin,Somméstraat 45,"['Eethuis', '100% vegetarisch']",2060,Somméstraat 45 2060 Antwerpen,"(51.22248506091551, 4.438723496947052)",False
+Brussel,Ricotta & Parmesan,Schildknaapstraat 31,['Eethuis'],1000,Schildknaapstraat 31 1000 Brussel,,True
+Gent,Riz d'Or,Sint-Michielsstraat 10,['Eethuis'],9000,Sint-Michielsstraat 10 9000 Gent,"(51.053974093043045, 3.7181899008753865)",False
+Brugge,Rock Fort,Langestraat 15,['Eethuis'],8000,Langestraat 15 8000 Brugge,"(51.20981390692218, 3.232237081747898)",False
+Mechelen,Ronda,Vismarkt 10,['Eethuis'],2800,Vismarkt 10 2800 Mechelen,"(51.02653798101517, 4.476899001755312)",False
+Gent,Rood,Sleepstraat 210,['Eethuis'],9000,Sleepstraat 210 9000 Gent,"(51.063615762849366, 3.728997770977965)",False
+Oudenaarde,Roodstop,Deinzestraat 63,['Snack'],9700,Deinzestraat 63 9700 Oudenaarde,"(50.854328715655996, 3.5930304738571843)",False
+Elsene,Rouge Tomate,Louizalaan 190,['Eethuis'],1050,Louizalaan 190 1050 Elsene,"(50.82778090173163, 4.363926114851191)",False
+Leuven,Royal Indian Food,Tervuursestraat 5,['Eethuis'],3000,Tervuursestraat 5 3000 Leuven,"(50.87936363554426, 4.689270809019026)",False
+Gent,S.M.A.K café by Grade,Citadelpark,['Snack'],9000,Citadelpark 9000 Gent,,True
+Tienen,Sake Sushi House,Hennemarkt 12,[],3300,Hennemarkt 12 3300 Tienen,"(50.80628195486556, 4.94052727149048)",False
+Gent,Sala Thai 3,Hooiaard 5,['Eethuis'],9000,Hooiaard 5 9000 Gent,"(51.05534863686794, 3.7213087130535287)",False
+Antwerpen,Sale e pepe,Kasteelpleinstraat 53,['Eethuis'],2000,Kasteelpleinstraat 53 2000 Antwerpen,"(51.210142197121506, 4.402185721927338)",False
+Kortrijk,Same same but different,Doorniksesteenweg 105,['Eethuis'],8500,Doorniksesteenweg 105 8500 Kortrijk,"(50.808234152955364, 3.279520925256634)",False
+Leuven,Samourai,Muntstraat 9,['Eethuis'],3000,Muntstraat 9 3000 Leuven,"(50.87829327597685, 4.7023642088516615)",False
+Gent,Sarabande,Korenlei 1,['Eethuis'],9000,Korenlei 1 9000 Gent,"(51.05564118666531, 3.7205629794817625)",False
+Oostende,Sassy's pizza en pastabar,Steensedijk 23,"['Eethuis', 'EVA voordeel', 'Veganvriendelijk']",8400,Steensedijk 23 8400 Oostende,"(51.20186122174166, 2.916359797769634)",False
+Mechelen,Sava,Grote Markt 13,"['Eethuis', 'Snack']",2800,Grote Markt 13 2800 Mechelen,"(51.02850296643842, 4.4807380245471995)",False
+Aalst,Savarin,Esplanadeplein 14,['Eethuis'],9300,Esplanadeplein 14 9300 Aalst,"(50.94112896236935, 4.036758315813515)",False
+Zaventem,Sawadee,Vilvoordelaan 21,"['Eethuis', 'Veganvriendelijk']",1930,Vilvoordelaan 21 1930 Zaventem,"(50.886833071617, 4.470592224213584)",False
+Kasterlee,Seven Hill,Geelsebaan 29/2,['Eethuis'],9460,Geelsebaan 29/2 9460 Kasterlee,,True
+Heverlee,Siam,Naamsesteenweg 217,['Eethuis'],3001,Naamsesteenweg 217 3001 Heverlee,"(50.86212067485552, 4.696141379146177)",False
+Vorst,Sinstreetfood,Koningsstraat 165,"['Snack', '100% vegetarisch', 'EVA voordeel']",1190,Koningsstraat 165 1190 Vorst,,True
+Antwerpen,Sjalot en Schanul,Oude beurs 12,['Eethuis'],2000,Oude beurs 12 2000 Antwerpen,"(51.221944472341434, 4.400405159998624)",False
+Brussel,Skievelat,J. Stevensstraat 16-18,['Eethuis'],1000,J. Stevensstraat 16-18 1000 Brussel,,True
+Sinaai-Waas,Smos Express,Dries 29,['Snack'],9112,Dries 29 9112 Sinaai-Waas,"(51.15656700239658, 4.042433805398157)",False
+Leuven,Snackworld,Naamsevest 4,['Snack'],3000,Naamsevest 4 3000 Leuven,"(50.868836588811476, 4.6990863307906565)",False
+Sint-Niklaas,Soep en Zoet,Stationsstraat 16,"['Eethuis', 'Snack']",9100,Stationsstraat 16 9100 Sint-Niklaas,"(51.16568808236487, 4.14133022706458)",False
+Gent,Soeperstar,Makelaarstraat 24,['Cateraar'],9000,Makelaarstraat 24 9000 Gent,,True
+Heusden,Soepkom,Leegrede 3,"['Snack', 'EVA voordeel']",9070,Leegrede 3 9070 Heusden,"(51.035220999214935, 3.822397822120968)",False
+Antwerpen,Soepmie,Oranjestraat 94,['Snack'],2060,Oranjestraat 94 2060 Antwerpen,"(51.22792228355644, 4.42322811598928)",False
+Antwerpen,Soepmie,Dambruggestraat 26/1,['Cateraar'],2060,Dambruggestraat 26/1 2060 Antwerpen,"(51.22430063798104, 4.421778083510996)",False
+Gent,Soepplus,Lammerstraat 33,['Snack'],9000,Lammerstraat 33 9000 Gent,"(51.048125158855555, 3.7286103254887064)",False
+Lier,Soetemin,Schollebeekstraat 4,['Eethuis'],2500,Schollebeekstraat 4 2500 Lier,"(51.11800502139191, 4.584154111005094)",False
+Brugge,Sol Y Sombra,Langestraat 121,['Snack'],8000,Langestraat 121 8000 Brugge,"(51.2115836658468, 3.2368024703599283)",False
+Brussel,Soul,Samaritanessestraat 20,"['Eethuis', 'Veganvriendelijk']",1000,Samaritanessestraat 20 1000 Brussel,"(50.840545124397636, 4.35273738045381)",False
+Brussel,Soup in the City,Lakensestraat 36,['Snack'],1000,Lakensestraat 36 1000 Brussel,"(50.852384062661756, 4.350929986597428)",False
+Ledeberg,Souperette,Bellevuestraat 30b,['Eethuis'],9050,Bellevuestraat 30b 9050 Ledeberg,"(51.03463721275709, 3.734525810008194)",False
+Gent,Sous Fleurs,Zalmstraat 75,['Cateraar'],9000,Zalmstraat 75 9000 Gent,"(51.04711212444793, 3.744211055818413)",False
+Antwerpen,Spaghettiworld,Oude Koronmarkt 66,['Eethuis'],2000,Oude Koronmarkt 66 2000 Antwerpen,"(51.221818484948905, 4.400948987992742)",False
+Mechelen,Spice and taste,Liersesteenweg 179,['Eethuis'],2800,Liersesteenweg 179 2800 Mechelen,"(51.03867934278316, 4.47987854851268)",False
+Gent,Spice of India,Sleepstraat 66,['Eethuis'],9000,Sleepstraat 66 9000 Gent,"(51.0608764840657, 3.7261394181439704)",False
+Walem,Spice of India,Zandpoortvest 22,['Eethuis'],2800,Zandpoortvest 22 2800 Walem,"(51.024639602722665, 4.487898141603456)",False
+Gent,Spinnekop,Einde Were 44,['Snack'],9000,Einde Were 44 9000 Gent,"(51.05082990780161, 3.702459982126987)",False
+Turnhout,Sprouts,Baron du Fourstraat 4 bus 7 (Bloemekensgang),"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",2300,Baron du Fourstraat 4 bus 7 (Bloemekensgang) 2300 Turnhout,"(51.32449983340029, 4.952770877151921)",False
+Antwerpen,Starfish & Coffee,Bresstraat 9,['Snack'],2018,Bresstraat 9 2018 Antwerpen,"(51.20635915336555, 4.398190793518253)",False
+Gent,Sushi-Food,Limburgstraat 36,['Eethuis'],9000,Limburgstraat 36 9000 Gent,"(51.05216430192212, 3.727499732214183)",False
+Kortrijk,Sweet Lime,Kasteelkaai 4,['Eethuis'],8500,Kasteelkaai 4 8500 Kortrijk,"(50.82911437420729, 3.261718958997988)",False
+Merendree,t Aards Paradijs,Merendreedorp 65,['Gastronomisch'],9850,Merendreedorp 65 9850 Merendree,"(51.07874712308694, 3.580835111283109)",False
+Leest,t Archief,Frans Reyniersstraat 17-19,"['Eethuis', 'EVA voordeel']",2811,Frans Reyniersstraat 17-19 2811 Leest,"(51.01415871862112, 4.444308733046369)",False
+Heist-op-den-Berg,t Eetkafee,Bergstraat 2b,['Eethuis'],2220,Bergstraat 2b 2220 Heist-op-den-Berg,"(51.075390644432645, 4.727131004343298)",False
+Heldergem,t Friethoeksken,Kerkskenhoek 39,['Snack'],9450,Kerkskenhoek 39 9450 Heldergem,"(50.894519878534425, 3.9979845645215297)",False
+Zalardinge,t Goed Verteer,Oudenaardsestraat 28,['Eethuis'],9500,Oudenaardsestraat 28 9500 Zalardinge,"(50.7716703505482, 3.8745049168443457)",False
+Zalardinge,t Goed Verteer,Oudenaardsestraat 28,['Eethuis'],9500,Oudenaardsestraat 28 9500 Zalardinge,"(50.7716703505482, 3.8745049168443457)",False
+Gent,t Gouden hoofd,Slachthuisstraat 96,['Eethuis'],9000,Slachthuisstraat 96 9000 Gent,"(51.052644059415904, 3.738118609517607)",False
+Nieuwerkerken,t Groen Blad,Kemmelstraat 94,['Eethuis'],8950,Kemmelstraat 94 8950 Nieuwerkerken,"(50.760033273046496, 2.829799266552563)",False
+Rupelmonde,t Hofke van Bazel,Koningin Astridplein 11-13,['Gastronomisch'],9150,Koningin Astridplein 11-13 9150 Rupelmonde,"(51.14678507667333, 4.2995903173136565)",False
+Kortrijk-Dutsel (Holsbeek),t Kraaienest,Gobbelsrode 74B,['Cateraar'],3220,Gobbelsrode 74B 3220 Kortrijk-Dutsel (Holsbeek),"(50.915118565637606, 4.807472204068615)",False
+Waardamme,t Oud Gemeentehuis,Kortrijksstraat 405,['Eethuis'],8020,Kortrijksstraat 405 8020 Waardamme,,True
+Waardamme,t Roodhof,Nieuwburgstraat 32,"['Cateraar', 'Eethuis']",8020,Nieuwburgstraat 32 8020 Waardamme,"(51.14082683789154, 3.2172949910346964)",False
+Poeke,t Vijfde Seizoen,Stationsstraat 9,['Gastronomisch'],9880,Stationsstraat 9 9880 Poeke,"(51.08451196225954, 3.4483465211822253)",False
+Waltwilder,t Vlierhof,Hasseltsestraat 57A,['Gastronomisch'],3740,Hasseltsestraat 57A 3740 Waltwilder,"(50.878271804616645, 5.499197863541701)",False
+Sint-Amandsberg,Table d'amis,Gustaaf Carelshof 6,"['Eethuis', 'EVA voordeel']",9040,Gustaaf Carelshof 6 9040 Sint-Amandsberg,"(51.069904535497585, 3.7729273271324053)",False
+Antwerpen,Taj Mahal,Statiestraat 15,['Eethuis'],2018,Statiestraat 15 2018 Antwerpen,"(51.21838759127883, 4.418808581539591)",False
+Zepperen,Taj Mahal,Stationsstraat 53,['Eethuis'],3800,Stationsstraat 53 3800 Zepperen,"(50.81715637580659, 5.177465436528264)",False
+Elsene,Tan,Waterleidingstraat 95,['Eethuis'],1050,Waterleidingstraat 95 1050 Elsene,,True
+Antwerpen,Tangh's,Kasteelpleinstraat 36,['Eethuis'],2000,Kasteelpleinstraat 36 2000 Antwerpen,"(51.21013337662249, 4.40159900641727)",False
+Brussel,Tarte Julie,E. Jacqmainlaan 56,"['Eethuis', 'EVA voordeel']",1000,E. Jacqmainlaan 56 1000 Brussel,,True
+Middelkerke,Tartine,Zeedijk 153,"['Eethuis', 'Snack']",8430,Zeedijk 153 8430 Middelkerke,"(51.186009562940015, 2.8103341214905115)",False
+Gent,Tartino,Predikherenlei 25,['Snack'],9000,Predikherenlei 25 9000 Gent,"(51.05243500061592, 3.7211065204146916)",False
+Oudenaarde,Taste and Flavor,Markt 60,['Eethuis'],9700,Markt 60 9700 Oudenaarde,"(50.843375183647446, 3.6034202096163863)",False
+Hasselt,Taste of India,Fruitmarkt 26,"['Cateraar', 'Eethuis']",3500,Fruitmarkt 26 3500 Hasselt,"(50.93018445853183, 5.339197349554946)",False
+Hasselt,Tasty Bowl,Fruitmarkt 34,['Eethuis'],3500,Fruitmarkt 34 3500 Hasselt,"(50.92990369778191, 5.339447601709321)",False
+Gent,Tasty I,Walpoortstraat 3,"['Snack', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",9000,Walpoortstraat 3 9000 Gent,"(51.04916837905852, 3.7270415913713406)",False
+Gent,Tasty II,Hoogpoort 1,"['Snack', '100% vegetarisch', 'EVA voordeel', 'Veganvriendelijk']",9000,Hoogpoort 1 9000 Gent,"(51.05572592738049, 3.7229009879222126)",False
+Rocourt,Tasty III,Rue de la casquette 17,"['Snack', '100% vegetarisch', 'EVA voordeel']",4000,Rue de la casquette 17 4000 Rocourt,,True
+Nijlen,Taverne De Beemden,Vogelzangstraat 29,['Eethuis'],2560,Vogelzangstraat 29 2560 Nijlen,"(51.17063701286178, 4.643119424251394)",False
+Antwerpen,Terras café (Hilton),Groenplaats 32,['Eethuis'],2000,Groenplaats 32 2000 Antwerpen,"(51.21926537637208, 4.402378465085132)",False
+Diegem,Testa Rossi,Oude Haachtsesteenweg 119,['Eethuis'],1831,Oude Haachtsesteenweg 119 1831 Diegem,"(50.89583955163291, 4.434337243382969)",False
+Sint-Michiels,Tête Pressée,Koningin Astridlaan 100,['Gastronomisch'],8200,Koningin Astridlaan 100 8200 Sint-Michiels,"(51.18888737827768, 3.2028057818320272)",False
+Zandvoorde,Tex Mex,Monacoplein 7,['Eethuis'],8400,Monacoplein 7 8400 Zandvoorde,"(51.23132242557995, 2.9134805123954104)",False
+Gent,Thai Cuisine,Zuidstationstraat 2-4,['Eethuis'],9000,Zuidstationstraat 2-4 9000 Gent,"(51.048793254885254, 3.7324659748185502)",False
+Leuven,Thai House,Alfonssmetsplein,['Eethuis'],3000,Alfonssmetsplein 3000 Leuven,,True
+Gent,Thalia,Sint-Pietersnieuwstraat 138,"['Eethuis', 'EVA voordeel']",9000,Sint-Pietersnieuwstraat 138 9000 Gent,"(51.04667713425232, 3.7268190212857757)",False
+Kortrijk,Than Thai,Lekkerbeetstraat 4-10,"['Eethuis', 'Veganvriendelijk']",8500,Lekkerbeetstraat 4-10 8500 Kortrijk,"(50.825915081881185, 3.2685508689843776)",False
+Ledeberg,Thawan Thai Take Away,Jacques Eggermontstraat 72,"['Eethuis', 'Veganvriendelijk']",9050,Jacques Eggermontstraat 72 9050 Ledeberg,"(51.03719982045142, 3.7396809070061447)",False
+Gent,The Lounge,The Lounge,['Snack'],9000,The Lounge 9000 Gent,"(51.04607150748593, 3.7196401000639514)",False
+Leuven,The New Holy Cow,Naamsestraat 51,['Eethuis'],3000,Naamsestraat 51 3000 Leuven,"(50.87664412139852, 4.700633241205477)",False
+Leuven,The sushi lounge,Oude markt 34,['Eethuis'],3000,Oude markt 34 3000 Leuven,"(50.87786266239038, 4.698879964867082)",False
+Kessel-Lo,The Worldkitchen,Wilselsesteenweg 321,['Eethuis'],3010,Wilselsesteenweg 321 3010 Kessel-Lo,"(50.90704046682392, 4.718194204395527)",False
+Hasselt,Theatercafé,Kunstlaan 5,['Eethuis'],3500,Kunstlaan 5 3500 Hasselt,"(50.92641851818084, 5.34667271641791)",False
+Brussel,Thien Long,Van Arteveldestraat 12,['Snack'],1000,Van Arteveldestraat 12 1000 Brussel,"(50.82868217285996, 4.291920394993346)",False
+Antwerpen,Time Out,Lange Herentalsestraat 58,['100% vegetarisch'],2018,Lange Herentalsestraat 58 2018 Antwerpen,"(51.21453220327329, 4.417301696419132)",False
+Leuven,Timory,Brusselsestraat 76,['Eethuis'],3000,Brusselsestraat 76 3000 Leuven,"(50.88049357809482, 4.696752830241062)",False
+Antwerpen,Tinsel,Vlaamse kaai 40,['Snack'],2000,Vlaamse kaai 40 2000 Antwerpen,"(51.20957871256886, 4.390551437037607)",False
+Gent,Tiva,Oudburg 43,"['Cateraar', 'Eethuis']",9000,Oudburg 43 9000 Gent,"(51.05879961697522, 3.7244276739276625)",False
+Leuven,Toeareg,Parijsstraat 37,['Eethuis'],3000,Parijsstraat 37 3000 Leuven,"(50.878356395119745, 4.699124995625219)",False
+Gent,Toi et moi,Sint-Michielsstraat 31,['Eethuis'],9000,Sint-Michielsstraat 31 9000 Gent,"(51.0542119827562, 3.7173165637814334)",False
+Antwerpen,Tokyo Sushi,Haarstraat 8,"['Eethuis', 'Snack', 'Veganvriendelijk']",2000,Haarstraat 8 2000 Antwerpen,"(51.22039017656716, 4.397756153741997)",False
+Elsene,Tom Yam,Chaussee de Boondaalsesteenweg 341,['Eethuis'],1050,Chaussee de Boondaalsesteenweg 341 1050 Elsene,,True
+Brussel,Toukoul,Lakenstraat 34,"['Eethuis', 'EVA voordeel', 'Veganvriendelijk']",1000,Lakenstraat 34 1000 Brussel,,True
+Gent,Trafiek,Haspelstraat 37,"['Eethuis', 'Snack', 'Veganvriendelijk']",9000,Haspelstraat 37 9000 Gent,"(51.058351409182166, 3.7020106528241525)",False
+Rotselaar,Traiteur Geert Groffen,Aarschotsesteenweg 10,['Cateraar'],3110,Aarschotsesteenweg 10 3110 Rotselaar,"(50.93836219457909, 4.735016925792405)",False
+Berchem,Trizee Privee,Thaliastraat 84,['Cateraar'],2600,Thaliastraat 84 2600 Berchem,"(51.1999557211346, 4.445656810242805)",False
+Gent,Tuin van Eten,Kortrijksestesteenweg 573,"['Eethuis', 'Veganvriendelijk']",9000,Kortrijksestesteenweg 573 9000 Gent,,True
+Leuven,Turquoise,Naamsevest 6,['Eethuis'],3000,Naamsevest 6 3000 Leuven,"(50.868827399043205, 4.699157296859612)",False
+Voorde,Tweety Frit,Brusselsesteenweg 73,['Snack'],9400,Brusselsesteenweg 73 9400 Voorde,"(50.82824424580411, 4.029235976049041)",False
+Gent,Twilight Eetcafé,Korenmarkt 36,['Eethuis'],9000,Korenmarkt 36 9000 Gent,"(51.05523413324712, 3.7217381900619304)",False
+Gent,Uit Steppe & Oase,Jan Breydelstraat 21,"['Eethuis', 'Veganvriendelijk']",9000,Jan Breydelstraat 21 9000 Gent,"(51.056203781700496, 3.7198848128264834)",False
+Antwerpen,Umami,Magdalenastraat 8,['Cateraar'],2018,Magdalenastraat 8 2018 Antwerpen,"(51.208865004501, 4.427112091773405)",False
+Zwalm,Un.Do,Veldstraat 4,"['Eethuis', 'EVA voordeel']",9630,Veldstraat 4 9630 Zwalm,"(50.87147855656345, 3.7298780627524586)",False
+Antwerpen,Urban wraps,Minderbroedersrui 64,['Eethuis'],2000,Minderbroedersrui 64 2000 Antwerpen,"(51.22160159888422, 4.404899360080487)",False
+Antwerpen,Urvashi,Verschansingstraat 63,['Eethuis'],2000,Verschansingstraat 63 2000 Antwerpen,"(51.20805087132883, 4.38952042795263)",False
+Hoogstraten,Vandersmissen Feestservice BVBA,Vrijheid 64,['Cateraar'],2320,Vrijheid 64 2320 Hoogstraten,"(51.40530633136543, 4.762345430692156)",False
+Antwerpen,Varelli,Plantinkaai 15,['Eethuis'],2000,Plantinkaai 15 2000 Antwerpen,"(51.217460674105986, 4.394763033024713)",False
+Bornem,Vegabites,Woestijnstraat 53A,['Cateraar'],2880,Woestijnstraat 53A 2880 Bornem,"(51.0932916722219, 4.271762540195728)",False
+Leuven,Vegaverso,Tiensestraat 22,"['Eethuis', '100% plantaardig', '100% vegetarisch']",3000,Tiensestraat 22 3000 Leuven,"(50.8783538104658, 4.703202973394043)",False
+ vegetarisch,Veggiebites,Cateraar,[],100%,Cateraar 100%  vegetarisch,,True
+Wilsele,Vera Cruz,Kolonel Begaultlaan 19,['Eethuis'],3012,Kolonel Begaultlaan 19 3012 Wilsele,"(50.89216298294885, 4.705888328748434)",False
+Antwerpen,Via Via Reiscafé,Wolstraat 43,['Eethuis'],2000,Wolstraat 43 2000 Antwerpen,"(51.22152980277357, 4.404541466484001)",False
+Heverlee,ViaVia Leuven,Naamsesteenweg 227,['Eethuis'],3001,Naamsesteenweg 227 3001 Heverlee,"(50.86188699055246, 4.696125543616414)",False
+Walem,ViaVia Mechelen,Zandpoortvest 50,"['Eethuis', 'Snack']",2800,Zandpoortvest 50 2800 Walem,"(51.022924013784575, 4.486596747936456)",False
+Merelbeke,Villa Florazicht,Hundelgemsesteenweg 182,['Eethuis'],9082,Hundelgemsesteenweg 182 9082 Merelbeke,,True
+Balen,Villa Muun,Nieuwstraat 8,['Eethuis'],2490,Nieuwstraat 8 2490 Balen,"(51.17101204417554, 5.164726656607828)",False
+Hamme,VivaVega / The Loving Hut Express,Museumstraat 10,['Cateraar'],9220,Museumstraat 10 9220 Hamme,"(51.09728355421186, 4.132025988717208)",False
+Antwerpen,Wagamama,Keyserlei 15,"['Eethuis', 'Snack', 'Veganvriendelijk']",2018,Keyserlei 15 2018 Antwerpen,"(51.21744371133315, 4.419036549851114)",False
+Gent,Wakame,Lostraat 32-34,[],9000,Lostraat 32-34 9000 Gent,"(51.058528457559746, 3.7291100431827755)",False
+Meerhout,Wang Jiang,Schoolstraat 14,['Eethuis'],2450,Schoolstraat 14 2450 Meerhout,"(51.129919133198, 5.076480459558337)",False
+Deurne,Watsoep,Plankenbergstraat 112 L11,['Cateraar'],2100,Plankenbergstraat 112 L11 2100 Deurne,"(51.22106210797976, 4.467577031635216)",False
+Deurne,Watsoep,Plankenbergstraat 112 L11,"['Eethuis', '100% vegetarisch']",2100,Plankenbergstraat 112 L11 2100 Deurne,"(51.22106210797976, 4.467577031635216)",False
+Berchem,Wattman,Tramplein 3,['Eethuis'],2600,Tramplein 3 2600 Berchem,"(51.205266712296286, 4.432687846238203)",False
+ Borgloon,Welkom India,Papenstraat 2,"['Cateraar', 'Eethuis']",3840,Papenstraat 2 3840  Borgloon,"(50.80222727398471, 5.343436995639939)",False
+Leuven,Wereldcafé.coop,Joris Helleputteplein 2,['Snack'],3000,Joris Helleputteplein 2 3000 Leuven,"(50.878368864969346, 4.697888896371858)",False
+Gent,Wereldrestaurant De Centrale,Kraankinderstraat 2,['Eethuis'],9000,Kraankinderstraat 2 9000 Gent,,True
+ Antwerpen,Wild Project,Grote Pieter Potstraat 21,"['Eethuis', '100% vegetarisch', 'Veganvriendelijk']",2000,Grote Pieter Potstraat 21 2000  Antwerpen,"(51.21994992313579, 4.397040223887933)",False
+Sint-Niklaas,Winny's,Houtbriel 5,['Snack'],9100,Houtbriel 5 9100 Sint-Niklaas,"(51.1651679806304, 4.141976084656444)",False
+Brussel,Witlov,Stalingradlaan 56,['Cateraar'],1000,Stalingradlaan 56 1000 Brussel,"(50.84111002452153, 4.344133422148072)",False
+Gent,Witte olifant-Chang Phuak,Zwarte zusterstraat 32,"['Eethuis', 'Veganvriendelijk']",9000,Zwarte zusterstraat 32 9000 Gent,"(51.05666881888846, 3.7113344770284917)",False
+Antwerpen,Wok & Walk,Koningin Astridplein 32,['Eethuis'],2018,Koningin Astridplein 32 2018 Antwerpen,"(51.21780274161261, 4.4201962412766935)",False
+Antwerpen,Wok A Way,Groendalstraat 14,['Eethuis'],2000,Groendalstraat 14 2000 Antwerpen,"(51.21741312892325, 4.404509621314145)",False
+Gent,Wokaway,Korenmarkt 11,['Eethuis'],9000,Korenmarkt 11 9000 Gent,"(51.054509029133065, 3.722290196019319)",False
+Elsene,YAG*,Rue Washington 59,['Eethuis'],1050,Rue Washington 59 1050 Elsene,"(50.82218037166793, 4.3631318592758825)",False
+Brussel,Yaki,Visverkopersstraat 6B,['Eethuis'],1000,Visverkopersstraat 6B 1000 Brussel,"(50.84923735021349, 4.348460315815376)",False
+Kortrijk,Yanto's Boutique,Doorniksesteenweg 117,"['Eethuis', 'Snack']",8500,Doorniksesteenweg 117 8500 Kortrijk,"(50.80808305910597, 3.2797088810694817)",False
+Brussel,Yeti,Goede Bijstandstraat 4,['Eethuis'],1000,Goede Bijstandstraat 4 1000 Brussel,"(50.84635305709842, 4.3764340021413295)",False
+Antwerpen,Yuna,Pelgrimsstraat 2,"['Eethuis', 'Veganvriendelijk']",2000,Pelgrimsstraat 2 2000 Antwerpen,,True
+Antwerpen,Z'Hoor,Verschansingstraat 28,['Eethuis'],2000,Verschansingstraat 28 2000 Antwerpen,"(51.208482061341954, 4.390880025967863)",False
