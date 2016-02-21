@@ -13,19 +13,19 @@ requirejs.config({
 	"jquery":	"//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min",
 	"leaflet":	"../../external/leaflet/leaflet",
 	"d3":		"d3.min",
-	"datatables":	"../../external/DataTables/datatables.min"
+	//"datatables":	"../../external/DataTables/datatables.min"
     }
 });
 
 // Start the main app logic.
-requirejs(['jquery','leaflet','d3', 'datatables' , 'app/helper'],
+requirejs(['jquery','leaflet','d3', /*'datatables' ,*/ 'app/helper'],
 function ($, L, d3){
 
 	var attributionString = '&copy; <a href="http://osm.org/copyright" title="OpenStreetMap" target="_blank">OpenStreetMap</a> contributors | Tiles Courtesy of <a href="http://www.mapquest.com/" title="MapQuest" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png" width="16" height="16">';
 	var subdomainsToQuery = ['otile1','otile2','otile3','otile4'];
 
 
-	var center = {lat:51.10, lng:4.20};
+	var center = {lat:51.05, lng:4.20};
 	var zoom = 9;	
 	var map = L.map('map').setView([center.lat, center.lng], zoom);
 
@@ -45,15 +45,18 @@ function ($, L, d3){
 	//map.addLayer(satelliteLayer);
 	map.addLayer(mapLayer);
 
-	addMarkerToMap(51.053905	, 3.722943	, 'Gent'		, map);
-	addMarkerToMap(51.02778		, 4.48111	, 'Mechelen'	, map);
+	//addMarkerToMap(51.053905	, 3.722943	, 'Gent'		, map);
+	//addMarkerToMap(51.02778		, 4.48111	, 'Mechelen'	, map);
 
-	addMarkerToMap(51.2192		, 4.4029	, 'Antwerpen'	, map);
-	addMarkerToMap(50.9333 		, 5.3333	, 'Hasselt'		, map);
- 	addMarkerToMap(50.85		, 2.7167	, 'Poperinge'	, map); 
+	//addMarkerToMap(51.2192		, 4.4029	, 'Antwerpen'	, map);
+	//addMarkerToMap(50.9333 		, 5.3333	, 'Hasselt'		, map);
+ 	//addMarkerToMap(50.85		, 2.7167	, 'Poperinge'	, map); 
 
  	d3.json('data/restodata.json', function(data){
  		console.log(data.length);
+
+ 		stats1 = {};
+ 		stats2 = {};
 
  		for (var i=0; i<data.length; i++){
  		
@@ -62,7 +65,34 @@ function ($, L, d3){
  			var lon = data[i].lon;
 
  			addMarkerToMap(lat,lon,desc,map);
+
+
+ 			prov = Math.floor(parseInt(data[i].zip)/1000);
+ 			reg = Math.floor(parseInt(data[i].zip)/100);
+
+ 			incMapValue(stats1,prov,1);
+			incMapValue(stats2,reg,1);
  		}
+
+ 		console.log(stats1);
+ 		console.log(stats2);
+
+
+ 		row_bi1 = createCanvasRow("body div#bi1",1,2,row);
+ 		row_bi2 = createCanvasRow("body div#bi2",1,1,row);
+
+ 		stats1_f = filterFreqTable(stats1,5)
+ 		stats1_ren = renameKeys(stats1_f, ['Brussel','Antwerpen','Limburg/Vlaams-Brabant','West-Vlaanderen','Oost-Vlaanderen'])
+ 		stats2_f = filterFreqTable(stats2,2)
+
+ 		visualize_ordlin(stats1_ren,  row_bi1[0], "Veggie locations per province");
+ 		visualize_ordlin(stats2_f,  row_bi2[0], "Veggie locations per region");
+
+
+
+
+
+
 
 
 
