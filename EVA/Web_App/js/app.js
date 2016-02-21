@@ -52,10 +52,18 @@ function ($, L, d3){
 	addMarkerToMap(50.9333 		, 5.3333	, 'Hasselt'		, map);
  	addMarkerToMap(50.85		, 2.7167	, 'Poperinge'	, map); 
 
- 	d3.csv('data/restaurants.csv', function(data){
+ 	d3.json('data/restodata.json', function(data){
  		console.log(data.length);
- 		var latlon = parseLatLon(""+data[0].latlon);
- 		console.log(latlon);
+
+ 		for (var i=0; i<data.length; i++){
+ 		
+ 			var desc = "<p> " + data[i].name + "</p>"  + "<p> " + data[i].street + " " + data[i].zip + " " + data[i].city +   "</p>";
+ 			var lat = data[i].lat;
+ 			var lon = data[i].lon;
+
+ 			addMarkerToMap(lat,lon,desc,map);
+ 		}
+
 
 
 
