@@ -13,50 +13,51 @@ requirejs.config({
 	"jquery":	"//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min",
 	"leaflet":	"../../external/leaflet/leaflet",
 	"d3":		"d3.min",
+	"jqueryUI":	"../../external/jquery-ui/jquery-ui.min",
 	//"datatables":	"../../external/DataTables/datatables.min"
     }
 });
 
 // Start the main app logic.
-requirejs(['jquery','leaflet','d3', /*'datatables' ,*/ 'app/helper'],
+requirejs(['jquery','leaflet','d3', "jqueryUI", /*'datatables' ,*/ 'app/helper'],
 function ($, L, d3){
 
-	var attributionString = '&copy; <a href="http://osm.org/copyright" title="OpenStreetMap" target="_blank">OpenStreetMap</a> contributors | Tiles Courtesy of <a href="http://www.mapquest.com/" title="MapQuest" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png" width="16" height="16">';
-	var subdomainsToQuery = ['otile1','otile2','otile3','otile4'];
+	
 
 
 	var center = {lat:51.05, lng:4.20};
 	var zoom = 9;	
-	var map = L.map('map').setView([center.lat, center.lng], zoom);
 
-	var s1 = 'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png'; //map
-	var s2 = 'http://{s}.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.png'; //satellite
-			
-	var mapLayer = L.tileLayer( s1 , 
-		{ 
-			attribution: attributionString,
-			subdomains: subdomainsToQuery
-		});
-	var satelliteLayer = L.tileLayer( s2 , 
-		{ 
-			attribution: attributionString,
-    			subdomains: subdomainsToQuery
-		});
-	//map.addLayer(satelliteLayer);
-	map.addLayer(mapLayer);
+	var map = L.map('map', {
+	    center: center,
+	    zoom: zoom,
+	    
+	});
 
-	//addMarkerToMap(51.053905	, 3.722943	, 'Gent'		, map);
-	//addMarkerToMap(51.02778		, 4.48111	, 'Mechelen'	, map);
+	base = createBaseLayer();
+	base.addTo(map);
 
-	//addMarkerToMap(51.2192		, 4.4029	, 'Antwerpen'	, map);
-	//addMarkerToMap(50.9333 		, 5.3333	, 'Hasselt'		, map);
- 	//addMarkerToMap(50.85		, 2.7167	, 'Poperinge'	, map); 
+	var ALL = "All";
+
+	eva_tags = ["Eethuis", "EVA voordeel", "100% vegetarisch", "Snack", "Cateraar", "Approved by EVA", "Veganvriendelijk", 
+	"100% plantaardig", "Gastronomisch", ALL];
+	
+	var eva_layers = createLayersForTags(eva_tags);
+
+	console.log(eva_layers);
+	for (t in eva_layers){
+		eva_layers[t].addTo(map);
+	}
+	
+
+	L.control.layers(eva_layers,[]).addTo(map);
 
  	d3.json('data/restodata.json', function(data){
  		console.log(data.length);
 
  		stats1 = {};
  		stats2 = {};
+ 		console.log(data[0].tags);
 
  		for (var i=0; i<data.length; i++){
  		
@@ -64,8 +65,18 @@ function ($, L, d3){
  			var lat = data[i].lat;
  			var lon = data[i].lon;
 
- 			addMarkerToMap(lat,lon,desc,map);
 
+ 			var tags = data[i].tags;
+
+ 			tags.forEach(function(el){
+ 				addMarkerToGroup(lat,lon,desc,eva_layers[el]);
+ 			});
+ 			addMarkerToGroup(lat,lon,desc,eva_layers[ALL]);
+
+
+
+ 			//addMarkerToMap(lat,lon,desc,map);
+ 			
 
  			prov = Math.floor(parseInt(data[i].zip)/1000);
  			reg = Math.floor(parseInt(data[i].zip)/100);
@@ -74,7 +85,7 @@ function ($, L, d3){
 			incMapValue(stats2,reg,1);
  		}
 
- 		console.log(stats1);
+ 		/*console.log(stats1);
  		console.log(stats2);
 
 
@@ -87,6 +98,7 @@ function ($, L, d3){
 
  		visualize_ordlin(stats1_ren,  row_bi1[0], "Veggie locations per province");
  		visualize_ordlin(stats2_f,  row_bi2[0], "Veggie locations per region");
+		*/
 
 
 
@@ -96,8 +108,7 @@ function ($, L, d3){
 
 
 
-
- 	})
+ 	});
 
 	
 

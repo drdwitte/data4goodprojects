@@ -7,7 +7,8 @@
     		"js/app/*.js",
     		"js/lib/*.js",
     		"external/DataTables/*",
-		"external/leaflet/*		
+		"external/leaflet/*,
+		"external/jquery-ui/*		
     
 
   	]

@@ -17,6 +17,16 @@ function addMarkerToMap(lat, lon, desc, map){
 	
 }
 
+
+function addMarkerToGroup(lat, lon, desc, group){
+
+	L.marker( [lat,lon])
+	.bindPopup(desc)
+	.addTo(group);
+	
+	//console.log(group);
+}
+
 function parseLatLon(strTuple){
 
 	console.log(strTuple)
@@ -234,4 +244,41 @@ function renameKeys(dict, newKeys){
 	return new_dict;
 
 
+}
+
+function createBaseLayer(){
+
+	var attributionString = '&copy; <a href="http://osm.org/copyright" title="OpenStreetMap" target="_blank">OpenStreetMap</a> contributors | Tiles Courtesy of <a href="http://www.mapquest.com/" title="MapQuest" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png" width="16" height="16">';
+	var subdomainsToQuery = ['otile1','otile2','otile3','otile4'];
+	var s1 = 'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png'; //map
+	//var s2 = 'http://{s}.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.png'; //satellite
+	var mapLayer = L.tileLayer( s1 , 
+		{ 
+			attribution: attributionString,
+			subdomains: subdomainsToQuery
+		});
+
+	return mapLayer;
+
+
+}
+
+function createLayersForTags(tags){
+
+	
+
+	var layers = {};
+
+	for (var i=0; i<tags.length; i++){
+
+		
+
+		layers[tags[i]] = L.featureGroup();
+
+	}
+
+	return layers;
+		
+
+	
 }
