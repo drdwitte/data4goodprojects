@@ -19,14 +19,83 @@
 
     <body>
         
+        <h1> EVA search bar </h1>
 
-        <h1> EVA restaurant map </h1>
-		<!--
-		<ul>
-			<li> Layers per tag (preprocessing necessary?) </li>
+        <table>
+        	<tr>
+        		<td>
+        			Lattitude:
+        		</td>
+        		<td>
+        			<input type="text" id="lat" >
+        		</td>
+        		<td>
+        			Longitude:
+        		</td>
+        		<td>
+        			<input type="text" id="lon" >
+        		</td>
+        		<td>
+        			Radium (km):
+        		</td>
+        		<td>
+        			<input type="text" id="rad" >
+        		</td>
+        		<td>
+        			<input type="submit" id="draw_circle" value="Draw region">
+        		</td>
 
-		</ul>
-		-->
+        	</tr>
+        	<tr>
+        		<td>
+        			Street: 
+        		</td>
+        		<td>
+        			<input type="text" id="street" >
+        		</td>
+        		<td>
+        			Zip code:
+        		</td>
+        		<td>
+        			<input type="text" id="zip" >
+        		</td>
+           		<td>
+        			City:
+        		</td>
+        		<td>
+        			<input type="text" id="city" >
+        		</td>
+        		<td>
+        			<input type="submit" id="submit_searchaddress" value="Check nearby">
+        		</td>
+        	</tr>
+
+        	<tr>
+        		<td>
+        			Restaurant:
+        		</td>
+        		<td>
+        			<input type="text" id="restoname" >
+        		</td>
+        		<td>
+        			<input type="submit" id="submit_searchname" value="Find">
+        		</td>
+
+        	</tr>
+
+        	<tr>
+        		
+        		<td>
+        			<input type="submit" id="reset_map" value="Reset">
+        		</td>
+
+        	</tr>
+        	
+        </table>
+		
+
+		<h1> EVA restaurant map </h1>
+		
 		<div id="map" style="width: 1400px; height: 500px"></div>
 
         <h1> EVA BI stats </h1>
@@ -35,12 +104,7 @@
         <div id="bi2"></div>
 
 
-        <h1> EVA search bar </h1>
-		<ul>
-			<li> Find in the neighbourhoud of: 3 boxes: cityname, street, zipcode </li>
-			<li> Searchbox parameters (km) => adjust map zoom based on this!) </li>
-			<li> autocomplete functionality for Restaurant names </li>
-		</ul>
+		
 
 
     </body>
