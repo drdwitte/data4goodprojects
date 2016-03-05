@@ -68,6 +68,11 @@ function ($, L, d3){
 	 		//stats2 = {};
 	 		//console.log(data[0].tags);
 
+	 		var restonames = [];
+	 		var streetnames = {};
+	 		var citynames = {};
+
+
 	 		for (var i=0; i<data.length; i++){
 	 		
 	 			var desc = "<p> " + data[i].name + "</p>"  + "<p> " + data[i].street + " " + data[i].zip + " " + data[i].city +   "</p>";
@@ -81,6 +86,10 @@ function ($, L, d3){
 	 				addMarkerToGroup(lat,lon,desc,eva_layers[el]);
 	 			});
 	 			addMarkerToGroup(lat,lon,desc,eva_layers[ALL]);
+
+	 			restonames.push(data[i].name);
+	 			streetnames[data[i].street]=1;
+	 			citynames[data[i].city]=1;
 
 	 			/*prov = Math.floor(parseInt(data[i].zip)/1000);
 	 			reg = Math.floor(parseInt(data[i].zip)/100);
@@ -104,6 +113,21 @@ function ($, L, d3){
 	 		visualize_ordlin(stats2_f,  row_bi2[0], "Veggie locations per region");
 			*/
 
+
+
+
+			$('#restoname').autocomplete({
+      			source: restonames
+    		});
+
+    		$('#street').autocomplete({
+      			source: Object.keys(streetnames)
+    		});
+
+    		$('#city').autocomplete({
+      			source: Object.keys(citynames)
+    		});
+
 			
 
 
@@ -116,7 +140,6 @@ function ($, L, d3){
 	drawMap();
 
 	$('#draw_circle').on('click', function(){
-		alert('You clicked "Draw Region"');
 
 		var lat = parseFloat($('input#lat').val());
 		var lon = parseFloat($('input#lon').val());
@@ -135,7 +158,11 @@ function ($, L, d3){
 	});
 
 
+	$
+
 	$('#submit_searchname').on('click', function(){
+
+
 		alert('You clicked "Find"');
 	});
 
